@@ -1,18 +1,18 @@
 #!/bin/bash
 #
 # Subtract ECO layers from silk
-python3 ~/github/kicad-utils/scripts/gerber_combine/gerber_combine.py -a rp2040-launchpad-PCB-F_Silkscreen.gbr -s rp2040-launchpad-PCB-User_Eco1.gbr -o rp2040-launchpad-PCB-F_Silkscreen_n.gbr
-python3 ~/github/kicad-utils/scripts/gerber_combine/gerber_combine.py -a rp2040-launchpad-PCB-B_Silkscreen.gbr -s rp2040-launchpad-PCB-User_Eco2.gbr -o rp2040-launchpad-PCB-B_Silkscreen_n.gbr
+python3 ~/github/kicad-utils/scripts/gerber_combine/gerber_combine.py -a rp2350b-launchpad-PCB-F_Silkscreen.gbr -s rp2350b-launchpad-PCB-User_Eco1.gbr -o rp2350b-launchpad-PCB-F_Silkscreen_n.gbr
+python3 ~/github/kicad-utils/scripts/gerber_combine/gerber_combine.py -a rp2350b-launchpad-PCB-B_Silkscreen.gbr -s rp2350b-launchpad-PCB-User_Eco2.gbr -o rp2350b-launchpad-PCB-B_Silkscreen_n.gbr
 #
 # Remove old silk layers and eco layers
-rm rp2040-launchpad-PCB-F_Silkscreen.gbr rp2040-launchpad-PCB-B_Silkscreen.gbr
-rm rp2040-launchpad-PCB-User_Eco1.gbr rp2040-launchpad-PCB-User_Eco2.gbr
+rm rp2350b-launchpad-PCB-F_Silkscreen.gbr rp2350b-launchpad-PCB-B_Silkscreen.gbr
+rm rp2350b-launchpad-PCB-User_Eco1.gbr rp2350b-launchpad-PCB-User_Eco2.gbr
 #
 # Rename new silk layers
-mv rp2040-launchpad-PCB-F_Silkscreen_n.gbr rp2040-launchpad-PCB-F_Silkscreen.gbr
-mv rp2040-launchpad-PCB-B_Silkscreen_n.gbr rp2040-launchpad-PCB-B_Silkscreen.gbr
+mv rp2350b-launchpad-PCB-F_Silkscreen_n.gbr rp2350b-launchpad-PCB-F_Silkscreen.gbr
+mv rp2350b-launchpad-PCB-B_Silkscreen_n.gbr rp2350b-launchpad-PCB-B_Silkscreen.gbr
 # 
 # Remove old ZIP file and generate a new one
-rm -f rp2040-launchpad-PCB.zip
-zip rp2040-launchpad-PCB.zip *.gbr *.drl *.pos
+rm -f rp2350b-launchpad-PCB.zip
+zip rp2350b-launchpad-PCB.zip *.gbr *.drl *.pos
 

@@ -5075,12 +5075,6 @@
 		(uuid "06ed52fe-b8e3-49d5-825f-905c45f5c90f")
 	)
 	(junction
-		(at 33.02 186.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "093e9887-144c-423b-becc-c66c3fc10e69")
-	)
-	(junction
 		(at 53.34 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5357,6 +5351,12 @@
 		(uuid "9f3c5e58-4681-4a55-8d3e-ad65950a5bbe")
 	)
 	(junction
+		(at 33.02 186.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a122cbe9-ae1d-456f-8396-7a4436a4d539")
+	)
+	(junction
 		(at 210.82 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5402,7 +5402,7 @@
 		(at 33.02 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c69c6ae6-5a27-4e03-a334-d92ac4ffbd3c")
+		(uuid "c0407d07-e044-4407-a708-536af1850480")
 	)
 	(junction
 		(at 49.53 46.99)
@@ -6960,16 +6960,6 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 160.02) (xy 33.02 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82c7423c-feee-49da-b29d-4b75d04dbc59")
-	)
-	(wire
-		(pts
 			(xy 219.71 40.64) (xy 228.6 40.64)
 		)
 		(stroke
@@ -7107,16 +7097,6 @@
 			(type default)
 		)
 		(uuid "8c53ead8-78dd-4859-821a-dd830f7625ae")
-	)
-	(wire
-		(pts
-			(xy 25.4 157.48) (xy 25.4 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ca2cd87-1f01-41ab-b413-578ba0569c4b")
 	)
 	(wire
 		(pts
@@ -7720,16 +7700,6 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 147.32) (xy 33.02 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4f3df77-d223-456d-9ea5-af466666c36d")
-	)
-	(wire
-		(pts
 			(xy 182.88 109.22) (xy 182.88 116.84)
 		)
 		(stroke
@@ -7767,16 +7737,6 @@
 			(type default)
 		)
 		(uuid "c73b79f5-e76b-4d80-b6ab-e746a4e92896")
-	)
-	(wire
-		(pts
-			(xy 25.4 149.86) (xy 25.4 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c82398c7-5ebf-4fde-b2b1-94f87bc7cf26")
 	)
 	(wire
 		(pts
@@ -12854,7 +12814,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 33.02 153.67 0)
+		(at 33.02 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12862,7 +12822,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000062bf53d1")
 		(property "Reference" "C22"
-			(at 27.94 151.13 0)
+			(at 27.94 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12871,7 +12831,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 27.94 156.21 0)
+			(at 27.94 185.42 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -12880,7 +12840,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 33.02 153.67 0)
+			(at 33.02 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12889,7 +12849,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
-			(at 33.02 153.67 0)
+			(at 33.02 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12898,7 +12858,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 33.02 153.67 0)
+			(at 33.02 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12907,7 +12867,7 @@
 			)
 		)
 		(property "MANUFACTURER" "z.B. Kemet"
-			(at 33.02 153.67 0)
+			(at 33.02 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12916,7 +12876,7 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
-			(at 33.02 153.67 0)
+			(at 33.02 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17000,7 +16960,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 25.4 153.67 0)
+		(at 33.02 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17008,7 +16968,7 @@
 		(dnp no)
 		(uuid "d264a1b8-246f-4872-9041-fc4807c02ae2")
 		(property "Reference" "C21"
-			(at 20.32 151.13 0)
+			(at 27.94 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17017,7 +16977,7 @@
 			)
 		)
 		(property "Value" "4,7u"
-			(at 20.955 156.21 0)
+			(at 28.575 156.21 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -17026,7 +16986,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 25.4 153.67 0)
+			(at 33.02 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17035,7 +16995,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
-			(at 25.4 153.67 0)
+			(at 33.02 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17044,7 +17004,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 25.4 153.67 0)
+			(at 33.02 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17053,7 +17013,7 @@
 			)
 		)
 		(property "MANUFACTURER" "z.B. Kemet"
-			(at 25.4 153.67 0)
+			(at 33.02 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17062,7 +17022,7 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
-			(at 25.4 153.67 0)
+			(at 33.02 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17156,93 +17116,6 @@
 			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "R19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 33.02 182.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "db565d34-e9a6-4b35-ae7d-7a8a20791fd2")
-		(property "Reference" "C23"
-			(at 27.94 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 27.94 185.42 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 33.02 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
-			(at 33.02 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 33.02 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "z.B. Kemet"
-			(at 33.02 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "unkritisch"
-			(at 33.02 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "13444af9-4619-4f5b-abbf-f4935b49e2af")
-		)
-		(pin "2"
-			(uuid "f758e2e1-eee6-4b7e-ac1f-86a0783e3bcb")
-		)
-		(instances
-			(project "rp2350b-launchpad-PCB"
-				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
-					(reference "C23")
 					(unit 1)
 				)
 			)
