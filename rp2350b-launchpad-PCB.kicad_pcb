@@ -10864,7 +10864,7 @@
 			)
 		)
 	)
-	(footprint "rp2350-launchpad:DIPT-1188E"
+	(footprint "rp2350b-launchpad-PCB:DIPT-1188E"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000622e63d9")
 		(at 132.722 148.494)
@@ -10892,7 +10892,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:DIPT-1188E"
+		(property "Footprint" "rp2350b-launchpad-PCB:DIPT-1188E"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12108,7 +12108,7 @@
 			)
 		)
 	)
-	(footprint "rp2350-launchpad:QFN40P700X700X90-57N"
+	(footprint "rp2350b-launchpad-PCB:QFN40P700X700X90-57N"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000622f7d64")
 		(at 151.638 82.55)
@@ -12135,7 +12135,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:QFN40P700X700X90-57N"
+		(property "Footprint" "rp2350b-launchpad-PCB:QFN40P700X700X90-57N"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16088,7 +16088,7 @@
 			(uuid "80094b70-85ab-4ff6-934b-60d5ee65023a")
 		)
 	)
-	(footprint "rp2350-launchpad:WS2812B-2020"
+	(footprint "rp2350b-launchpad-PCB:WS2812B-2020"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00006313c255")
 		(at 142.24 139.446 90)
@@ -16116,7 +16116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16213,7 +16213,7 @@
 			(uuid "f1492603-4796-430e-9a30-2d9c76ec1167")
 		)
 	)
-	(footprint "rp2350-launchpad:WS2812B-2020"
+	(footprint "rp2350b-launchpad-PCB:WS2812B-2020"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00006313c25d")
 		(at 144.78 139.446 90)
@@ -16241,7 +16241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16338,7 +16338,7 @@
 			(uuid "b7b55541-e396-4a11-b0b3-de6ebd54cd76")
 		)
 	)
-	(footprint "rp2350-launchpad:WS2812B-2020"
+	(footprint "rp2350b-launchpad-PCB:WS2812B-2020"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00006313c265")
 		(at 147.32 139.446 90)
@@ -16366,7 +16366,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16463,7 +16463,7 @@
 			(uuid "708d5d33-5de7-4245-8c40-8561ac1a82be")
 		)
 	)
-	(footprint "rp2350-launchpad:WS2812B-2020"
+	(footprint "rp2350b-launchpad-PCB:WS2812B-2020"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00006313c26d")
 		(at 149.86 139.446 90)
@@ -16491,7 +16491,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16588,7 +16588,7 @@
 			(uuid "c71571c6-a585-4dcc-a976-902f91c4aa08")
 		)
 	)
-	(footprint "rp2350-launchpad:WS2812B-2020"
+	(footprint "rp2350b-launchpad-PCB:WS2812B-2020"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00006313c275")
 		(at 152.4 139.446 90)
@@ -16616,7 +16616,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16713,7 +16713,7 @@
 			(uuid "de387b69-dc22-4cd7-bb1e-0d3ee1f7e034")
 		)
 	)
-	(footprint "rp2350-launchpad:WS2812B-2020"
+	(footprint "rp2350b-launchpad-PCB:WS2812B-2020"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00006313c27d")
 		(at 154.94 139.446 90)
@@ -16741,7 +16741,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16838,7 +16838,7 @@
 			(uuid "04d8cdf4-b0bb-453f-b596-6955010727bf")
 		)
 	)
-	(footprint "rp2350-launchpad:WS2812B-2020"
+	(footprint "rp2350b-launchpad-PCB:WS2812B-2020"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00006313c285")
 		(at 157.48 139.446 90)
@@ -16866,7 +16866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16963,7 +16963,7 @@
 			(uuid "eac15f42-299c-4bea-b5ef-77fa4984c436")
 		)
 	)
-	(footprint "rp2350-launchpad:WS2812B-2020"
+	(footprint "rp2350b-launchpad-PCB:WS2812B-2020"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00006313c542")
 		(at 139.7 139.446 90)
@@ -16991,7 +16991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17088,7 +17088,7 @@
 			(uuid "45c81350-c89c-463e-a90e-8be8be5f11ba")
 		)
 	)
-	(footprint "rp2350-launchpad:KMR2-Switch"
+	(footprint "rp2350b-launchpad-PCB:KMR2-Switch"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00006314f893")
 		(at 152.424 131.191 -90)
@@ -17116,7 +17116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:KMR2-Switch"
+		(property "Footprint" "rp2350b-launchpad-PCB:KMR2-Switch"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17848,7 +17848,7 @@
 			)
 		)
 	)
-	(footprint "rp2350-launchpad:PCM13SMTR"
+	(footprint "rp2350b-launchpad-PCB:PCM13SMTR"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-000063a21304")
 		(at 112.649 83.566 -90)
@@ -17875,7 +17875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:PCM13SMTR"
+		(property "Footprint" "rp2350b-launchpad-PCB:PCM13SMTR"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -22911,7 +22911,7 @@
 			)
 		)
 	)
-	(footprint "rp2350-launchpad:USB-C-GCT-USB4105"
+	(footprint "rp2350b-launchpad-PCB:USB-C-GCT-USB4105"
 		(layer "F.Cu")
 		(uuid "6b28a40b-8cef-4872-b649-6aa4a025f0c4")
 		(at 122.555 145.355)
@@ -22938,7 +22938,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:USB-C-GCT-USB4105"
+		(property "Footprint" "rp2350b-launchpad-PCB:USB-C-GCT-USB4105"
 			(at -16.4 -8.67 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26240,7 +26240,7 @@
 			)
 		)
 	)
-	(footprint "rp2350-launchpad:DIPT-1188E"
+	(footprint "rp2350b-launchpad-PCB:DIPT-1188E"
 		(layer "F.Cu")
 		(uuid "a5d3431a-20ae-496f-8857-b04ae4452bdd")
 		(at 113.126 99.829 -90)
@@ -26268,7 +26268,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:DIPT-1188E"
+		(property "Footprint" "rp2350b-launchpad-PCB:DIPT-1188E"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -27094,7 +27094,7 @@
 			)
 		)
 	)
-	(footprint "rp2350-launchpad:DIPT-1188E"
+	(footprint "rp2350b-launchpad-PCB:DIPT-1188E"
 		(layer "F.Cu")
 		(uuid "bb0531b8-174a-44f2-becc-6df491686e4a")
 		(at 166.24 99.88 90)
@@ -27122,7 +27122,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:DIPT-1188E"
+		(property "Footprint" "rp2350b-launchpad-PCB:DIPT-1188E"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -28650,7 +28650,7 @@
 			)
 		)
 	)
-	(footprint "rp2350-launchpad:USB-C-GCT-USB4105"
+	(footprint "rp2350b-launchpad-PCB:USB-C-GCT-USB4105"
 		(layer "F.Cu")
 		(uuid "dd7911a3-ee00-4805-9ea4-d3ef61038869")
 		(at 122.557 73.014 180)
@@ -28677,7 +28677,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:USB-C-GCT-USB4105"
+		(property "Footprint" "rp2350b-launchpad-PCB:USB-C-GCT-USB4105"
 			(at -16.4 -8.67 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31125,7 +31125,7 @@
 			)
 		)
 	)
-	(footprint "rp2350-launchpad:JST-S2B-PH-KL"
+	(footprint "rp2350b-launchpad-PCB:JST-S2B-PH-KL"
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-00006220d165")
 		(at 131.127 84.419 -90)
@@ -31154,7 +31154,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:JST-S2B-PH-KL"
+		(property "Footprint" "rp2350b-launchpad-PCB:JST-S2B-PH-KL"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)

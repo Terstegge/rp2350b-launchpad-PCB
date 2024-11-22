@@ -2355,7 +2355,7 @@
 				)
 			)
 		)
-		(symbol "rp2350b-launchpad-PCB:25Q32"
+		(symbol "rp2350b-launchpad-PCB:25Q64"
 			(pin_names
 				(offset 1.016)
 			)
@@ -2370,7 +2370,7 @@
 					)
 				)
 			)
-			(property "Value" "25Q32"
+			(property "Value" "25Q64"
 				(at -0.635 -10.16 0)
 				(effects
 					(font
@@ -2379,7 +2379,7 @@
 				)
 			)
 			(property "Footprint" "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm"
-				(at 2.54 0 0)
+				(at 2.54 12.954 0)
 				(effects
 					(font
 						(size 1.524 1.524)
@@ -2387,8 +2387,8 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.digikey.de/de/products/detail/winbond-electronics/W25Q32JWZPIQ/8568189"
-				(at 2.54 0 0)
+			(property "Datasheet" "https://www.digikey.de/de/products/detail/winbond-electronics/W25Q64JWZPIQ/11584719"
+				(at 4.318 -13.462 0)
 				(effects
 					(font
 						(size 1.524 1.524)
@@ -2405,7 +2405,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "25Q32_0_1"
+			(symbol "25Q64_0_1"
 				(rectangle
 					(start -8.89 8.89)
 					(end 8.89 -8.89)
@@ -2418,7 +2418,7 @@
 					)
 				)
 			)
-			(symbol "25Q32_1_1"
+			(symbol "25Q64_1_1"
 				(pin input inverted
 					(at -13.97 6.35 0)
 					(length 5.08)
@@ -5153,12 +5153,6 @@
 		(uuid "2b534489-20c7-424b-931d-724640c39fff")
 	)
 	(junction
-		(at 33.02 157.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2d258baa-b345-4edf-9196-f1d3ba66089f")
-	)
-	(junction
 		(at 33.02 176.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5403,6 +5397,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bcc04aa1-5d1c-4cf6-9bce-80dfde048fb1")
+	)
+	(junction
+		(at 33.02 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c69c6ae6-5a27-4e03-a334-d92ac4ffbd3c")
 	)
 	(junction
 		(at 49.53 46.99)
@@ -10702,7 +10702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:DIPT-1188E"
+		(property "Footprint" "rp2350b-launchpad-PCB:DIPT-1188E"
 			(at 115.57 186.69 0)
 			(effects
 				(font
@@ -10770,7 +10770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:KMR2-Switch"
+		(property "Footprint" "rp2350b-launchpad-PCB:KMR2-Switch"
 			(at 137.16 186.69 0)
 			(effects
 				(font
@@ -13016,95 +13016,6 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2350b-launchpad-PCB:25Q32")
-		(at 46.99 153.67 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000062bf5405")
-		(property "Reference" "U6"
-			(at 39.37 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "25Q64"
-			(at 47.625 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm"
-			(at 44.45 153.67 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/winbond-electronics/W25Q32JWZPIQ/8568189"
-			(at 44.45 153.67 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 46.99 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "81113708-f7a3-4f76-bf7e-081c72b75d46")
-		)
-		(pin "2"
-			(uuid "5601da15-55d9-4f82-bff3-efb65d514360")
-		)
-		(pin "3"
-			(uuid "0ad5c6b2-ae5a-4b97-8d62-a82435a6ead7")
-		)
-		(pin "4"
-			(uuid "7abd80ce-faab-415a-b968-5fb44bf45c8f")
-		)
-		(pin "5"
-			(uuid "fad8a088-89f8-4135-9916-bd9521240687")
-		)
-		(pin "6"
-			(uuid "7493066a-add7-4f36-80fb-b7e3ef599eb8")
-		)
-		(pin "7"
-			(uuid "354a135f-6be3-4f1a-8c09-d749ef2ea78e")
-		)
-		(pin "8"
-			(uuid "fb7b26f1-7456-46a4-a214-14d89dc5753c")
-		)
-		(pin "9"
-			(uuid "445e8f1a-df7a-47ce-8e6b-53abb6c17311")
-		)
-		(instances
-			(project ""
-				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
-					(reference "U6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 58.42 86.36 90)
 		(unit 1)
@@ -13532,7 +13443,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 165.1 139.7 0)
 			(effects
 				(font
@@ -13608,7 +13519,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 180.34 139.7 0)
 			(effects
 				(font
@@ -13684,7 +13595,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 195.58 139.7 0)
 			(effects
 				(font
@@ -13760,7 +13671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 210.82 139.7 0)
 			(effects
 				(font
@@ -13836,7 +13747,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 226.06 139.7 0)
 			(effects
 				(font
@@ -13912,7 +13823,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 241.3 139.7 0)
 			(effects
 				(font
@@ -13988,7 +13899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 256.54 139.7 0)
 			(effects
 				(font
@@ -14064,7 +13975,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:WS2812B-2020"
+		(property "Footprint" "rp2350b-launchpad-PCB:WS2812B-2020"
 			(at 271.78 139.7 0)
 			(effects
 				(font
@@ -15559,7 +15470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:DIPT-1188E"
+		(property "Footprint" "rp2350b-launchpad-PCB:DIPT-1188E"
 			(at 175.26 116.84 0)
 			(effects
 				(font
@@ -15596,6 +15507,95 @@
 			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "S2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "rp2350b-launchpad-PCB:25Q64")
+		(at 46.99 153.67 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9ed1957b-f4ed-4177-9e5d-0202ada0f4f7")
+		(property "Reference" "U6"
+			(at 39.37 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "25Q64"
+			(at 41.91 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm"
+			(at 44.45 140.716 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.digikey.de/de/products/detail/winbond-electronics/W25Q64JWZPIQ/11584719"
+			(at 42.672 167.132 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 46.99 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "d4de467a-c9d6-4e6a-97b4-787281aee28c")
+		)
+		(pin "1"
+			(uuid "88857ef4-a9fa-409f-bb07-46a5cedac07d")
+		)
+		(pin "8"
+			(uuid "9f157e45-3201-49bf-a2db-c4fb6777c399")
+		)
+		(pin "9"
+			(uuid "e106ff13-6772-46a3-88ef-4c1272cbad02")
+		)
+		(pin "6"
+			(uuid "e31d34c5-cd78-4aeb-a5d4-a3a41663b1da")
+		)
+		(pin "5"
+			(uuid "74fe0975-018d-4311-89c0-173641400fdb")
+		)
+		(pin "2"
+			(uuid "c90f1ef6-be63-4fd4-b560-848e777e8842")
+		)
+		(pin "4"
+			(uuid "ea6787f0-0e8a-4002-aaf9-1114d3724f0f")
+		)
+		(pin "3"
+			(uuid "2e2f7fe2-d8d3-4db1-accc-3666a1575fe2")
+		)
+		(instances
+			(project ""
+				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -16198,7 +16198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:DIPT-1188E"
+		(property "Footprint" "rp2350b-launchpad-PCB:DIPT-1188E"
 			(at 175.26 109.22 0)
 			(effects
 				(font
@@ -16923,7 +16923,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:USB-C-GCT-USB4105"
+		(property "Footprint" "rp2350b-launchpad-PCB:USB-C-GCT-USB4105"
 			(at 45.72 106.68 0)
 			(effects
 				(font
