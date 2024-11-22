@@ -4910,7 +4910,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "rp2350b-launchpad-PCB:PCM13SMTR"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5122,7 +5122,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2040-launchpad-PCB:USB-C-GCT-USB4105"
+		(property "Footprint" "rp2350b-launchpad-PCB:USB-C-GCT-USB4105"
 			(at 2.54 8.89 0)
 			(effects
 				(font

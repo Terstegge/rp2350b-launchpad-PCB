@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "rp2040-launchpad-PCB")(type "KiCad")(uri "${KIPRJMOD}/rp2040-launchpad-PCB.kicad_sym")(options "")(descr ""))
+  (lib (name "rp2350b-launchpad-PCB")(type "KiCad")(uri "${KIPRJMOD}/rp2350b-launchpad-PCB.kicad_sym")(options "")(descr ""))
 )

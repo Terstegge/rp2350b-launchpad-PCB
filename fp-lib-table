@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "rp2350-launchpad")(type "KiCad")(uri "${KIPRJMOD}/rp2040-launchpad-PCB.pretty")(options "")(descr ""))
+  (lib (name "rp2350b-launchpad-PCB")(type "KiCad")(uri "${KIPRJMOD}/rp2350b-launchpad-PCB.pretty")(options "")(descr ""))
 )

@@ -14244,7 +14244,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/00000000-0000-0000-0000-00006229c313")
 		(sheetname "Stammblatt")
-		(sheetfile "rp2040-launchpad-PCB.kicad_sch")
+		(sheetfile "rp2350b-launchpad-PCB.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 -1.33)
@@ -15681,7 +15681,7 @@
 			(uuid "155b0b7c-70b4-4a26-a550-bac13cab0aa4")
 		)
 	)
-	(footprint "rp2040-launchpad-PCB:Lauchpad-Energia-Logo"
+	(footprint "rp2350b-launchpad-PCB:Lauchpad-Energia-Logo"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000623941df")
 		(at 146.653035 139.382203)
@@ -15888,7 +15888,7 @@
 			(uuid "644ae9fc-3c8e-4089-866e-a12bf371c3e9")
 		)
 	)
-	(footprint "rp2040-launchpad-PCB:Lauchpad-Logo"
+	(footprint "rp2350b-launchpad-PCB:Lauchpad-Logo"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-000062395c52")
 		(at 151.384 82.804)
@@ -17322,7 +17322,7 @@
 			(uuid "d88958ac-68cd-4955-a63f-0eaa329dec86")
 		)
 	)
-	(footprint "rp2040-launchpad-PCB:raspberry"
+	(footprint "rp2350b-launchpad-PCB:raspberry"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00006362784c")
 		(at 152.4 101.6)
@@ -31341,7 +31341,7 @@
 			(uuid "4dd90bab-009d-4b3f-bcca-02cc1201fcca")
 		)
 	)
-	(footprint "rp2040-launchpad-PCB:Lauchpad-Energia-Logo"
+	(footprint "rp2350b-launchpad-PCB:Lauchpad-Energia-Logo"
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-000063157aa7")
 		(at 138.080966 133.286203 180)
@@ -31550,7 +31550,7 @@
 			(uuid "e502d1d5-04b0-4d4b-b5c3-8c52d09668e7")
 		)
 	)
-	(footprint "rp2040-launchpad-PCB:raspberry"
+	(footprint "rp2350b-launchpad-PCB:raspberry"
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-000063627d91")
 		(at 132.715 109.347 180)

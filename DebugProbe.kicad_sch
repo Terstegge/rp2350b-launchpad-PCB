@@ -1503,7 +1503,7 @@
 				)
 			)
 		)
-		(symbol "rp2040-launchpad-PCB:+3V3_DBG"
+		(symbol "rp2350b-launchpad-PCB:+3V3_DBG"
 			(power)
 			(pin_names
 				(offset 0)
@@ -1623,7 +1623,7 @@
 				)
 			)
 		)
-		(symbol "rp2040-launchpad-PCB:25Q32"
+		(symbol "rp2350b-launchpad-PCB:25Q32"
 			(pin_names
 				(offset 1.016)
 			)
@@ -1851,7 +1851,7 @@
 				)
 			)
 		)
-		(symbol "rp2040-launchpad-PCB:GND_DBG"
+		(symbol "rp2350b-launchpad-PCB:GND_DBG"
 			(power)
 			(pin_names
 				(offset 0)
@@ -1947,7 +1947,7 @@
 				)
 			)
 		)
-		(symbol "rp2040-launchpad-PCB:Jumper"
+		(symbol "rp2350b-launchpad-PCB:Jumper"
 			(pin_names
 				(offset 1.016)
 			)
@@ -2071,7 +2071,7 @@
 				)
 			)
 		)
-		(symbol "rp2040-launchpad-PCB:RP2040"
+		(symbol "rp2350b-launchpad-PCB:RP2040"
 			(pin_names
 				(offset 1.016)
 			)
@@ -3215,7 +3215,7 @@
 				)
 			)
 		)
-		(symbol "rp2040-launchpad-PCB:USB-C-Socket"
+		(symbol "rp2350b-launchpad-PCB:USB-C-Socket"
 			(pin_names
 				(offset 1.016)
 			)
@@ -3238,7 +3238,7 @@
 					)
 				)
 			)
-			(property "Footprint" "rp2040-launchpad-PCB:USB-C-GCT-USB4105"
+			(property "Footprint" "rp2350b-launchpad-PCB:USB-C-GCT-USB4105"
 				(at 2.54 8.89 0)
 				(effects
 					(font
@@ -5845,7 +5845,7 @@
 		(uuid "d71163a9-1b9d-479d-ba71-0b2601fe3010")
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:25Q32")
+		(lib_id "rp2350b-launchpad-PCB:25Q32")
 		(at 93.98 135.89 0)
 		(mirror y)
 		(unit 1)
@@ -6549,7 +6549,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:RP2040")
+		(lib_id "rp2350b-launchpad-PCB:RP2040")
 		(at 139.7 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7121,7 +7121,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:Jumper")
+		(lib_id "rp2350b-launchpad-PCB:Jumper")
 		(at 102.87 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7188,7 +7188,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:+3V3_DBG")
+		(lib_id "rp2350b-launchpad-PCB:+3V3_DBG")
 		(at 196.85 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7438,7 +7438,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:GND_DBG")
+		(lib_id "rp2350b-launchpad-PCB:GND_DBG")
 		(at 223.52 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7808,7 +7808,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:+3V3_DBG")
+		(lib_id "rp2350b-launchpad-PCB:+3V3_DBG")
 		(at 80.01 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8222,7 +8222,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:GND_DBG")
+		(lib_id "rp2350b-launchpad-PCB:GND_DBG")
 		(at 88.9 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8363,7 +8363,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:GND_DBG")
+		(lib_id "rp2350b-launchpad-PCB:GND_DBG")
 		(at 80.01 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8504,7 +8504,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:GND_DBG")
+		(lib_id "rp2350b-launchpad-PCB:GND_DBG")
 		(at 134.62 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8569,7 +8569,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:GND_DBG")
+		(lib_id "rp2350b-launchpad-PCB:GND_DBG")
 		(at 120.65 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8884,7 +8884,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:GND_DBG")
+		(lib_id "rp2350b-launchpad-PCB:GND_DBG")
 		(at 80.01 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9123,7 +9123,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:+3V3_DBG")
+		(lib_id "rp2350b-launchpad-PCB:+3V3_DBG")
 		(at 143.51 151.13 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9263,7 +9263,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:GND_DBG")
+		(lib_id "rp2350b-launchpad-PCB:GND_DBG")
 		(at 99.06 104.14 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9328,7 +9328,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:GND_DBG")
+		(lib_id "rp2350b-launchpad-PCB:GND_DBG")
 		(at 212.09 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9394,7 +9394,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:+3V3_DBG")
+		(lib_id "rp2350b-launchpad-PCB:+3V3_DBG")
 		(at 196.85 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9460,7 +9460,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:+3V3_DBG")
+		(lib_id "rp2350b-launchpad-PCB:+3V3_DBG")
 		(at 113.03 121.92 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9526,7 +9526,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:+3V3_DBG")
+		(lib_id "rp2350b-launchpad-PCB:+3V3_DBG")
 		(at 119.38 151.13 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9591,7 +9591,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:GND_DBG")
+		(lib_id "rp2350b-launchpad-PCB:GND_DBG")
 		(at 196.85 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9723,7 +9723,7 @@
 			(uuid "09bffe46-d3e1-4137-8905-f706a3801041")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-00006225139f"
 					(reference "R6")
 					(unit 1)
@@ -9732,7 +9732,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:GND_DBG")
+		(lib_id "rp2350b-launchpad-PCB:GND_DBG")
 		(at 59.69 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9788,7 +9788,7 @@
 			(uuid "2291d2d4-3aa1-4871-a078-4e56fa962d6b")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-00006225139f"
 					(reference "#PWR010")
 					(unit 1)
@@ -9864,7 +9864,7 @@
 			(uuid "8184f4e4-81dd-49ac-8c78-cd3338f31e14")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-00006225139f"
 					(reference "R7")
 					(unit 1)
@@ -9940,7 +9940,7 @@
 			(uuid "8750b90b-805e-4b93-850c-f6965ff6ff64")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-00006225139f"
 					(reference "R8")
 					(unit 1)
@@ -9949,7 +9949,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:USB-C-Socket")
+		(lib_id "rp2350b-launchpad-PCB:USB-C-Socket")
 		(at 57.15 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)

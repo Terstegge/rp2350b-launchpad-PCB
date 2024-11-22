@@ -458,7 +458,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "rp2040-launchpad-PCB.kicad_pro",
+    "filename": "rp2350b-launchpad-PCB.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -492,7 +492,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "rp2040-launchpad-PCB.net",
+      "netlist": "rp2350b-launchpad-PCB.net",
       "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
@@ -636,7 +636,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "./rp2040-launchpad.pdf",
+    "plot_directory": "./rp2350b-launchpad.pdf",
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",

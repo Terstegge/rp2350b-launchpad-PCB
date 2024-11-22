@@ -2355,7 +2355,7 @@
 				)
 			)
 		)
-		(symbol "rp2040-launchpad-PCB:25Q32"
+		(symbol "rp2350b-launchpad-PCB:25Q32"
 			(pin_names
 				(offset 1.016)
 			)
@@ -2583,7 +2583,7 @@
 				)
 			)
 		)
-		(symbol "rp2040-launchpad-PCB:APS6404L-3SQR"
+		(symbol "rp2350b-launchpad-PCB:APS6404L-3SQR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2826,7 +2826,7 @@
 				)
 			)
 		)
-		(symbol "rp2040-launchpad-PCB:Jumper"
+		(symbol "rp2350b-launchpad-PCB:Jumper"
 			(pin_names
 				(offset 1.016)
 			)
@@ -2950,7 +2950,7 @@
 				)
 			)
 		)
-		(symbol "rp2040-launchpad-PCB:RP2350_80QFN"
+		(symbol "rp2350b-launchpad-PCB:RP2350_80QFN"
 			(pin_names
 				(offset 1.016)
 			)
@@ -4496,7 +4496,7 @@
 				)
 			)
 		)
-		(symbol "rp2040-launchpad-PCB:USB-C-Socket"
+		(symbol "rp2350b-launchpad-PCB:USB-C-Socket"
 			(pin_names
 				(offset 1.016)
 			)
@@ -4519,7 +4519,7 @@
 					)
 				)
 			)
-			(property "Footprint" "rp2040-launchpad-PCB:USB-C-GCT-USB4105"
+			(property "Footprint" "rp2350b-launchpad-PCB:USB-C-GCT-USB4105"
 				(at 2.54 8.89 0)
 				(effects
 					(font
@@ -4833,7 +4833,7 @@
 				)
 			)
 		)
-		(symbol "rp2040-launchpad-PCB:WS2812B-2020"
+		(symbol "rp2350b-launchpad-PCB:WS2812B-2020"
 			(pin_names
 				(offset 1.016)
 			)
@@ -13016,7 +13016,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:25Q32")
+		(lib_id "rp2350b-launchpad-PCB:25Q32")
 		(at 46.99 153.67 0)
 		(mirror y)
 		(unit 1)
@@ -13506,7 +13506,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:WS2812B-2020")
+		(lib_id "rp2350b-launchpad-PCB:WS2812B-2020")
 		(at 165.1 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13581,7 +13581,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:WS2812B-2020")
+		(lib_id "rp2350b-launchpad-PCB:WS2812B-2020")
 		(at 180.34 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13657,7 +13657,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:WS2812B-2020")
+		(lib_id "rp2350b-launchpad-PCB:WS2812B-2020")
 		(at 195.58 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13733,7 +13733,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:WS2812B-2020")
+		(lib_id "rp2350b-launchpad-PCB:WS2812B-2020")
 		(at 210.82 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13809,7 +13809,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:WS2812B-2020")
+		(lib_id "rp2350b-launchpad-PCB:WS2812B-2020")
 		(at 226.06 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13885,7 +13885,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:WS2812B-2020")
+		(lib_id "rp2350b-launchpad-PCB:WS2812B-2020")
 		(at 241.3 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13961,7 +13961,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:WS2812B-2020")
+		(lib_id "rp2350b-launchpad-PCB:WS2812B-2020")
 		(at 256.54 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14037,7 +14037,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:WS2812B-2020")
+		(lib_id "rp2350b-launchpad-PCB:WS2812B-2020")
 		(at 271.78 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14169,7 +14169,7 @@
 			(uuid "784000b3-4938-4a72-b258-8ca66f8fac7f")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "#PWR040")
 					(unit 1)
@@ -14236,7 +14236,7 @@
 			(uuid "306ebe24-dea2-4531-aa6d-7502e86c72da")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "R29")
 					(unit 1)
@@ -14301,7 +14301,7 @@
 			(uuid "4caceb6d-be7d-49b8-b5a9-06bafc34d4f5")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "#PWR046")
 					(unit 1)
@@ -14368,7 +14368,7 @@
 			(uuid "d027c512-47ad-447a-a2a2-1fcd6c664e2e")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "R33")
 					(unit 1)
@@ -14433,7 +14433,7 @@
 			(uuid "8e505f72-7c46-4d19-a9f9-e8dfca36224c")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "#PWR043")
 					(unit 1)
@@ -14500,7 +14500,7 @@
 			(uuid "1b34683d-87d9-4942-98de-ca9d1d2949cb")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "R32")
 					(unit 1)
@@ -14576,7 +14576,7 @@
 			(uuid "0c6349c8-4f23-40bf-8289-003ff892a4bb")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "R17")
 					(unit 1)
@@ -14645,7 +14645,7 @@
 			(uuid "11065d49-6a8b-48df-901c-daf0f194d5c9")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "L2")
 					(unit 1)
@@ -14714,7 +14714,7 @@
 			(uuid "bd210c7d-9e25-41da-8276-3fd8d40cce0e")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "C24")
 					(unit 1)
@@ -14779,7 +14779,7 @@
 			(uuid "a1c19bc0-96fc-4058-ba40-ada64f26785d")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "#PWR034")
 					(unit 1)
@@ -14848,7 +14848,7 @@
 			(uuid "551eee14-4419-4ad3-9d98-7c8f3167ac62")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "C26")
 					(unit 1)
@@ -14913,7 +14913,7 @@
 			(uuid "57e29c4c-7f96-47df-81e0-b4eff64c3ef1")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "#PWR035")
 					(unit 1)
@@ -14980,7 +14980,7 @@
 			(uuid "0962d5e7-976a-4602-bd9f-2be8b3599213")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "R30")
 					(unit 1)
@@ -15049,7 +15049,7 @@
 			(uuid "9f6d27e7-b985-4151-af8b-4f7125a92678")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "C29")
 					(unit 1)
@@ -15246,7 +15246,7 @@
 			(uuid "92cf0c7a-662f-44b2-8752-af75d04d0117")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "#PWR038")
 					(unit 1)
@@ -15322,7 +15322,7 @@
 			(uuid "0a745678-3b9a-4063-8043-d68d118d98b4")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "R20")
 					(unit 1)
@@ -15388,7 +15388,7 @@
 			(uuid "7766d1cd-8a3a-4f81-bb6a-d050c2fc5b32")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "#PWR026")
 					(unit 1)
@@ -15525,7 +15525,7 @@
 			(uuid "c2eaa4a5-0611-44b8-8453-5551c2741696")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "C30")
 					(unit 1)
@@ -15593,7 +15593,7 @@
 			(uuid "4b4da118-2f22-40c7-af12-c785d8256a63")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "S2")
 					(unit 1)
@@ -15662,7 +15662,7 @@
 			(uuid "229d7fac-046a-4a57-90ae-4d1173e5db70")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "R18")
 					(unit 1)
@@ -15727,7 +15727,7 @@
 			(uuid "2c46355e-8dd6-494c-b390-902849022cae")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "#PWR031")
 					(unit 1)
@@ -15792,7 +15792,7 @@
 			(uuid "fb851c46-3d9f-464b-a7e9-3b9824127f14")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "#PWR033")
 					(unit 1)
@@ -15857,7 +15857,7 @@
 			(uuid "b1e99a9a-e144-46b2-be13-aaaa6cc46672")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "#PWR030")
 					(unit 1)
@@ -15866,7 +15866,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:RP2350_80QFN")
+		(lib_id "rp2350b-launchpad-PCB:RP2350_80QFN")
 		(at 97.79 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16301,7 +16301,7 @@
 			(uuid "81fdc2f3-c866-49ad-8219-59303fd7bfdb")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "C25")
 					(unit 1)
@@ -16366,7 +16366,7 @@
 			(uuid "4dce5d6e-d009-41e4-8717-439ae8303feb")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "#PWR041")
 					(unit 1)
@@ -16435,7 +16435,7 @@
 			(uuid "7f171dd7-20d1-4314-ad7f-11ec1fe9d725")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "C31")
 					(unit 1)
@@ -16502,7 +16502,7 @@
 			(uuid "a57594aa-c230-45e3-a752-884e1a68b23d")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "R28")
 					(unit 1)
@@ -16511,7 +16511,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:APS6404L-3SQR")
+		(lib_id "rp2350b-launchpad-PCB:APS6404L-3SQR")
 		(at 48.26 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16666,7 +16666,7 @@
 			(uuid "596e09a4-6dfd-4190-abd7-1511e48710f5")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "R26")
 					(unit 1)
@@ -16731,7 +16731,7 @@
 			(uuid "ff49c688-cc5d-4ef7-9ca8-4b01988c14ff")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "#PWR042")
 					(unit 1)
@@ -16740,7 +16740,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:Jumper")
+		(lib_id "rp2350b-launchpad-PCB:Jumper")
 		(at 154.94 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16890,7 +16890,7 @@
 			(uuid "dc147c45-66ad-4040-abd8-603c7019a40d")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "C39")
 					(unit 1)
@@ -16899,7 +16899,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:USB-C-Socket")
+		(lib_id "rp2350b-launchpad-PCB:USB-C-Socket")
 		(at 43.18 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16990,7 +16990,7 @@
 			(uuid "878b3fd7-1f93-41c1-9255-0081777341fe")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "USB2")
 					(unit 1)
@@ -17077,7 +17077,7 @@
 			(uuid "4e50277f-49ae-4283-a4de-514f24a7b8ca")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "C21")
 					(unit 1)
@@ -17153,7 +17153,7 @@
 			(uuid "5a64e47b-8dcc-4775-8964-3215d8df71f2")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "R19")
 					(unit 1)
@@ -17240,7 +17240,7 @@
 			(uuid "f758e2e1-eee6-4b7e-ac1f-86a0783e3bcb")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "C23")
 					(unit 1)
@@ -17327,7 +17327,7 @@
 			(uuid "4b9101bb-f236-45d1-9275-a167dce7a01d")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "C41")
 					(unit 1)
@@ -17415,7 +17415,7 @@
 			(uuid "7945e19d-3c75-4012-acaa-b3299f08625b")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "C40")
 					(unit 1)
@@ -17480,7 +17480,7 @@
 			(uuid "37e88658-5176-4467-a1a9-866bbadd669c")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6/00000000-0000-0000-0000-0000626cc112"
 					(reference "#PWR036")
 					(unit 1)

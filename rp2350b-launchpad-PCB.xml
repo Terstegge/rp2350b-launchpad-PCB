@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>/home/andreas/git/PCB/lp2040-launchpad-PCB/lp2040-launchpad-PCB.sch</source>
+    <source>/home/andreas/git/PCB/rp2350b-launchpad-PCB/rp2350b-launchpad-PCB.sch</source>
     <date>Mo 21 Mär 2022 15:18:01 CET</date>
     <tool>Eeschema 5.1.5+dfsg1-2build2</tool>
     <sheet number="1" name="/" tstamps="/">
@@ -10,7 +10,7 @@
         <company>ISS Intelligent Sensor Solutions</company>
         <rev>v0.1</rev>
         <date>2022-02-06</date>
-        <source>lp2040-launchpad-PCB.sch</source>
+        <source>rp2350b-launchpad-PCB.sch</source>
         <comment number="1" value="Created by A. Terstegge"/>
         <comment number="2" value="A TI-style Launchpad with RP2040 MCU"/>
         <comment number="3" value=""/>
@@ -68,7 +68,7 @@
     </comp>
     <comp ref="U2">
       <value>RP2040</value>
-      <footprint>lp2040-launchpad-PCB:QFN40P700X700X90-57N</footprint>
+      <footprint>rp2350b-launchpad-PCB:QFN40P700X700X90-57N</footprint>
       <datasheet>https://www.digikey.de/de/products/detail/raspberry-pi/SC0914-13/14306010</datasheet>
       <fields>
         <field name="MANUFACTURER">Raspberry Pi</field>
@@ -76,7 +76,7 @@
         <field name="PARTREV">1.6.1</field>
         <field name="STANDARD">möglicht neuester Release</field>
       </fields>
-      <libsource lib="lp2040-launchpad-PCB" part="RP2040" description=""/>
+      <libsource lib="rp2350b-launchpad-PCB" part="RP2040" description=""/>
       <sheetpath names="/Target/" tstamps="/626CC112/"/>
       <tstamp>626F138A</tstamp>
     </comp>
@@ -94,7 +94,7 @@
     </comp>
     <comp ref="SW1">
       <value>RESET</value>
-      <footprint>lp2040-launchpad-PCB:DIPT-1188E</footprint>
+      <footprint>rp2350b-launchpad-PCB:DIPT-1188E</footprint>
       <datasheet>https://www.mouser.de/ProductDetail/Diptronics/1188E-1W3-V-T-R?qs=MLItCLRbWsziiBJeSO1fUw%3D%3D</datasheet>
       <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
       <sheetpath names="/Target/" tstamps="/626CC112/"/>
@@ -102,7 +102,7 @@
     </comp>
     <comp ref="SW2">
       <value>PRGM</value>
-      <footprint>lp2040-launchpad-PCB:KMR2-Switch</footprint>
+      <footprint>rp2350b-launchpad-PCB:KMR2-Switch</footprint>
       <datasheet>https://www.digikey.de/de/products/detail/c-k/KMR223NG-LFG/2296954</datasheet>
       <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
       <sheetpath names="/Target/" tstamps="/626CC112/"/>
@@ -163,7 +163,7 @@
       <value>RS2299</value>
       <footprint>Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm</footprint>
       <datasheet>https://www.digikey.de/de/products/detail/runic-technology/RS2299XTQC16/14544619?s=N4IgTCBcDaIE4GcxgJwpAXQL5A</datasheet>
-      <libsource lib="lp2040-launchpad-PCB" part="RS2299" description=""/>
+      <libsource lib="rp2350b-launchpad-PCB" part="RS2299" description=""/>
       <sheetpath names="/Target/" tstamps="/626CC112/"/>
       <tstamp>628166C7</tstamp>
     </comp>
@@ -204,7 +204,7 @@
     </comp>
     <comp ref="S2">
       <value>S2</value>
-      <footprint>lp2040-launchpad-PCB:DIPT-1188E</footprint>
+      <footprint>rp2350b-launchpad-PCB:DIPT-1188E</footprint>
       <datasheet>https://www.mouser.de/ProductDetail/Diptronics/1188E-1W3-V-T-R?qs=MLItCLRbWsziiBJeSO1fUw%3D%3D</datasheet>
       <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
       <sheetpath names="/Target/" tstamps="/626CC112/"/>
@@ -234,7 +234,7 @@
     </comp>
     <comp ref="S1">
       <value>S1</value>
-      <footprint>lp2040-launchpad-PCB:DIPT-1188E</footprint>
+      <footprint>rp2350b-launchpad-PCB:DIPT-1188E</footprint>
       <datasheet>https://www.mouser.de/ProductDetail/Diptronics/1188E-1W3-V-T-R?qs=MLItCLRbWsziiBJeSO1fUw%3D%3D</datasheet>
       <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
       <sheetpath names="/Target/" tstamps="/626CC112/"/>
@@ -399,7 +399,7 @@
       <value>25Q32</value>
       <footprint>Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm</footprint>
       <datasheet>https://www.digikey.de/de/products/detail/winbond-electronics/W25Q32JWZPIQ/8568189</datasheet>
-      <libsource lib="lp2040-launchpad-PCB" part="25Q32" description=""/>
+      <libsource lib="rp2350b-launchpad-PCB" part="25Q32" description=""/>
       <sheetpath names="/Target/" tstamps="/626CC112/"/>
       <tstamp>62BF5405</tstamp>
     </comp>
@@ -481,12 +481,12 @@
     </comp>
     <comp ref="USB1">
       <value>USB TRGT</value>
-      <footprint>lp2040-launchpad-PCB:USB-micro-B-Amph-10118194</footprint>
+      <footprint>rp2350b-launchpad-PCB:USB-micro-B-Amph-10118194</footprint>
       <datasheet>https://www.digikey.de/de/products/detail/amphenol-icc-fci/10118194-0001LF/2785389?s=N4IgTCBcDaIGwAYCcBaALHAjADhZkAugL5A</datasheet>
       <fields>
         <field name="STANDARD">kann beigestellt werden</field>
       </fields>
-      <libsource lib="lp2040-launchpad-PCB" part="Micro-USB-B-Socket" description=""/>
+      <libsource lib="rp2350b-launchpad-PCB" part="Micro-USB-B-Socket" description=""/>
       <sheetpath names="/Target/" tstamps="/626CC112/"/>
       <tstamp>62300B90</tstamp>
     </comp>
@@ -511,7 +511,7 @@
     </comp>
     <comp ref="J8">
       <value>Batt.</value>
-      <footprint>lp2040-launchpad-PCB:JST-S2B-PH-KL</footprint>
+      <footprint>rp2350b-launchpad-PCB:JST-S2B-PH-KL</footprint>
       <datasheet>wird nicht bestückt</datasheet>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
@@ -565,7 +565,7 @@
       <value>MCP73831</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>https://www.digikey.de/de/products/detail/microchip-technology/MCP73831T-2ACI-OT/964301</datasheet>
-      <libsource lib="lp2040-launchpad-PCB" part="MCP73831" description=""/>
+      <libsource lib="rp2350b-launchpad-PCB" part="MCP73831" description=""/>
       <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
       <tstamp>6294C319</tstamp>
     </comp>
@@ -661,7 +661,7 @@
       <value>Jumper</value>
       <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
       <datasheet>wird nicht bestückt</datasheet>
-      <libsource lib="lp2040-launchpad-PCB" part="Jumper" description=""/>
+      <libsource lib="rp2350b-launchpad-PCB" part="Jumper" description=""/>
       <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
       <tstamp>62B5D235</tstamp>
     </comp>
@@ -702,7 +702,7 @@
       <value>XC9142B50C</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>https://www.digikey.de/de/products/detail/torex-semiconductor-ltd/XC9142A50CMR-G/10158636</datasheet>
-      <libsource lib="lp2040-launchpad-PCB" part="XC9142B50C" description=""/>
+      <libsource lib="rp2350b-launchpad-PCB" part="XC9142B50C" description=""/>
       <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
       <tstamp>623BD9C3</tstamp>
     </comp>
@@ -710,7 +710,7 @@
       <value>XC6220B33</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>https://www.digikey.de/de/products/detail/torex-semiconductor-ltd/XC6220B331MR-G/2138177</datasheet>
-      <libsource lib="lp2040-launchpad-PCB" part="XC6220B33" description=""/>
+      <libsource lib="rp2350b-launchpad-PCB" part="XC6220B33" description=""/>
       <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
       <tstamp>623C5A51</tstamp>
     </comp>
@@ -812,7 +812,7 @@
       <value>DBG_PRGM</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
       <datasheet>wird nicht bestückt</datasheet>
-      <libsource lib="lp2040-launchpad-PCB" part="Jumper" description=""/>
+      <libsource lib="rp2350b-launchpad-PCB" part="Jumper" description=""/>
       <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
       <tstamp>62293263</tstamp>
     </comp>
@@ -888,12 +888,12 @@
     </comp>
     <comp ref="USB2">
       <value>USB PC</value>
-      <footprint>lp2040-launchpad-PCB:USB-micro-B-Amph-10118194</footprint>
+      <footprint>rp2350b-launchpad-PCB:USB-micro-B-Amph-10118194</footprint>
       <datasheet>https://www.digikey.de/de/products/detail/amphenol-icc-fci/10118194-0001LF/2785389?s=N4IgTCBcDaIGwAYCcBaALHAjADhZkAugL5A</datasheet>
       <fields>
         <field name="STANDARD">kann beigestellt werden</field>
       </fields>
-      <libsource lib="lp2040-launchpad-PCB" part="Micro-USB-B-Socket" description=""/>
+      <libsource lib="rp2350b-launchpad-PCB" part="Micro-USB-B-Socket" description=""/>
       <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
       <tstamp>6229330F</tstamp>
     </comp>
@@ -1039,7 +1039,7 @@
       <value>25Q32</value>
       <footprint>Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm</footprint>
       <datasheet>https://www.digikey.de/de/products/detail/winbond-electronics/W25Q32JWZPIQ/8568189</datasheet>
-      <libsource lib="lp2040-launchpad-PCB" part="25Q32" description=""/>
+      <libsource lib="rp2350b-launchpad-PCB" part="25Q32" description=""/>
       <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
       <tstamp>622931F1</tstamp>
     </comp>
@@ -1068,7 +1068,7 @@
     </comp>
     <comp ref="U8">
       <value>RP2040</value>
-      <footprint>lp2040-launchpad-PCB:QFN40P700X700X90-57N</footprint>
+      <footprint>rp2350b-launchpad-PCB:QFN40P700X700X90-57N</footprint>
       <datasheet>https://www.digikey.de/de/products/detail/raspberry-pi/SC0914-13/14306010</datasheet>
       <fields>
         <field name="MANUFACTURER">Raspberry Pi</field>
@@ -1076,7 +1076,7 @@
         <field name="PARTREV">1.6.1</field>
         <field name="STANDARD">möglicht neuester Release</field>
       </fields>
-      <libsource lib="lp2040-launchpad-PCB" part="RP2040" description=""/>
+      <libsource lib="rp2350b-launchpad-PCB" part="RP2040" description=""/>
       <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
       <tstamp>6229323B</tstamp>
     </comp>
@@ -1335,7 +1335,7 @@
         <pin num="2" name="B" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="lp2040-launchpad-PCB" part="25Q32">
+    <libpart lib="rp2350b-launchpad-PCB" part="25Q32">
       <fields>
         <field name="Reference">U</field>
         <field name="Value">25Q32</field>
@@ -1352,7 +1352,7 @@
         <pin num="9" name="~" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="lp2040-launchpad-PCB" part="Jumper">
+    <libpart lib="rp2350b-launchpad-PCB" part="Jumper">
       <fields>
         <field name="Reference">J</field>
         <field name="Value">Jumper</field>
@@ -1362,7 +1362,7 @@
         <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="lp2040-launchpad-PCB" part="MCP73831">
+    <libpart lib="rp2350b-launchpad-PCB" part="MCP73831">
       <fields>
         <field name="Reference">U</field>
         <field name="Value">MCP73831</field>
@@ -1375,7 +1375,7 @@
         <pin num="5" name="PROG" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="lp2040-launchpad-PCB" part="Micro-USB-B-Socket">
+    <libpart lib="rp2350b-launchpad-PCB" part="Micro-USB-B-Socket">
       <fields>
         <field name="Reference">USB</field>
         <field name="Value">Micro-USB-B-Socket</field>
@@ -1389,7 +1389,7 @@
         <pin num="6" name="~" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="lp2040-launchpad-PCB" part="RP2040">
+    <libpart lib="rp2350b-launchpad-PCB" part="RP2040">
       <fields>
         <field name="Reference">U</field>
         <field name="Value">RP2040</field>
@@ -1459,7 +1459,7 @@
         <pin num="57" name="GND" type="power_in"/>
       </pins>
     </libpart>
-    <libpart lib="lp2040-launchpad-PCB" part="RS2299">
+    <libpart lib="rp2350b-launchpad-PCB" part="RS2299">
       <fields>
         <field name="Reference">U</field>
         <field name="Value">RS2299</field>
@@ -1484,7 +1484,7 @@
         <pin num="17" name="~" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="lp2040-launchpad-PCB" part="XC6220B33">
+    <libpart lib="rp2350b-launchpad-PCB" part="XC6220B33">
       <fields>
         <field name="Reference">U</field>
         <field name="Value">XC6220B33</field>
@@ -1497,7 +1497,7 @@
         <pin num="5" name="Vout" type="power_out"/>
       </pins>
     </libpart>
-    <libpart lib="lp2040-launchpad-PCB" part="XC9142B50C">
+    <libpart lib="rp2350b-launchpad-PCB" part="XC9142B50C">
       <fields>
         <field name="Reference">U</field>
         <field name="Value">XC9142B50C</field>
@@ -1524,8 +1524,8 @@
     <library logical="Switch">
       <uri>/usr/share/kicad/library/Switch.lib</uri>
     </library>
-    <library logical="lp2040-launchpad-PCB">
-      <uri>/home/andreas/git/PCB/lp2040-launchpad-PCB/lp2040-launchpad-PCB.lib</uri>
+    <library logical="rp2350b-launchpad-PCB">
+      <uri>/home/andreas/git/PCB/rp2350b-launchpad-PCB/rp2350b-launchpad-PCB.lib</uri>
     </library>
   </libraries>
   <nets>

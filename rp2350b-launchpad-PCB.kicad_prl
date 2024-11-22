@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "rp2040-launchpad-PCB.kicad_prl",
+    "filename": "rp2350b-launchpad-PCB.kicad_prl",
     "version": 3
   },
   "project": {

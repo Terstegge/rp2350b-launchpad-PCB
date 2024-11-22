@@ -990,7 +990,7 @@
 				)
 			)
 		)
-		(symbol "rp2040-launchpad-PCB:+3V3_DBG"
+		(symbol "rp2350b-launchpad-PCB:+3V3_DBG"
 			(power)
 			(pin_names
 				(offset 0)
@@ -1110,7 +1110,7 @@
 				)
 			)
 		)
-		(symbol "rp2040-launchpad-PCB:+5V_DBG"
+		(symbol "rp2350b-launchpad-PCB:+5V_DBG"
 			(power)
 			(pin_names
 				(offset 0)
@@ -1230,7 +1230,7 @@
 				)
 			)
 		)
-		(symbol "rp2040-launchpad-PCB:GND_DBG"
+		(symbol "rp2350b-launchpad-PCB:GND_DBG"
 			(power)
 			(pin_names
 				(offset 0)
@@ -1810,7 +1810,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:GND_DBG")
+		(lib_id "rp2350b-launchpad-PCB:GND_DBG")
 		(at 143.51 91.44 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1875,7 +1875,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:+3V3_DBG")
+		(lib_id "rp2350b-launchpad-PCB:+3V3_DBG")
 		(at 137.16 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1940,7 +1940,7 @@
 		)
 	)
 	(symbol
-		(lib_id "rp2040-launchpad-PCB:+5V_DBG")
+		(lib_id "rp2350b-launchpad-PCB:+5V_DBG")
 		(at 139.7 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2412,7 +2412,7 @@
 			(uuid "4ee747f1-56e6-45e5-b119-936102fe8dae")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6"
 					(page "3")
 				)
@@ -2510,7 +2510,7 @@
 			(uuid "e3a1cf71-8569-4bfc-b4fa-b77dddb9aa66")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6"
 					(page "4")
 				)
@@ -2578,7 +2578,7 @@
 			(uuid "86074d54-a4d9-403d-8d9d-047d9018e39f")
 		)
 		(instances
-			(project "rp2040-launchpad-PCB"
+			(project "rp2350b-launchpad-PCB"
 				(path "/60290668-847e-40fe-8544-1cbbc26023b6"
 					(page "2")
 				)
