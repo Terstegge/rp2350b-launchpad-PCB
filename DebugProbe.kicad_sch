@@ -6573,7 +6573,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350b-launchpad-PCB:QFN40P700X700X90-57N"
+		(property "Footprint" "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm_ThermalVias"
 			(at 179.07 99.06 0)
 			(effects
 				(font
