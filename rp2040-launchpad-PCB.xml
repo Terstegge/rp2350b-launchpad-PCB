@@ -1,0 +1,2256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/andreas/git/PCB/lp2040-launchpad-PCB/lp2040-launchpad-PCB.sch</source>
+    <date>Mo 21 Mär 2022 15:18:01 CET</date>
+    <tool>Eeschema 5.1.5+dfsg1-2build2</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>RP2040 Launchpad</title>
+        <company>ISS Intelligent Sensor Solutions</company>
+        <rev>v0.1</rev>
+        <date>2022-02-06</date>
+        <source>lp2040-launchpad-PCB.sch</source>
+        <comment number="1" value="Created by A. Terstegge"/>
+        <comment number="2" value="A TI-style Launchpad with RP2040 MCU"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Target/" tstamps="/626CC112/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Target.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/PowerSupply/" tstamps="/6284C5D3/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>PowerSupply.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/DebugProbe/" tstamps="/6225139F/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>DebugProbe.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Target Isolation Jumpers</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical</footprint>
+      <datasheet>wird nicht bestückt</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x08_Odd_Even" description="Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6229C313</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>RP2040</value>
+      <footprint>lp2040-launchpad-PCB:QFN40P700X700X90-57N</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/raspberry-pi/SC0914-13/14306010</datasheet>
+      <fields>
+        <field name="MANUFACTURER">Raspberry Pi</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.9 mm</field>
+        <field name="PARTREV">1.6.1</field>
+        <field name="STANDARD">möglicht neuester Release</field>
+      </fields>
+      <libsource lib="lp2040-launchpad-PCB" part="RP2040" description=""/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>626F138A</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C105K8RAC7867/2199790</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>626F143C</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>RESET</value>
+      <footprint>lp2040-launchpad-PCB:DIPT-1188E</footprint>
+      <datasheet>https://www.mouser.de/ProductDetail/Diptronics/1188E-1W3-V-T-R?qs=MLItCLRbWsziiBJeSO1fUw%3D%3D</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>626F146B</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>PRGM</value>
+      <footprint>lp2040-launchpad-PCB:KMR2-Switch</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/c-k/KMR223NG-LFG/2296954</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>626F14F8</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>LP Header left</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical</footprint>
+      <datasheet>wird nicht bestückt</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x10_Odd_Even" description="Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62715F23</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>LP Header right</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical</footprint>
+      <datasheet>wird nicht bestückt</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x10_Odd_Even" description="Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62715F29</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>LP Extension Heder</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical</footprint>
+      <datasheet>wird nicht bestückt</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x10_Odd_Even" description="Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62715F2F</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62715F75</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>PWR Header</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>wird nicht bestückt</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>627BE427</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>PWR Header</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>wird nicht bestückt</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>627BE42D</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>RS2299</value>
+      <footprint>Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/runic-technology/RS2299XTQC16/14544619?s=N4IgTCBcDaIE4GcxgJwpAXQL5A</datasheet>
+      <libsource lib="lp2040-launchpad-PCB" part="RS2299" description=""/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>628166C7</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3GEYJ103V/135662</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>628166D8</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/sparkfun-electronics/COM-16347/11630204</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Sparkfun</field>
+        <field name="STANDARD">andere Hersteller auch möglich</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62833F8B</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/sparkfun-electronics/COM-16347/11630204</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Sparkfun</field>
+        <field name="STANDARD">andere Hersteller auch möglich</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62833F91</tstamp>
+    </comp>
+    <comp ref="S2">
+      <value>S2</value>
+      <footprint>lp2040-launchpad-PCB:DIPT-1188E</footprint>
+      <datasheet>https://www.mouser.de/ProductDetail/Diptronics/1188E-1W3-V-T-R?qs=MLItCLRbWsziiBJeSO1fUw%3D%3D</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62833FB0</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62833FCC</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62833FDE</tstamp>
+    </comp>
+    <comp ref="S1">
+      <value>S1</value>
+      <footprint>lp2040-launchpad-PCB:DIPT-1188E</footprint>
+      <datasheet>https://www.mouser.de/ProductDetail/Diptronics/1188E-1W3-V-T-R?qs=MLItCLRbWsziiBJeSO1fUw%3D%3D</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62833FF0</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62B384B6</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62B384BC</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62B384C2</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62B384C8</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62B384CE</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C105K8RAC7867/2199790</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62B384E7</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62B384EF</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62B384F5</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62B384FB</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C105K8RAC7867/2199790</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62B3850D</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62B38527</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62BF53D1</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62BF53F1</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>25Q32</value>
+      <footprint>Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/winbond-electronics/W25Q32JWZPIQ/8568189</datasheet>
+      <libsource lib="lp2040-launchpad-PCB" part="25Q32" description=""/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62BF5405</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62D76BDC</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>15pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C150M8GAC7867/2199937</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62D76BE2</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>15pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C150M8GAC7867/2199937</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62D76BE8</tstamp>
+    </comp>
+    <comp ref="Y1">
+      <value>12MHz</value>
+      <footprint>Crystal:Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/txc-corporation/7M-12-000MAAE-T/3674337</datasheet>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62D76BF8</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3GEYJ103V/135662</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62E23FD3</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>27</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3EKF27R0V/1746361</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62300B7D</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>27</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3EKF27R0V/1746361</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62300B83</tstamp>
+    </comp>
+    <comp ref="USB1">
+      <value>USB TRGT</value>
+      <footprint>lp2040-launchpad-PCB:USB-micro-B-Amph-10118194</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/amphenol-icc-fci/10118194-0001LF/2785389?s=N4IgTCBcDaIGwAYCcBaALHAjADhZkAugL5A</datasheet>
+      <fields>
+        <field name="STANDARD">kann beigestellt werden</field>
+      </fields>
+      <libsource lib="lp2040-launchpad-PCB" part="Micro-USB-B-Socket" description=""/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>62300B90</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3GEYJ103V/135662</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Target/" tstamps="/626CC112/"/>
+      <tstamp>625DCFCC</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>PWR select</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>wird nicht bestückt</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>62854E20</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>Batt.</value>
+      <footprint>lp2040-launchpad-PCB:JST-S2B-PH-KL</footprint>
+      <datasheet>wird nicht bestückt</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>62854E2C</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>4u7</value>
+      <footprint>Inductor_SMD:L_1008_2520Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/bourns-inc/CVH252009-4R7M/3440074?s=N4IgjCBcoEwAwA4DsVQGMoDMCGAbAzgKYA0IA9lANogAsAdEgAQCtAEiALqkAOALlCACqAOwCWvAPKYAsoWz4ArgCdCIAL5rSMKiADCANVYwArPDgBOTmqA</datasheet>
+      <fields>
+        <field name="MANUFACTURER">BOURNS</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>62854E60</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>62854E93</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/yageo/AF0603FR-07100KL/5900861</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>629440EA</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/yageo/AF0603FR-07100KL/5900861</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>62944C7D</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>MCP73831</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/microchip-technology/MCP73831T-2ACI-OT/964301</datasheet>
+      <libsource lib="lp2040-launchpad-PCB" part="MCP73831" description=""/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>6294C319</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>Charge</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/harvatek-corporation/B1911UD-20D001014U1930/15519993</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>6294ECFC</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0805C226M8PAC7210/12701023</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>629570FA</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0805C226M8PAC7210/12701023</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>6298865E</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>2k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3EKF2001V/196183</datasheet>
+      <fields>
+        <field name="STANDARD">1% Toleranz</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>629CA181</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0805C226M8PAC7210/12701023</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>629DD67C</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/onsemi/MBR120VLSFT1G/893861</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. ON</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>629E6321</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/onsemi/MBR120VLSFT1G/893861</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. ON</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>629EA4B3</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0805C226M8PAC7210/12701023</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>62A2A6A9</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>Jumper</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <datasheet>wird nicht bestückt</datasheet>
+      <libsource lib="lp2040-launchpad-PCB" part="Jumper" description=""/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>62B5D235</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>62A3EE8B</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>PWR</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/harvatek-corporation/B1911UD-20D001014U1930/15519993</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>62A398AE</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0805C226M8PAC7210/12701023</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>62A35296</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>XC9142B50C</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/torex-semiconductor-ltd/XC9142A50CMR-G/10158636</datasheet>
+      <libsource lib="lp2040-launchpad-PCB" part="XC9142B50C" description=""/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>623BD9C3</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>XC6220B33</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/torex-semiconductor-ltd/XC6220B331MR-G/2138177</datasheet>
+      <libsource lib="lp2040-launchpad-PCB" part="XC6220B33" description=""/>
+      <sheetpath names="/PowerSupply/" tstamps="/6284C5D3/"/>
+      <tstamp>623C5A51</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>622931FD</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>62293203</tstamp>
+    </comp>
+    <comp ref="C32">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>62293209</tstamp>
+    </comp>
+    <comp ref="C33">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>6229320F</tstamp>
+    </comp>
+    <comp ref="C34">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>62293215</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>62293230</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>27</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3EKF27R0V/1746361</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>62293241</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>27</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3EKF27R0V/1746361</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>62293247</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>DBG_PRGM</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <datasheet>wird nicht bestückt</datasheet>
+      <libsource lib="lp2040-launchpad-PCB" part="Jumper" description=""/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>62293263</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C105K8RAC7867/2199790</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>622932C3</tstamp>
+    </comp>
+    <comp ref="C35">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>622932CB</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>622932D5</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>622932DB</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3GEYJ103V/135662</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>622932F1</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>622932FD</tstamp>
+    </comp>
+    <comp ref="USB2">
+      <value>USB PC</value>
+      <footprint>lp2040-launchpad-PCB:USB-micro-B-Amph-10118194</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/amphenol-icc-fci/10118194-0001LF/2785389?s=N4IgTCBcDaIGwAYCcBaALHAjADhZkAugL5A</datasheet>
+      <fields>
+        <field name="STANDARD">kann beigestellt werden</field>
+      </fields>
+      <libsource lib="lp2040-launchpad-PCB" part="Micro-USB-B-Socket" description=""/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>6229330F</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>62293322</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>15pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C150M8GAC7867/2199937</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>62293328</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>15pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C150M8GAC7867/2199937</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>6229332E</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C105K8RAC7867/2199790</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>62293362</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C105K8RAC7867/2199790</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>6229339A</tstamp>
+    </comp>
+    <comp ref="Y2">
+      <value>12MHz</value>
+      <footprint>Crystal:Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/txc-corporation/7M-12-000MAAE-T/3674337</datasheet>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>622933DA</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/yageo/AF0603FR-07100KL/5900861</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>622932B2</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>RED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/harvatek-corporation/B1911USD-20D000114U1930/15519991</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>622932AC</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/yageo/AF0603FR-07100KL/5900861</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>622932A6</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>BLUE</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/harvatek-corporation/B1931NB-20C006714U1930/15861263</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>622932A0</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/yageo/AF0603FR-07100KL/5900861</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>62293294</tstamp>
+    </comp>
+    <comp ref="J12">
+      <value>DGB Exp. Header</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical</footprint>
+      <datasheet>wird nicht bestückt</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x08_Odd_Even" description="Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>62293288</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value>UART_DBG</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <datasheet>wird nicht bestückt</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>62293253</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>25Q32</value>
+      <footprint>Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/winbond-electronics/W25Q32JWZPIQ/8568189</datasheet>
+      <libsource lib="lp2040-launchpad-PCB" part="25Q32" description=""/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>622931F1</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>GREEN</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/harvatek-corporation/B1931NG-20D001114U1930/15861262</datasheet>
+      <fields>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>6229325D</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406</datasheet>
+      <fields>
+        <field name="MANUFACTURER">z.B. Kemet</field>
+        <field name="STANDARD">unkritisch</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>622931F7</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>RP2040</value>
+      <footprint>lp2040-launchpad-PCB:QFN40P700X700X90-57N</footprint>
+      <datasheet>https://www.digikey.de/de/products/detail/raspberry-pi/SC0914-13/14306010</datasheet>
+      <fields>
+        <field name="MANUFACTURER">Raspberry Pi</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.9 mm</field>
+        <field name="PARTREV">1.6.1</field>
+        <field name="STANDARD">möglicht neuester Release</field>
+      </fields>
+      <libsource lib="lp2040-launchpad-PCB" part="RP2040" description=""/>
+      <sheetpath names="/DebugProbe/" tstamps="/6225139F/"/>
+      <tstamp>6229323B</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x08_Odd_Even">
+      <description>Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x08_Odd_Even</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x10_Odd_Even">
+      <description>Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x10_Odd_Even</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="WS2812B">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</docs>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">WS2812B</field>
+        <field name="Footprint">LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPST">
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPST</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lp2040-launchpad-PCB" part="25Q32">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">25Q32</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~CS" type="input"/>
+        <pin num="2" name="DO(IO1)" type="output"/>
+        <pin num="3" name="~WP~(IO2)" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="DI(IO0)" type="input"/>
+        <pin num="6" name="CLK" type="input"/>
+        <pin num="7" name="~HOLD~(IO3)" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+        <pin num="9" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lp2040-launchpad-PCB" part="Jumper">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Jumper</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lp2040-launchpad-PCB" part="MCP73831">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP73831</field>
+      </fields>
+      <pins>
+        <pin num="1" name="STAT" type="power_out"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="VBAT" type="power_out"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="PROG" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lp2040-launchpad-PCB" part="Micro-USB-B-Socket">
+      <fields>
+        <field name="Reference">USB</field>
+        <field name="Value">Micro-USB-B-Socket</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_out"/>
+        <pin num="2" name="D-" type="BiDi"/>
+        <pin num="3" name="D+" type="BiDi"/>
+        <pin num="4" name="ID" type="BiDi"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lp2040-launchpad-PCB" part="RP2040">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RP2040</field>
+        <field name="Footprint">QFN40P700X700X90-57N</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.9 mm</field>
+        <field name="MANUFACTURER">Raspberry Pi</field>
+        <field name="PARTREV">1.6.1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IOVDD" type="power_in"/>
+        <pin num="2" name="GPIO0" type="BiDi"/>
+        <pin num="3" name="GPIO1" type="BiDi"/>
+        <pin num="4" name="GPIO2" type="BiDi"/>
+        <pin num="5" name="GPIO3" type="BiDi"/>
+        <pin num="6" name="GPIO4" type="BiDi"/>
+        <pin num="7" name="GPIO5" type="BiDi"/>
+        <pin num="8" name="GPIO6" type="BiDi"/>
+        <pin num="9" name="GPIO7" type="BiDi"/>
+        <pin num="10" name="IOVDD" type="power_in"/>
+        <pin num="11" name="GPIO8" type="BiDi"/>
+        <pin num="12" name="GPIO9" type="BiDi"/>
+        <pin num="13" name="GPIO10" type="BiDi"/>
+        <pin num="14" name="GPIO11" type="BiDi"/>
+        <pin num="15" name="GPIO12" type="BiDi"/>
+        <pin num="16" name="GPIO13" type="BiDi"/>
+        <pin num="17" name="GPIO14" type="BiDi"/>
+        <pin num="18" name="GPIO15" type="BiDi"/>
+        <pin num="19" name="TESTEN" type="passive"/>
+        <pin num="20" name="XIN" type="input"/>
+        <pin num="21" name="XOUT" type="output"/>
+        <pin num="22" name="IOVDD" type="power_in"/>
+        <pin num="23" name="DVDD" type="power_in"/>
+        <pin num="24" name="SWCLK" type="input"/>
+        <pin num="25" name="SWD" type="BiDi"/>
+        <pin num="26" name="RUN" type="input"/>
+        <pin num="27" name="GPIO16" type="BiDi"/>
+        <pin num="28" name="GPIO17" type="BiDi"/>
+        <pin num="29" name="GPIO18" type="BiDi"/>
+        <pin num="30" name="GPIO19" type="BiDi"/>
+        <pin num="31" name="GPIO20" type="BiDi"/>
+        <pin num="32" name="GPIO21" type="BiDi"/>
+        <pin num="33" name="IOVDD" type="power_in"/>
+        <pin num="34" name="GPIO22" type="BiDi"/>
+        <pin num="35" name="GPIO23" type="BiDi"/>
+        <pin num="36" name="GPIO24" type="BiDi"/>
+        <pin num="37" name="GPIO25" type="BiDi"/>
+        <pin num="38" name="GPIO26/ADC0" type="BiDi"/>
+        <pin num="39" name="GPIO27/ADC1" type="BiDi"/>
+        <pin num="40" name="GPIO28/ADC2" type="BiDi"/>
+        <pin num="41" name="GPIO29/ADC3" type="BiDi"/>
+        <pin num="42" name="IOVDD" type="power_in"/>
+        <pin num="43" name="ADC_AVDD" type="power_in"/>
+        <pin num="44" name="VREG_VIN" type="input"/>
+        <pin num="45" name="VREG_VOUT" type="output"/>
+        <pin num="46" name="USB_DM" type="BiDi"/>
+        <pin num="47" name="USB_DP" type="BiDi"/>
+        <pin num="48" name="USB_VDD" type="power_in"/>
+        <pin num="49" name="IOVDD" type="power_in"/>
+        <pin num="50" name="DVDD" type="power_in"/>
+        <pin num="51" name="QSPI_SD3" type="BiDi"/>
+        <pin num="52" name="QSPI_SCLK" type="BiDi"/>
+        <pin num="53" name="QSPI_SD0" type="BiDi"/>
+        <pin num="54" name="QSPI_SD2" type="BiDi"/>
+        <pin num="55" name="QSPI_SD1" type="BiDi"/>
+        <pin num="56" name="QSPI_CSN" type="BiDi"/>
+        <pin num="57" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="lp2040-launchpad-PCB" part="RS2299">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RS2299</field>
+      </fields>
+      <pins>
+        <pin num="1" name="O11" type="BiDi"/>
+        <pin num="2" name="S12" type="input"/>
+        <pin num="3" name="O22" type="BiDi"/>
+        <pin num="4" name="I2" type="BiDi"/>
+        <pin num="5" name="O21" type="BiDi"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="O32" type="BiDi"/>
+        <pin num="8" name="I3" type="BiDi"/>
+        <pin num="9" name="O31" type="BiDi"/>
+        <pin num="10" name="S34" type="input"/>
+        <pin num="11" name="O42" type="BiDi"/>
+        <pin num="12" name="I4" type="BiDi"/>
+        <pin num="13" name="O41" type="BiDi"/>
+        <pin num="14" name="Vcc" type="power_in"/>
+        <pin num="15" name="O12" type="BiDi"/>
+        <pin num="16" name="I1" type="BiDi"/>
+        <pin num="17" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lp2040-launchpad-PCB" part="XC6220B33">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">XC6220B33</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vin" type="power_in"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="CE" type="input"/>
+        <pin num="4" name="NC" type="passive"/>
+        <pin num="5" name="Vout" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="lp2040-launchpad-PCB" part="XC9142B50C">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">XC9142B50C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CE" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="BAT" type="power_in"/>
+        <pin num="4" name="Vout" type="power_out"/>
+        <pin num="5" name="Lx" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="LED">
+      <uri>/usr/share/kicad/library/LED.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/usr/share/kicad/library/Switch.lib</uri>
+    </library>
+    <library logical="lp2040-launchpad-PCB">
+      <uri>/home/andreas/git/PCB/lp2040-launchpad-PCB/lp2040-launchpad-PCB.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="J4" pin="20"/>
+      <node ref="J3" pin="1"/>
+      <node ref="J6" pin="2"/>
+      <node ref="J6" pin="1"/>
+      <node ref="J2" pin="4"/>
+      <node ref="J4" pin="19"/>
+      <node ref="J5" pin="2"/>
+      <node ref="Y1" pin="4"/>
+      <node ref="U1" pin="9"/>
+      <node ref="USB1" pin="5"/>
+      <node ref="USB1" pin="6"/>
+      <node ref="U1" pin="4"/>
+      <node ref="U2" pin="19"/>
+      <node ref="R2" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="Y1" pin="2"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="R7" pin="1"/>
+      <node ref="D2" pin="3"/>
+      <node ref="R8" pin="1"/>
+      <node ref="C6" pin="2"/>
+      <node ref="D1" pin="3"/>
+      <node ref="C9" pin="2"/>
+      <node ref="U3" pin="6"/>
+      <node ref="SW1" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="J3" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="U2" pin="57"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="2" name="/Target/UART_TX_TRGT">
+      <node ref="U2" pin="2"/>
+      <node ref="J1" pin="15"/>
+    </net>
+    <net code="3" name="/Target/UART_RX_TRGT">
+      <node ref="J1" pin="13"/>
+      <node ref="U2" pin="3"/>
+    </net>
+    <net code="4" name="/Target/SWCLK">
+      <node ref="U2" pin="24"/>
+      <node ref="J1" pin="11"/>
+    </net>
+    <net code="5" name="/Target/SWDIO">
+      <node ref="U2" pin="25"/>
+      <node ref="J1" pin="9"/>
+    </net>
+    <net code="6" name="+3V3">
+      <node ref="C13" pin="1"/>
+      <node ref="J1" pin="5"/>
+      <node ref="R1" pin="2"/>
+      <node ref="C12" pin="1"/>
+      <node ref="C11" pin="1"/>
+      <node ref="C10" pin="1"/>
+      <node ref="C14" pin="1"/>
+      <node ref="U1" pin="8"/>
+      <node ref="C15" pin="1"/>
+      <node ref="C7" pin="1"/>
+      <node ref="R6" pin="1"/>
+      <node ref="U2" pin="42"/>
+      <node ref="U2" pin="49"/>
+      <node ref="U2" pin="48"/>
+      <node ref="U2" pin="44"/>
+      <node ref="U2" pin="43"/>
+      <node ref="U2" pin="33"/>
+      <node ref="J6" pin="3"/>
+      <node ref="J4" pin="18"/>
+      <node ref="J4" pin="17"/>
+      <node ref="J2" pin="1"/>
+      <node ref="C8" pin="1"/>
+      <node ref="U2" pin="22"/>
+      <node ref="U2" pin="10"/>
+      <node ref="U2" pin="1"/>
+      <node ref="R9" pin="2"/>
+      <node ref="U3" pin="14"/>
+      <node ref="C9" pin="1"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="7" name="/PowerSupply/VBat">
+      <node ref="R13" pin="2"/>
+      <node ref="R14" pin="1"/>
+      <node ref="J1" pin="8"/>
+    </net>
+    <net code="8" name="/DebugProbe/UART_RX_DBG">
+      <node ref="U8" pin="12"/>
+      <node ref="J1" pin="16"/>
+    </net>
+    <net code="9" name="/DebugProbe/UART_TX_DBG">
+      <node ref="U8" pin="11"/>
+      <node ref="J1" pin="14"/>
+    </net>
+    <net code="10" name="/DebugProbe/SWCLK_DBG">
+      <node ref="U8" pin="8"/>
+      <node ref="J1" pin="12"/>
+    </net>
+    <net code="11" name="+5V">
+      <node ref="D1" pin="1"/>
+      <node ref="J3" pin="3"/>
+      <node ref="J4" pin="16"/>
+      <node ref="J4" pin="15"/>
+      <node ref="J2" pin="2"/>
+      <node ref="J1" pin="3"/>
+      <node ref="D2" pin="1"/>
+    </net>
+    <net code="12" name="/Target/VBat">
+      <node ref="J2" pin="14"/>
+      <node ref="U3" pin="15"/>
+      <node ref="J1" pin="7"/>
+    </net>
+    <net code="13" name="/PowerSupply/VBUS_TRGT">
+      <node ref="J9" pin="3"/>
+      <node ref="USB1" pin="1"/>
+    </net>
+    <net code="14" name="/DebugProbe/SWDIO_DBG">
+      <node ref="U8" pin="9"/>
+      <node ref="J1" pin="10"/>
+    </net>
+    <net code="15" name="+5V_DBG">
+      <node ref="U6" pin="1"/>
+      <node ref="U6" pin="3"/>
+      <node ref="J1" pin="4"/>
+      <node ref="C19" pin="2"/>
+      <node ref="J9" pin="2"/>
+    </net>
+    <net code="16" name="GND_DBG">
+      <node ref="D8" pin="1"/>
+      <node ref="C33" pin="2"/>
+      <node ref="C32" pin="2"/>
+      <node ref="C30" pin="2"/>
+      <node ref="C31" pin="2"/>
+      <node ref="C29" pin="2"/>
+      <node ref="C22" pin="1"/>
+      <node ref="C23" pin="1"/>
+      <node ref="C21" pin="2"/>
+      <node ref="C34" pin="2"/>
+      <node ref="D6" pin="1"/>
+      <node ref="U7" pin="4"/>
+      <node ref="D7" pin="1"/>
+      <node ref="C20" pin="1"/>
+      <node ref="C16" pin="1"/>
+      <node ref="C24" pin="2"/>
+      <node ref="C35" pin="2"/>
+      <node ref="C27" pin="2"/>
+      <node ref="J12" pin="2"/>
+      <node ref="C25" pin="2"/>
+      <node ref="U5" pin="2"/>
+      <node ref="U6" pin="2"/>
+      <node ref="U8" pin="19"/>
+      <node ref="R12" pin="2"/>
+      <node ref="U4" pin="2"/>
+      <node ref="R14" pin="2"/>
+      <node ref="J1" pin="2"/>
+      <node ref="J8" pin="1"/>
+      <node ref="U8" pin="57"/>
+      <node ref="C19" pin="1"/>
+      <node ref="C17" pin="1"/>
+      <node ref="Y2" pin="4"/>
+      <node ref="Y2" pin="2"/>
+      <node ref="C28" pin="2"/>
+      <node ref="C26" pin="2"/>
+      <node ref="R16" pin="2"/>
+      <node ref="USB2" pin="6"/>
+      <node ref="USB2" pin="5"/>
+      <node ref="C18" pin="1"/>
+      <node ref="U7" pin="9"/>
+      <node ref="D9" pin="1"/>
+    </net>
+    <net code="17" name="/DebugProbe/VBUS_DBG">
+      <node ref="D3" pin="2"/>
+      <node ref="C16" pin="2"/>
+      <node ref="D4" pin="2"/>
+      <node ref="U4" pin="4"/>
+      <node ref="USB2" pin="1"/>
+    </net>
+    <net code="18" name="+3V3_DBG">
+      <node ref="R20" pin="1"/>
+      <node ref="U7" pin="8"/>
+      <node ref="C28" pin="1"/>
+      <node ref="C20" pin="2"/>
+      <node ref="R15" pin="1"/>
+      <node ref="C30" pin="1"/>
+      <node ref="U6" pin="5"/>
+      <node ref="C29" pin="1"/>
+      <node ref="U8" pin="1"/>
+      <node ref="C35" pin="1"/>
+      <node ref="C31" pin="1"/>
+      <node ref="C32" pin="1"/>
+      <node ref="C33" pin="1"/>
+      <node ref="C34" pin="1"/>
+      <node ref="U8" pin="26"/>
+      <node ref="U8" pin="33"/>
+      <node ref="U8" pin="22"/>
+      <node ref="J12" pin="1"/>
+      <node ref="C21" pin="1"/>
+      <node ref="C27" pin="1"/>
+      <node ref="U8" pin="43"/>
+      <node ref="U8" pin="42"/>
+      <node ref="U8" pin="10"/>
+      <node ref="U8" pin="49"/>
+      <node ref="U8" pin="48"/>
+      <node ref="J1" pin="6"/>
+      <node ref="U8" pin="44"/>
+    </net>
+    <net code="19" name="Net-(U8-Pad17)">
+      <node ref="U8" pin="17"/>
+    </net>
+    <net code="20" name="Net-(U8-Pad18)">
+      <node ref="U8" pin="18"/>
+    </net>
+    <net code="21" name="Net-(U8-Pad7)">
+      <node ref="U8" pin="7"/>
+    </net>
+    <net code="22" name="Net-(U8-Pad13)">
+      <node ref="U8" pin="13"/>
+    </net>
+    <net code="23" name="Net-(U8-Pad14)">
+      <node ref="U8" pin="14"/>
+    </net>
+    <net code="24" name="Net-(U8-Pad16)">
+      <node ref="U8" pin="16"/>
+    </net>
+    <net code="25" name="Net-(U8-Pad15)">
+      <node ref="U8" pin="15"/>
+    </net>
+    <net code="26" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2"/>
+      <node ref="R21" pin="2"/>
+    </net>
+    <net code="27" name="Net-(U7-Pad6)">
+      <node ref="U7" pin="6"/>
+      <node ref="U8" pin="52"/>
+    </net>
+    <net code="28" name="Net-(C22-Pad2)">
+      <node ref="Y2" pin="1"/>
+      <node ref="U8" pin="20"/>
+      <node ref="C22" pin="2"/>
+    </net>
+    <net code="29" name="Net-(C23-Pad2)">
+      <node ref="C23" pin="2"/>
+      <node ref="R19" pin="1"/>
+      <node ref="Y2" pin="3"/>
+    </net>
+    <net code="30" name="Net-(R21-Pad1)">
+      <node ref="R21" pin="1"/>
+      <node ref="U8" pin="4"/>
+    </net>
+    <net code="31" name="Net-(U7-Pad7)">
+      <node ref="U7" pin="7"/>
+      <node ref="U8" pin="51"/>
+    </net>
+    <net code="32" name="Net-(J11-Pad1)">
+      <node ref="U8" pin="2"/>
+      <node ref="J11" pin="1"/>
+    </net>
+    <net code="33" name="Net-(J11-Pad2)">
+      <node ref="J11" pin="2"/>
+      <node ref="U8" pin="3"/>
+    </net>
+    <net code="34" name="Net-(U7-Pad5)">
+      <node ref="U8" pin="53"/>
+      <node ref="U7" pin="5"/>
+    </net>
+    <net code="35" name="Net-(U7-Pad2)">
+      <node ref="U8" pin="55"/>
+      <node ref="U7" pin="2"/>
+    </net>
+    <net code="36" name="Net-(U7-Pad3)">
+      <node ref="U8" pin="54"/>
+      <node ref="U7" pin="3"/>
+    </net>
+    <net code="37" name="Net-(U8-Pad25)">
+      <node ref="U8" pin="25"/>
+    </net>
+    <net code="38" name="Net-(U8-Pad24)">
+      <node ref="U8" pin="24"/>
+    </net>
+    <net code="39" name="Net-(J10-Pad2)">
+      <node ref="R20" pin="2"/>
+      <node ref="J10" pin="2"/>
+      <node ref="U8" pin="56"/>
+      <node ref="U7" pin="1"/>
+    </net>
+    <net code="40" name="Net-(D8-Pad2)">
+      <node ref="R22" pin="2"/>
+      <node ref="D8" pin="2"/>
+    </net>
+    <net code="41" name="Net-(R23-Pad1)">
+      <node ref="R23" pin="1"/>
+      <node ref="U8" pin="6"/>
+    </net>
+    <net code="42" name="Net-(D9-Pad2)">
+      <node ref="R23" pin="2"/>
+      <node ref="D9" pin="2"/>
+    </net>
+    <net code="43" name="Net-(USB2-Pad4)">
+      <node ref="USB2" pin="4"/>
+    </net>
+    <net code="44" name="Net-(R19-Pad2)">
+      <node ref="R19" pin="2"/>
+      <node ref="U8" pin="21"/>
+    </net>
+    <net code="45" name="Net-(J10-Pad1)">
+      <node ref="R16" pin="1"/>
+      <node ref="J10" pin="1"/>
+    </net>
+    <net code="46" name="Net-(R17-Pad2)">
+      <node ref="USB2" pin="2"/>
+      <node ref="R17" pin="2"/>
+    </net>
+    <net code="47" name="Net-(R18-Pad2)">
+      <node ref="R18" pin="2"/>
+      <node ref="USB2" pin="3"/>
+    </net>
+    <net code="48" name="Net-(C24-Pad1)">
+      <node ref="C25" pin="1"/>
+      <node ref="U8" pin="23"/>
+      <node ref="C26" pin="1"/>
+      <node ref="U8" pin="50"/>
+      <node ref="U8" pin="45"/>
+      <node ref="C24" pin="1"/>
+    </net>
+    <net code="49" name="Net-(R17-Pad1)">
+      <node ref="U8" pin="46"/>
+      <node ref="R17" pin="1"/>
+    </net>
+    <net code="50" name="Net-(R18-Pad1)">
+      <node ref="U8" pin="47"/>
+      <node ref="R18" pin="1"/>
+    </net>
+    <net code="51" name="Net-(R22-Pad1)">
+      <node ref="R22" pin="1"/>
+      <node ref="U8" pin="5"/>
+    </net>
+    <net code="52" name="/DebugProbe/G16_DBG">
+      <node ref="U8" pin="27"/>
+      <node ref="J12" pin="3"/>
+    </net>
+    <net code="53" name="/DebugProbe/G17_DBG">
+      <node ref="U8" pin="28"/>
+      <node ref="J12" pin="4"/>
+    </net>
+    <net code="54" name="/DebugProbe/G18_DBG">
+      <node ref="U8" pin="29"/>
+      <node ref="J12" pin="5"/>
+    </net>
+    <net code="55" name="/DebugProbe/G19_DBG">
+      <node ref="U8" pin="30"/>
+      <node ref="J12" pin="6"/>
+    </net>
+    <net code="56" name="/DebugProbe/G20_DBG">
+      <node ref="J12" pin="7"/>
+      <node ref="U8" pin="31"/>
+    </net>
+    <net code="57" name="/DebugProbe/G21_DBG">
+      <node ref="U8" pin="32"/>
+      <node ref="J12" pin="8"/>
+    </net>
+    <net code="58" name="/DebugProbe/G22_DBG">
+      <node ref="J12" pin="9"/>
+      <node ref="U8" pin="34"/>
+    </net>
+    <net code="59" name="/DebugProbe/G23_DBG">
+      <node ref="J12" pin="10"/>
+      <node ref="U8" pin="35"/>
+    </net>
+    <net code="60" name="/DebugProbe/G24_DBG">
+      <node ref="J12" pin="11"/>
+      <node ref="U8" pin="36"/>
+    </net>
+    <net code="61" name="/DebugProbe/G25_DBG">
+      <node ref="U8" pin="37"/>
+      <node ref="J12" pin="12"/>
+    </net>
+    <net code="62" name="/DebugProbe/G26_DBG">
+      <node ref="J12" pin="13"/>
+      <node ref="U8" pin="38"/>
+    </net>
+    <net code="63" name="/DebugProbe/G27_DBG">
+      <node ref="J12" pin="14"/>
+      <node ref="U8" pin="39"/>
+    </net>
+    <net code="64" name="/DebugProbe/G28_DBG">
+      <node ref="U8" pin="40"/>
+      <node ref="J12" pin="15"/>
+    </net>
+    <net code="65" name="/DebugProbe/G29_DBG">
+      <node ref="J12" pin="16"/>
+      <node ref="U8" pin="41"/>
+    </net>
+    <net code="66" name="Net-(R8-Pad2)">
+      <node ref="S2" pin="2"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="67" name="Net-(R7-Pad2)">
+      <node ref="S1" pin="2"/>
+      <node ref="R7" pin="2"/>
+    </net>
+    <net code="68" name="/Target/GPIO17">
+      <node ref="S2" pin="1"/>
+      <node ref="J5" pin="17"/>
+      <node ref="U2" pin="28"/>
+    </net>
+    <net code="69" name="/Target/GPIO16">
+      <node ref="S1" pin="1"/>
+      <node ref="U2" pin="27"/>
+      <node ref="J5" pin="15"/>
+    </net>
+    <net code="70" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="71" name="Net-(D1-Pad2)">
+      <node ref="D2" pin="4"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="72" name="/Target/ADC_7">
+      <node ref="U3" pin="11"/>
+      <node ref="J2" pin="16"/>
+      <node ref="D1" pin="4"/>
+    </net>
+    <net code="73" name="/Target/ADC_3">
+      <node ref="J2" pin="12"/>
+      <node ref="U3" pin="3"/>
+    </net>
+    <net code="74" name="/Target/ADC_0">
+      <node ref="U3" pin="9"/>
+      <node ref="J2" pin="6"/>
+    </net>
+    <net code="75" name="/Target/ADC_2">
+      <node ref="U3" pin="5"/>
+      <node ref="J2" pin="8"/>
+    </net>
+    <net code="76" name="Net-(U3-Pad17)">
+      <node ref="U3" pin="17"/>
+    </net>
+    <net code="77" name="/Target/ADC_4">
+      <node ref="J2" pin="10"/>
+      <node ref="U3" pin="1"/>
+    </net>
+    <net code="78" name="Net-(J4-Pad7)">
+      <node ref="J4" pin="7"/>
+    </net>
+    <net code="79" name="Net-(U1-Pad2)">
+      <node ref="U1" pin="2"/>
+      <node ref="U2" pin="55"/>
+    </net>
+    <net code="80" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1"/>
+      <node ref="SW2" pin="1"/>
+    </net>
+    <net code="81" name="Net-(U1-Pad3)">
+      <node ref="U2" pin="54"/>
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="82" name="/Target/GPIO6">
+      <node ref="U2" pin="8"/>
+      <node ref="J5" pin="13"/>
+      <node ref="J4" pin="4"/>
+    </net>
+    <net code="83" name="/Target/GPIO19">
+      <node ref="U2" pin="30"/>
+      <node ref="J2" pin="9"/>
+    </net>
+    <net code="84" name="Net-(R9-Pad1)">
+      <node ref="U3" pin="2"/>
+      <node ref="U3" pin="10"/>
+      <node ref="R9" pin="1"/>
+      <node ref="U2" pin="29"/>
+    </net>
+    <net code="85" name="/Target/PWM6B">
+      <node ref="J5" pin="3"/>
+      <node ref="U2" pin="16"/>
+    </net>
+    <net code="86" name="/Target/PWM5A">
+      <node ref="U2" pin="13"/>
+      <node ref="J4" pin="9"/>
+      <node ref="J5" pin="5"/>
+    </net>
+    <net code="87" name="Net-(U1-Pad5)">
+      <node ref="U2" pin="53"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="88" name="Net-(U1-Pad6)">
+      <node ref="U1" pin="6"/>
+      <node ref="U2" pin="52"/>
+    </net>
+    <net code="89" name="Net-(U1-Pad7)">
+      <node ref="U1" pin="7"/>
+      <node ref="U2" pin="51"/>
+    </net>
+    <net code="90" name="/Target/GPIO3">
+      <node ref="U2" pin="5"/>
+      <node ref="J5" pin="20"/>
+      <node ref="J4" pin="10"/>
+    </net>
+    <net code="91" name="Net-(R4-Pad1)">
+      <node ref="U2" pin="47"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="92" name="Net-(R3-Pad1)">
+      <node ref="U2" pin="46"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="93" name="/Target/GPIO23">
+      <node ref="U2" pin="35"/>
+      <node ref="J2" pin="15"/>
+    </net>
+    <net code="94" name="/Target/PWM6A">
+      <node ref="U2" pin="15"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="95" name="Net-(J4-Pad8)">
+      <node ref="J4" pin="8"/>
+    </net>
+    <net code="96" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1"/>
+    </net>
+    <net code="97" name="Net-(J4-Pad14)">
+      <node ref="J4" pin="14"/>
+    </net>
+    <net code="98" name="Net-(J5-Pad11)">
+      <node ref="J5" pin="11"/>
+    </net>
+    <net code="99" name="Net-(J5-Pad9)">
+      <node ref="J5" pin="9"/>
+    </net>
+    <net code="100" name="Net-(J2-Pad20)">
+      <node ref="J2" pin="20"/>
+    </net>
+    <net code="101" name="Net-(J2-Pad18)">
+      <node ref="J2" pin="18"/>
+    </net>
+    <net code="102" name="/Target/ADC_1">
+      <node ref="J2" pin="3"/>
+      <node ref="U3" pin="7"/>
+    </net>
+    <net code="103" name="/Target/SPI0_RX">
+      <node ref="J5" pin="14"/>
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="104" name="/Target/SPI0_TX">
+      <node ref="U2" pin="9"/>
+      <node ref="J5" pin="12"/>
+    </net>
+    <net code="105" name="/Target/PWM7A">
+      <node ref="J5" pin="1"/>
+      <node ref="U2" pin="17"/>
+    </net>
+    <net code="106" name="/Target/UART1_TX">
+      <node ref="U2" pin="31"/>
+      <node ref="J4" pin="3"/>
+      <node ref="J2" pin="7"/>
+    </net>
+    <net code="107" name="/Target/UART1_RX">
+      <node ref="U2" pin="32"/>
+      <node ref="J4" pin="2"/>
+      <node ref="J2" pin="5"/>
+    </net>
+    <net code="108" name="/Target/I2C0_SDA">
+      <node ref="U2" pin="36"/>
+      <node ref="J2" pin="19"/>
+      <node ref="J4" pin="6"/>
+    </net>
+    <net code="109" name="/Target/I2C0_SCL">
+      <node ref="U2" pin="37"/>
+      <node ref="J4" pin="5"/>
+      <node ref="J2" pin="17"/>
+    </net>
+    <net code="110" name="/Target/SPI0_SCK">
+      <node ref="J2" pin="13"/>
+      <node ref="U2" pin="34"/>
+    </net>
+    <net code="111" name="/Target/ADC_6">
+      <node ref="U3" pin="13"/>
+      <node ref="J2" pin="11"/>
+    </net>
+    <net code="112" name="/Target/GPIO9">
+      <node ref="U2" pin="12"/>
+      <node ref="J5" pin="8"/>
+    </net>
+    <net code="113" name="/Target/PWM4A">
+      <node ref="J5" pin="7"/>
+      <node ref="J4" pin="11"/>
+      <node ref="U2" pin="11"/>
+    </net>
+    <net code="114" name="/Target/GPIO11">
+      <node ref="U2" pin="14"/>
+      <node ref="J4" pin="12"/>
+      <node ref="J5" pin="6"/>
+    </net>
+    <net code="115" name="Net-(J5-Pad4)">
+      <node ref="R10" pin="1"/>
+      <node ref="J5" pin="4"/>
+    </net>
+    <net code="116" name="/Target/GPIO2">
+      <node ref="J5" pin="19"/>
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="117" name="/Target/GPIO15">
+      <node ref="J5" pin="18"/>
+      <node ref="U2" pin="18"/>
+    </net>
+    <net code="118" name="/Target/SPI0_CS">
+      <node ref="J5" pin="16"/>
+      <node ref="U2" pin="7"/>
+    </net>
+    <net code="119" name="Net-(R6-Pad2)">
+      <node ref="U1" pin="1"/>
+      <node ref="R6" pin="2"/>
+      <node ref="U2" pin="56"/>
+      <node ref="SW2" pin="2"/>
+    </net>
+    <net code="120" name="Net-(C4-Pad1)">
+      <node ref="C5" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="U2" pin="50"/>
+      <node ref="U2" pin="45"/>
+      <node ref="U2" pin="23"/>
+      <node ref="C6" pin="1"/>
+    </net>
+    <net code="121" name="Net-(C3-Pad2)">
+      <node ref="R5" pin="1"/>
+      <node ref="C3" pin="2"/>
+      <node ref="Y1" pin="3"/>
+    </net>
+    <net code="122" name="Net-(R5-Pad2)">
+      <node ref="U2" pin="21"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="123" name="Net-(C2-Pad2)">
+      <node ref="U2" pin="20"/>
+      <node ref="Y1" pin="1"/>
+      <node ref="C2" pin="2"/>
+    </net>
+    <net code="124" name="Net-(USB1-Pad4)">
+      <node ref="USB1" pin="4"/>
+    </net>
+    <net code="125" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2"/>
+      <node ref="USB1" pin="2"/>
+    </net>
+    <net code="126" name="Net-(R4-Pad2)">
+      <node ref="USB1" pin="3"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="127" name="/Target/~RESET">
+      <node ref="R1" pin="1"/>
+      <node ref="U2" pin="26"/>
+      <node ref="J5" pin="10"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="J4" pin="13"/>
+    </net>
+    <net code="128" name="/Target/GPIO29">
+      <node ref="U2" pin="41"/>
+      <node ref="U3" pin="12"/>
+    </net>
+    <net code="129" name="/Target/GPIO26">
+      <node ref="U2" pin="38"/>
+      <node ref="U3" pin="8"/>
+    </net>
+    <net code="130" name="/Target/GPIO27">
+      <node ref="U2" pin="39"/>
+      <node ref="U3" pin="4"/>
+    </net>
+    <net code="131" name="/Target/GPIO28">
+      <node ref="U3" pin="16"/>
+      <node ref="U2" pin="40"/>
+    </net>
+    <net code="132" name="Net-(L1-Pad2)">
+      <node ref="U5" pin="5"/>
+      <node ref="L1" pin="2"/>
+    </net>
+    <net code="133" name="Net-(U6-Pad4)">
+      <node ref="U6" pin="4"/>
+    </net>
+    <net code="134" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2"/>
+      <node ref="R15" pin="2"/>
+    </net>
+    <net code="135" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2"/>
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="136" name="Net-(D3-Pad1)">
+      <node ref="R11" pin="1"/>
+      <node ref="D3" pin="1"/>
+    </net>
+    <net code="137" name="Net-(J7-Pad1)">
+      <node ref="U4" pin="3"/>
+      <node ref="J7" pin="1"/>
+    </net>
+    <net code="138" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="J9" pin="1"/>
+    </net>
+    <net code="139" name="Net-(C17-Pad2)">
+      <node ref="U5" pin="1"/>
+      <node ref="U5" pin="3"/>
+      <node ref="J7" pin="2"/>
+      <node ref="R13" pin="1"/>
+      <node ref="L1" pin="1"/>
+      <node ref="J8" pin="2"/>
+      <node ref="C17" pin="2"/>
+    </net>
+    <net code="140" name="Net-(R12-Pad1)">
+      <node ref="R12" pin="1"/>
+      <node ref="U4" pin="5"/>
+    </net>
+    <net code="141" name="Net-(C18-Pad2)">
+      <node ref="D5" pin="2"/>
+      <node ref="U5" pin="4"/>
+      <node ref="C18" pin="2"/>
+    </net>
+  </nets>
+</export>
