@@ -6573,7 +6573,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:QFN40P700X700X90-57N"
+		(property "Footprint" "rp2350b-launchpad-PCB:QFN40P700X700X90-57N"
 			(at 179.07 99.06 0)
 			(effects
 				(font
@@ -9973,7 +9973,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:USB-C-GCT-USB4105"
+		(property "Footprint" "rp2350b-launchpad-PCB:USB-C-GCT-USB4105"
 			(at 59.69 78.74 0)
 			(effects
 				(font

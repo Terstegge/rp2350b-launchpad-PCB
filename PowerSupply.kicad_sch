@@ -3688,7 +3688,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:JST-S2B-PH-KL"
+		(property "Footprint" "rp2350b-launchpad-PCB:JST-S2B-PH-KL"
 			(at 93.98 100.33 0)
 			(effects
 				(font
@@ -5042,7 +5042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rp2350-launchpad:PCM13SMTR"
+		(property "Footprint" "rp2350b-launchpad-PCB:PCM13SMTR"
 			(at 166.37 87.63 0)
 			(effects
 				(font
