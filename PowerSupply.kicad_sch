@@ -4,6 +4,15 @@
 	(generator_version "8.0")
 	(uuid "3a2329c1-aa2b-4657-a127-7497f1433321")
 	(paper "A4")
+	(title_block
+		(title "RP2350 Launchpad")
+		(date "2024-12-10")
+		(rev "v1.0")
+		(company "ISS Intelligent Sensor Solutions")
+		(comment 1 "(C) 2024 A. Terstegge")
+		(comment 2 "and integrated RP2040-based debugger")
+		(comment 3 "A TI-style Launchpad with RP2350 MCU")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
