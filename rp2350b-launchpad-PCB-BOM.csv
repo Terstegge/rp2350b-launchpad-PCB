@@ -1,45 +1,59 @@
-Comment,Designator,Footprint,LCSC Part Number
-22u,"C1,C2,C4,C5,C3",C_0805_2012Metric,
-1uF,"C12,C13,C11",C_0603_1608Metric,
-"4,7u",C21,C_0402_1005Metric,
-100nF,"C22,C33,C36,C38,C40,C37,C32,C31,C35,C34,C39",C_0402_1005Metric,
-4.7u,"C23,C25",C_0603_1608Metric,
-15pF,"C27,C26",C_0402_1005Metric,
-4.7u,"C29,C24",C_0402_1005Metric,
-100n,"C30,C28",C_0402_1005Metric,
-15pF,"C7,C8",C_0603_1608Metric,
-100nF,"C9,C10,C14,C16,C18,C20,C19,C17,C15,C6",C_0603_1608Metric,
-Charge,D1,LED_0603_1608Metric,
-PWR ORANGE,D2,LED_0603_1608Metric,
-BLUE,D3,LED_0603_1608Metric,
-GREEN,D4,LED_0603_1608Metric,
-RED,D5,LED_0603_1608Metric,
-LED,D6,LED_0603_1608Metric,
-4u7,"L1,L2",L_1008_2520Metric,
-1k,"R1,R5,R9,R12",R_0603_1608Metric,
-27R,"R10,R11",R_0603_1608Metric,
-10k,"R13,R26",R_0603_1608Metric,
-470R,"R15,R16,R14,R33",R_0603_1608Metric,
-33R,R18,R_0402_1005Metric,
-5k1,"R19,R8,R20,R7",R_0603_1608Metric,
-2k,R2,R_0603_1608Metric,
-27R,"R22,R23",R_0402_1005Metric,
-10k,"R24,R25",R_0402_1005Metric,
-1k,"R27,R30,R32,R21,R29,R28,R31",R_0402_1005Metric,
-100k,"R3,R4,R6,R17",R_0603_1608Metric,
-S1,S1,DIPT-1188E,
-S2,S2,DIPT-1188E,
-Switch_SP3T,SW1,PCM13SMTR,
-RESET,SW2,DIPT-1188E,
-BOOT,SW3,KMR2-Switch,
-MCP73831,U1,SOT-23-5,
-WS2812B-2020,"U10,U11,U12,U13,U14,U15,U16,U9",WS2812B-2020,
-XC9142B50C,U2,SOT-23-5,
-XC6220B33,U3,SOT-23-5,
-25Q32,U4,WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm,
-RP2040,U5,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,
-25Q64,U6,WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm,
-APS6404L-3SQR,U7,Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm,
-RP2350_80QFN,U8,QFN-80-1EP_10x10mm_P0.4mm_EP3.4x3.4mm_ThermalVias,
-USB-C-Socket,"USB2,USB1",USB-C-GCT-USB4105,
-12MHz,"Y1,Y2",Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm,
+"ID";"Bezeichner";"Footprint";"Stückzahl";"Bezeichnung";"Anbieter und Referenz";
+1;"C22,C33,C36,C38,C40,C37,C32,C31,C35,C34,C39";"C_0402_1005Metric";11;"100nF";;;
+2;"C1,C2,C4,C5,C3";"C_0805_2012Metric";5;"22u";;;
+3;"C7,C8";"C_0603_1608Metric";2;"15pF";;;
+4;"C9,C10,C14,C16,C18,C20,C19,C17,C15,C6";"C_0603_1608Metric";10;"100nF";;;
+5;"C12,C13,C11";"C_0603_1608Metric";3;"1uF";;;
+6;"D1";"LED_0603_1608Metric";1;"Charge";;;
+7;"D2";"LED_0603_1608Metric";1;"PWR";;;
+8;"D3";"LED_0603_1608Metric";1;"BLUE";;;
+9;"D4";"LED_0603_1608Metric";1;"GREEN";;;
+10;"D5";"LED_0603_1608Metric";1;"RED";;;
+11;"J12";"PinHeader_2x10_P2.54mm_Vertical";1;"LP Header left";;;
+12;"J13,J16";"PinHeader_1x03_P2.54mm_Vertical";2;"PWR Header";;;
+13;"J14";"PinHeader_2x10_P2.54mm_Vertical";1;"LP Extension Heder";;;
+14;"J15";"PinHeader_2x10_P2.54mm_Vertical";1;"LP Header right";;;
+15;"J2,J10,J9,J8";"SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm";4;"Jumper";;;
+16;"J5";"PinHeader_1x02_P2.54mm_Vertical";1;"DBG_PRGM";;;
+17;"J7";"PinHeader_2x08_P2.54mm_Vertical";1;"DGB Exp. Header";;;
+18;"L1";"L_1008_2520Metric";1;"4u7";;;
+19;"R27,R30,R32,R21,R29,R28,R31";"R_0402_1005Metric";7;"1k";;;
+20;"R24,R25";"R_0402_1005Metric";2;"10k";;;
+21;"R1,R5,R9,R12";"R_0603_1608Metric";4;"1k";;;
+22;"R3,R4,R6,R17";"R_0603_1608Metric";4;"100k";;;
+23;"R10,R11";"R_0603_1608Metric";2;"27";;;
+24;"R13,R26";"R_0603_1608Metric";2;"10k";;;
+25;"R15,R16,R14,R33";"R_0603_1608Metric";4;"470";;;
+26;"SW2";"DIPT-1188E";1;"RESET";;;
+27;"U2";"SOT-23-5";1;"XC9142B50C";;;
+28;"Y1,Y2";"Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm";2;"12MHz";;;
+29;"U4";"WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm";1;"25Q32";;;
+30;"J6";"PinHeader_1x02_P2.54mm_Vertical";1;"UART_DBG";;;
+31;"U5";"QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm";1;"RP2040";;;
+32;"J1";"PinHeader_2x08_P2.54mm_Vertical";1;"Target Isolation Jumpers";;;
+33;"U3";"SOT-23-5";1;"XC6220B33";;;
+34;"U1";"SOT-23-5";1;"MCP73831";;;
+35;"R2";"R_0603_1608Metric";1;"2k";;;
+36;"REF**,REF**";"Fiducial_1mm_Mask2mm";2;"Fiducial_1mm_Mask2mm";;;
+37;"U10,U11,U12,U13,U14,U15,U16,U9";"WS2812B-2020";8;"WS2812B-2020";;;
+38;"SW3";"KMR2-Switch";1;"BOOT";;;
+39;"G***,G***";"raspberry";2;"LOGO";;;
+40;"SW1";"PCM13SMTR";1;"Switch_SP3T";;;
+41;"C23,C25";"C_0603_1608Metric";2;"4.7u";;;
+42;"C21";"C_0402_1005Metric";1;"4,7u";;;
+43;"R19,R8,R20,R7";"R_0603_1608Metric";4;"5k1";;;
+44;"U7";"Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm";1;"APS6404L-3SQR";;;
+45;"R22,R23";"R_0402_1005Metric";2;"27";;;
+46;"L2";"AOTA-B201610S3R3-101-T";1;"3u3";;;
+47;"C29,C24";"C_0402_1005Metric";2;"4.7u";;;
+48;"C30,C28";"C_0402_1005Metric";2;"100n";;;
+49;"C27,C26";"C_0402_1005Metric";2;"15pF";;;
+50;"USB2,USB1";"GT-USB-7010B";2;"USB-C-Socket";;;
+51;"J11,J4";"PinHeader_1x02_P2.54mm_Vertical";2;"Jumper";;;
+52;"S1";"DIPT-1188E";1;"S1";;;
+53;"R18";"R_0402_1005Metric";1;"33";;;
+54;"S2";"DIPT-1188E";1;"S2";;;
+55;"D6";"LED_0603_1608Metric";1;"LED";;;
+56;"U6";"WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm";1;"25Q64";;;
+57;"U8";"QFN-80-1EP_10x10mm_P0.4mm_EP3.4x3.4mm_ThermalVias";1;"RP2350_80QFN";;;
+58;"J3";"JST-S2B-PH-KL";1;"LiPo 3,7V Batt.";;;
