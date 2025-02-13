@@ -3267,7 +3267,7 @@
 	)
 	(text "J2 can be opened to disconnect the charger, which can\nonly be used for single-cell LiPos (3.7V). XC9142B50C\naccepts input voltages up to 6.0V, so other batteries\n(e.g. non-chargeable batteries) can also be used."
 		(exclude_from_sim no)
-		(at 62.23 66.04 0)
+		(at 62.23 65.532 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3290,7 +3290,6 @@
 	(hierarchical_label "VBUS_TRGT"
 		(shape input)
 		(at 45.72 123.19 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3302,7 +3301,6 @@
 	(hierarchical_label "VBat"
 		(shape output)
 		(at 246.38 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3314,7 +3312,6 @@
 	(hierarchical_label "VBUS_DBG"
 		(shape input)
 		(at 45.72 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3552,7 +3549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/torex-semiconductor-ltd/XC9142A50CMR-G/10158636"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/TorexSemicon-XC9142B50CMRG/C2468807"
 			(at 132.08 90.17 0)
 			(effects
 				(font
@@ -3561,7 +3558,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C2468807"
+			(at 134.62 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "Torex Semicon"
+			(at 134.62 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2468807"
 			(at 134.62 95.25 0)
 			(effects
 				(font
@@ -3628,7 +3643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/torex-semiconductor-ltd/XC6220B331MR-G/2138177"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Tdsemic-XC6220B331MR/C22466451"
 			(at 201.93 90.17 0)
 			(effects
 				(font
@@ -3637,7 +3652,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C22466451"
+			(at 204.47 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "TDSEMIC"
+			(at 204.47 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C22466451"
 			(at 204.47 95.25 0)
 			(effects
 				(font
@@ -3706,7 +3739,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 93.98 100.33 0)
 			(effects
 				(font
@@ -3716,6 +3749,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 93.98 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 93.98 100.33 0)
 			(effects
 				(font
@@ -3764,7 +3806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_1008_2520Metric"
+		(property "Footprint" "rp2350b-launchpad-PCB:AOTA-B201610S3R3-101-T"
 			(at 134.62 80.01 0)
 			(effects
 				(font
@@ -3773,7 +3815,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/bourns-inc/CVH252009-4R7M/3440074?s=N4IgjCBcoEwAwA4DsVQGMoDMCGAbAzgKYA0IA9lANogAsAdEgAQCtAEiALqkAOALlCACqAOwCWvAPKYAsoWz4ArgCdCIAL5rSMKiADCANVYwArPDgBOTmqA"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/AbraconLlc-AOTA_B201610S3R3_101T/C42411119"
 			(at 134.62 80.01 0)
 			(effects
 				(font
@@ -3782,7 +3824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C42411119"
 			(at 134.62 80.01 0)
 			(effects
 				(font
@@ -3791,7 +3833,25 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "BOURNS"
+		(property "MANUFACTURER" "Abracon LLC"
+			(at 134.62 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "Abracon LLC"
+			(at 134.62 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C42411119"
 			(at 134.62 80.01 0)
 			(effects
 				(font
@@ -3849,7 +3909,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190"
 			(at 58.42 99.06 0)
 			(effects
 				(font
@@ -3858,7 +3918,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C21190"
 			(at 58.42 99.06 0)
 			(effects
 				(font
@@ -3868,6 +3928,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 58.42 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 58.42 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C21190"
 			(at 58.42 99.06 0)
 			(effects
 				(font
@@ -3992,7 +4070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AF0603FR-07100KL/5900861"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26546-0603WAF1003T5E/C25803"
 			(at 115.57 93.98 0)
 			(effects
 				(font
@@ -4001,7 +4079,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25803"
 			(at 115.57 93.98 0)
 			(effects
 				(font
@@ -4010,7 +4088,16 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 115.57 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25803"
 			(at 115.57 93.98 0)
 			(effects
 				(font
@@ -4070,7 +4157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AF0603FR-07100KL/5900861"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26546-0603WAF1003T5E/C25803"
 			(at 115.57 104.14 0)
 			(effects
 				(font
@@ -4079,7 +4166,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25803"
 			(at 115.57 104.14 0)
 			(effects
 				(font
@@ -4088,7 +4175,16 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 115.57 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25803"
 			(at 115.57 104.14 0)
 			(effects
 				(font
@@ -4146,7 +4242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/microchip-technology/MCP73831T-2ACI-OT/964301"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/MicrochipTech-MCP73831T_2ACIOT/C424093"
 			(at 71.12 90.17 0)
 			(effects
 				(font
@@ -4155,7 +4251,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C424093"
+			(at 73.66 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "Microchip Tech"
+			(at 73.66 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C424093"
 			(at 73.66 95.25 0)
 			(effects
 				(font
@@ -4225,7 +4339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/harvatek-corporation/B1911UD-20D001014U1930/15519993"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Hubei_KentoElec-KT0603W/C2290"
 			(at 58.42 92.71 0)
 			(effects
 				(font
@@ -4234,7 +4348,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C2290"
 			(at 58.42 92.71 0)
 			(effects
 				(font
@@ -4243,7 +4357,16 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "Hubei KENTO Elec"
+			(at 58.42 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2290"
 			(at 58.42 92.71 0)
 			(effects
 				(font
@@ -4286,7 +4409,7 @@
 			)
 		)
 		(property "Value" "22u"
-			(at 43.815 100.965 0)
+			(at 43.18 100.965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4303,7 +4426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0805C226M8PAC7210/12701023"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"
 			(at 49.53 99.06 0)
 			(effects
 				(font
@@ -4312,7 +4435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C45783"
 			(at 49.53 99.06 0)
 			(effects
 				(font
@@ -4321,7 +4444,25 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 49.53 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 49.53 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C45783"
 			(at 49.53 99.06 0)
 			(effects
 				(font
@@ -4381,7 +4522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0805C226M8PAC7210/12701023"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"
 			(at 107.95 99.06 0)
 			(effects
 				(font
@@ -4390,7 +4531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C45783"
 			(at 107.95 99.06 0)
 			(effects
 				(font
@@ -4399,7 +4540,25 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 107.95 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 107.95 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C45783"
 			(at 107.95 99.06 0)
 			(effects
 				(font
@@ -4459,7 +4618,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3EKF2001V/196183"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23702-0603WAF2001T5E/C22975"
 			(at 85.09 96.52 0)
 			(effects
 				(font
@@ -4468,7 +4627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C22975"
 			(at 85.09 96.52 0)
 			(effects
 				(font
@@ -4477,7 +4636,16 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "1% Toleranz"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 85.09 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C22975"
 			(at 85.09 96.52 0)
 			(effects
 				(font
@@ -4537,7 +4705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0805C226M8PAC7210/12701023"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"
 			(at 153.67 99.06 0)
 			(effects
 				(font
@@ -4546,7 +4714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C45783"
 			(at 153.67 99.06 0)
 			(effects
 				(font
@@ -4555,7 +4723,25 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 153.67 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 153.67 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C45783"
 			(at 153.67 99.06 0)
 			(effects
 				(font
@@ -4615,7 +4801,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0805C226M8PAC7210/12701023"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"
 			(at 182.88 99.06 0)
 			(effects
 				(font
@@ -4624,7 +4810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C45783"
 			(at 182.88 99.06 0)
 			(effects
 				(font
@@ -4633,7 +4819,25 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 182.88 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 182.88 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C45783"
 			(at 182.88 99.06 0)
 			(effects
 				(font
@@ -4693,7 +4897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0805C226M8PAC7210/12701023"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"
 			(at 226.06 99.06 0)
 			(effects
 				(font
@@ -4702,7 +4906,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C45783"
 			(at 226.06 99.06 0)
 			(effects
 				(font
@@ -4711,7 +4915,25 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 226.06 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 226.06 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C45783"
 			(at 226.06 99.06 0)
 			(effects
 				(font
@@ -4772,7 +4994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/harvatek-corporation/B1911UD-20D001014U1930/15519993"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Hubei_KentoElec-KT0603W/C2290"
 			(at 232.41 102.87 0)
 			(effects
 				(font
@@ -4781,7 +5003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C2290"
 			(at 232.41 102.87 0)
 			(effects
 				(font
@@ -4790,7 +5012,16 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "Hubei KENTO Elec"
+			(at 232.41 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2290"
 			(at 232.41 102.87 0)
 			(effects
 				(font
@@ -4850,7 +5081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190"
 			(at 232.41 93.98 0)
 			(effects
 				(font
@@ -4859,7 +5090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C21190"
 			(at 232.41 93.98 0)
 			(effects
 				(font
@@ -4869,6 +5100,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 232.41 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 232.41 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C21190"
 			(at 232.41 93.98 0)
 			(effects
 				(font
@@ -4927,7 +5176,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 91.44 87.63 0)
 			(effects
 				(font
@@ -4937,6 +5186,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 87.63 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 87.63 87.63 0)
 			(effects
 				(font
@@ -5036,19 +5294,20 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000063a861c8")
 		(property "Reference" "SW1"
-			(at 168.91 81.915 0)
+			(at 168.91 84.455 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Switch_SP3T"
+		(property "Value" "Power Select"
 			(at 168.91 84.2264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "rp2350b-launchpad-PCB:PCM13SMTR"
@@ -5060,7 +5319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/ck-PCM13SMTR/C221842"
 			(at 166.37 87.63 0)
 			(effects
 				(font
@@ -5069,7 +5328,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C221842"
+			(at 166.37 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "C&K"
+			(at 166.37 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C221842"
 			(at 166.37 87.63 0)
 			(effects
 				(font
@@ -5137,7 +5414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 171.45 123.19 0)
 			(effects
 				(font
@@ -5147,6 +5424,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 167.64 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 167.64 123.19 0)
 			(effects
 				(font

@@ -1735,7 +1735,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 151.13 104.14 0)
 			(effects
 				(font
@@ -1745,6 +1745,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 151.13 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 151.13 104.14 0)
 			(effects
 				(font

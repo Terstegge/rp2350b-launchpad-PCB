@@ -494,7 +494,7 @@
       "idf": "",
       "netlist": "rp2350b-launchpad-PCB.net",
       "plot": "gerber/",
-      "pos_files": "gerber/",
+      "pos_files": "",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -504,7 +504,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "rp2350b-launchpad-PCB-BOM.csv",
+    "bom_export_filename": "rp2350b-launchpad-PCB-BOM_new.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -535,7 +535,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -547,7 +547,7 @@
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -590,6 +590,18 @@
           "label": "Beschreibung",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Hersteller",
+          "name": "Hersteller",
+          "show": false
+        },
+        {
+          "group_by": true,
+          "label": "JLCPCB Part #",
+          "name": "JLCPCB Part #",
+          "show": true
         }
       ],
       "filter_string": "",
@@ -650,7 +662,7 @@
   "sheets": [
     [
       "60290668-847e-40fe-8544-1cbbc26023b6",
-      "Stammblatt"
+      "Root"
     ],
     [
       "00000000-0000-0000-0000-00006284c5d3",

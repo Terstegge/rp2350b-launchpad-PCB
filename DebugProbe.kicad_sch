@@ -5497,7 +5497,6 @@
 	)
 	(label "G22_DBG"
 		(at 187.96 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5508,7 +5507,6 @@
 	)
 	(label "G16_DBG"
 		(at 176.53 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5519,7 +5517,6 @@
 	)
 	(label "G29_DBG"
 		(at 176.53 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5530,7 +5527,6 @@
 	)
 	(label "G24_DBG"
 		(at 176.53 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5541,7 +5537,6 @@
 	)
 	(label "G26_DBG"
 		(at 187.96 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5552,7 +5547,6 @@
 	)
 	(label "G28_DBG"
 		(at 187.96 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5563,7 +5557,6 @@
 	)
 	(label "G17_DBG"
 		(at 176.53 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5574,7 +5567,6 @@
 	)
 	(label "G28_DBG"
 		(at 176.53 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5585,7 +5577,6 @@
 	)
 	(label "G19_DBG"
 		(at 222.25 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5596,7 +5587,6 @@
 	)
 	(label "G16_DBG"
 		(at 187.96 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5607,7 +5597,6 @@
 	)
 	(label "G22_DBG"
 		(at 176.53 124.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5618,7 +5607,6 @@
 	)
 	(label "G26_DBG"
 		(at 176.53 134.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5629,7 +5617,6 @@
 	)
 	(label "G20_DBG"
 		(at 176.53 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5640,7 +5627,6 @@
 	)
 	(label "G21_DBG"
 		(at 222.25 132.08 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5651,7 +5637,6 @@
 	)
 	(label "G29_DBG"
 		(at 222.25 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5662,7 +5647,6 @@
 	)
 	(label "G23_DBG"
 		(at 176.53 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5673,7 +5657,6 @@
 	)
 	(label "G25_DBG"
 		(at 176.53 132.08 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5684,7 +5667,6 @@
 	)
 	(label "G23_DBG"
 		(at 222.25 134.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5695,7 +5677,6 @@
 	)
 	(label "G27_DBG"
 		(at 222.25 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5706,7 +5687,6 @@
 	)
 	(label "G21_DBG"
 		(at 176.53 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5717,7 +5697,6 @@
 	)
 	(label "G18_DBG"
 		(at 187.96 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5728,7 +5707,6 @@
 	)
 	(label "G20_DBG"
 		(at 187.96 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5739,7 +5717,6 @@
 	)
 	(label "G24_DBG"
 		(at 187.96 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5750,7 +5727,6 @@
 	)
 	(label "G25_DBG"
 		(at 222.25 137.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5761,7 +5737,6 @@
 	)
 	(label "G19_DBG"
 		(at 176.53 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5772,7 +5747,6 @@
 	)
 	(label "G17_DBG"
 		(at 222.25 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5783,7 +5757,6 @@
 	)
 	(label "G27_DBG"
 		(at 176.53 137.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5794,7 +5767,6 @@
 	)
 	(label "G18_DBG"
 		(at 176.53 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5806,7 +5778,6 @@
 	(hierarchical_label "SWCLK_DBG"
 		(shape output)
 		(at 170.18 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5818,7 +5789,6 @@
 	(hierarchical_label "UART_TX_DBG"
 		(shape output)
 		(at 170.18 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5830,7 +5800,6 @@
 	(hierarchical_label "SWDIO_DBG"
 		(shape output)
 		(at 170.18 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5842,7 +5811,6 @@
 	(hierarchical_label "VBUS_DBG"
 		(shape output)
 		(at 63.5 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5854,7 +5822,6 @@
 	(hierarchical_label "UART_RX_DBG"
 		(shape input)
 		(at 170.18 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5898,7 +5865,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/winbond-electronics/W25Q32JWZPIQ/8568189"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/WinbondElec-W25Q32JVZPIQ/C571260"
 			(at 91.44 135.89 0)
 			(effects
 				(font
@@ -5907,7 +5874,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C571260"
+			(at 93.98 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "Winbond Elec"
+			(at 93.98 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C571260"
 			(at 93.98 135.89 0)
 			(effects
 				(font
@@ -5989,7 +5974,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 152.4 55.88 0)
 			(effects
 				(font
@@ -5998,7 +5983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 152.4 55.88 0)
 			(effects
 				(font
@@ -6017,6 +6002,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 152.4 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 152.4 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
 			(at 152.4 55.88 0)
 			(effects
 				(font
@@ -6077,7 +6080,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 158.75 55.88 0)
 			(effects
 				(font
@@ -6086,7 +6089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 158.75 55.88 0)
 			(effects
 				(font
@@ -6105,6 +6108,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 158.75 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 158.75 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
 			(at 158.75 55.88 0)
 			(effects
 				(font
@@ -6165,7 +6186,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 165.1 55.88 0)
 			(effects
 				(font
@@ -6174,7 +6195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 165.1 55.88 0)
 			(effects
 				(font
@@ -6193,6 +6214,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 165.1 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 165.1 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
 			(at 165.1 55.88 0)
 			(effects
 				(font
@@ -6253,7 +6292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 171.45 55.88 0)
 			(effects
 				(font
@@ -6262,7 +6301,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 171.45 55.88 0)
 			(effects
 				(font
@@ -6281,6 +6320,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 171.45 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 171.45 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
 			(at 171.45 55.88 0)
 			(effects
 				(font
@@ -6341,7 +6398,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 177.8 55.88 0)
 			(effects
 				(font
@@ -6350,7 +6407,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 177.8 55.88 0)
 			(effects
 				(font
@@ -6369,6 +6426,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 177.8 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 177.8 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
 			(at 177.8 55.88 0)
 			(effects
 				(font
@@ -6429,7 +6504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 184.15 55.88 0)
 			(effects
 				(font
@@ -6438,7 +6513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 184.15 55.88 0)
 			(effects
 				(font
@@ -6457,6 +6532,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 184.15 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 184.15 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
 			(at 184.15 55.88 0)
 			(effects
 				(font
@@ -6516,7 +6609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 80.01 134.62 0)
 			(effects
 				(font
@@ -6525,7 +6618,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 80.01 134.62 0)
 			(effects
 				(font
@@ -6544,6 +6637,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 80.01 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 80.01 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
 			(at 80.01 134.62 0)
 			(effects
 				(font
@@ -6602,7 +6713,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/raspberry-pi/SC0914-13/14306010"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/RaspberryPi-RP2040/C2040"
 			(at 139.7 105.41 0)
 			(effects
 				(font
@@ -6612,7 +6723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C2040"
 			(at 139.7 105.41 0)
 			(effects
 				(font
@@ -6658,6 +6769,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "Raspberry Pi "
+			(at 139.7 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2040"
+			(at 139.7 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -6875,7 +7004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3EKF27R0V/1746361"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/25933-0603WAF270JT5E/C25190"
 			(at 105.41 83.82 0)
 			(effects
 				(font
@@ -6884,7 +7013,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25190"
 			(at 105.41 83.82 0)
 			(effects
 				(font
@@ -6894,6 +7023,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 105.41 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 105.41 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25190"
 			(at 105.41 83.82 0)
 			(effects
 				(font
@@ -6951,7 +7098,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3EKF27R0V/1746361"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/25933-0603WAF270JT5E/C25190"
 			(at 105.41 86.36 0)
 			(effects
 				(font
@@ -6960,7 +7107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25190"
 			(at 105.41 86.36 0)
 			(effects
 				(font
@@ -6970,6 +7117,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 105.41 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 105.41 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25190"
 			(at 105.41 86.36 0)
 			(effects
 				(font
@@ -7030,7 +7195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 171.45 68.58 0)
 			(effects
 				(font
@@ -7040,6 +7205,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 171.45 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 171.45 68.58 0)
 			(effects
 				(font
@@ -7080,8 +7254,8 @@
 				)
 			)
 		)
-		(property "Value" "GREEN"
-			(at 214.63 73.025 0)
+		(property "Value" "LED GREEN"
+			(at 215.9 73.025 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -7097,7 +7271,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/harvatek-corporation/B1931NG-20D001114U1930/15861262"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Hubei_KentoElec-KT0603G/C12624"
 			(at 209.55 76.2 90)
 			(effects
 				(font
@@ -7106,7 +7280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C12624"
 			(at 209.55 76.2 0)
 			(effects
 				(font
@@ -7115,7 +7289,16 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "Hubei KENTO Elec"
+			(at 209.55 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C12624"
 			(at 209.55 76.2 0)
 			(effects
 				(font
@@ -7173,7 +7356,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 106.68 151.13 0)
 			(effects
 				(font
@@ -7183,6 +7366,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 102.87 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 102.87 151.13 0)
 			(effects
 				(font
@@ -7305,7 +7497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 203.2 132.08 0)
 			(effects
 				(font
@@ -7315,6 +7507,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 203.2 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 203.2 132.08 0)
 			(effects
 				(font
@@ -7414,7 +7615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AF0603FR-07100KL/5900861"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23906-0603WAF4700T5E/C23179"
 			(at 201.93 82.55 0)
 			(effects
 				(font
@@ -7423,7 +7624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C23179"
 			(at 201.93 82.55 0)
 			(effects
 				(font
@@ -7432,7 +7633,16 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 201.93 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23179"
 			(at 201.93 82.55 0)
 			(effects
 				(font
@@ -7539,8 +7749,8 @@
 				)
 			)
 		)
-		(property "Value" "BLUE"
-			(at 213.995 66.675 0)
+		(property "Value" "LED BLUE"
+			(at 215.265 66.675 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -7556,7 +7766,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/harvatek-corporation/B1931NB-20C006714U1930/15861263"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Hubei_KentoElec-KT0603B/C2288"
 			(at 209.55 69.85 90)
 			(effects
 				(font
@@ -7565,7 +7775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C2288"
 			(at 209.55 69.85 0)
 			(effects
 				(font
@@ -7574,7 +7784,25 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "STANDARD" "Hubei KENTO Elec"
+			(at 209.55 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "Hubei KENTO Elec"
+			(at 209.55 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2288"
 			(at 209.55 69.85 0)
 			(effects
 				(font
@@ -7632,7 +7860,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AF0603FR-07100KL/5900861"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23906-0603WAF4700T5E/C23179"
 			(at 201.93 76.2 0)
 			(effects
 				(font
@@ -7641,7 +7869,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C23179"
 			(at 201.93 76.2 0)
 			(effects
 				(font
@@ -7650,7 +7878,16 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 201.93 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23179"
 			(at 201.93 76.2 0)
 			(effects
 				(font
@@ -7691,8 +7928,8 @@
 				)
 			)
 		)
-		(property "Value" "RED"
-			(at 213.995 79.375 0)
+		(property "Value" "LED RED"
+			(at 215.265 79.375 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -7708,7 +7945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/harvatek-corporation/B1911USD-20D000114U1930/15519991"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Hubei_KentoElec-KT0603R/C2286"
 			(at 209.55 82.55 90)
 			(effects
 				(font
@@ -7717,7 +7954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C2286"
 			(at 209.55 82.55 0)
 			(effects
 				(font
@@ -7726,7 +7963,16 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "Hubei KENTO Elec"
+			(at 209.55 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2286"
 			(at 209.55 82.55 0)
 			(effects
 				(font
@@ -7784,7 +8030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AF0603FR-07100KL/5900861"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23906-0603WAF4700T5E/C23179"
 			(at 201.93 69.85 0)
 			(effects
 				(font
@@ -7793,7 +8039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C23179"
 			(at 201.93 69.85 0)
 			(effects
 				(font
@@ -7802,7 +8048,16 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 201.93 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23179"
 			(at 201.93 69.85 0)
 			(effects
 				(font
@@ -7927,7 +8182,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C105K8RAC7867/2199790"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
 			(at 120.65 55.88 0)
 			(effects
 				(font
@@ -7936,7 +8191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C15849"
 			(at 120.65 55.88 0)
 			(effects
 				(font
@@ -7955,6 +8210,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 120.65 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 120.65 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15849"
 			(at 120.65 55.88 0)
 			(effects
 				(font
@@ -8014,7 +8287,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 190.5 55.88 0)
 			(effects
 				(font
@@ -8023,7 +8296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 190.5 55.88 0)
 			(effects
 				(font
@@ -8042,6 +8315,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 190.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 190.5 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
 			(at 190.5 55.88 0)
 			(effects
 				(font
@@ -8101,7 +8392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 88.9 55.88 0)
 			(effects
 				(font
@@ -8110,7 +8401,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 88.9 55.88 0)
 			(effects
 				(font
@@ -8129,6 +8420,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 88.9 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 88.9 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
 			(at 88.9 55.88 0)
 			(effects
 				(font
@@ -8189,7 +8498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 95.25 55.88 0)
 			(effects
 				(font
@@ -8198,7 +8507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 95.25 55.88 0)
 			(effects
 				(font
@@ -8217,6 +8526,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 95.25 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 95.25 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
 			(at 95.25 55.88 0)
 			(effects
 				(font
@@ -8339,7 +8666,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3GEYJ103V/135662"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804"
 			(at 114.3 151.13 0)
 			(effects
 				(font
@@ -8348,7 +8675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25804"
 			(at 114.3 151.13 0)
 			(effects
 				(font
@@ -8357,7 +8684,16 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 114.3 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25804"
 			(at 114.3 151.13 0)
 			(effects
 				(font
@@ -8480,7 +8816,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190"
 			(at 93.98 151.13 0)
 			(effects
 				(font
@@ -8489,7 +8825,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C21190"
 			(at 93.98 151.13 0)
 			(effects
 				(font
@@ -8498,7 +8834,16 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 93.98 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C21190"
 			(at 93.98 151.13 0)
 			(effects
 				(font
@@ -8686,7 +9031,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190"
 			(at 105.41 109.22 0)
 			(effects
 				(font
@@ -8695,7 +9040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C21190"
 			(at 105.41 109.22 0)
 			(effects
 				(font
@@ -8705,6 +9050,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 105.41 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 105.41 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C21190"
 			(at 105.41 109.22 0)
 			(effects
 				(font
@@ -8764,7 +9127,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C150M8GAC7867/2199937"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1996-CL10C150JB8NNNC/C1644"
 			(at 86.36 109.22 0)
 			(effects
 				(font
@@ -8773,7 +9136,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1644"
 			(at 86.36 109.22 0)
 			(effects
 				(font
@@ -8782,7 +9145,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "Hersteller" "Samsung Electro-Mechanics"
 			(at 86.36 109.22 0)
 			(effects
 				(font
@@ -8791,7 +9154,7 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "JLCPCB Part #" "C1644"
 			(at 86.36 109.22 0)
 			(effects
 				(font
@@ -8851,7 +9214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C150M8GAC7867/2199937"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1996-CL10C150JB8NNNC/C1644"
 			(at 86.36 99.06 0)
 			(effects
 				(font
@@ -8860,7 +9223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1644"
 			(at 86.36 99.06 0)
 			(effects
 				(font
@@ -8869,7 +9232,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "Hersteller" "Samsung Electro-Mechanics"
 			(at 86.36 99.06 0)
 			(effects
 				(font
@@ -8878,7 +9241,7 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "JLCPCB Part #" "C1644"
 			(at 86.36 99.06 0)
 			(effects
 				(font
@@ -9003,7 +9366,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C105K8RAC7867/2199790"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
 			(at 105.41 55.88 0)
 			(effects
 				(font
@@ -9012,7 +9375,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C15849"
 			(at 105.41 55.88 0)
 			(effects
 				(font
@@ -9031,6 +9394,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 105.41 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 105.41 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15849"
 			(at 105.41 55.88 0)
 			(effects
 				(font
@@ -9090,7 +9471,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C105K8RAC7867/2199790"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
 			(at 139.7 151.13 0)
 			(effects
 				(font
@@ -9099,7 +9480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C15849"
 			(at 139.7 151.13 0)
 			(effects
 				(font
@@ -9118,6 +9499,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 139.7 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 139.7 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15849"
 			(at 139.7 151.13 0)
 			(effects
 				(font
@@ -9233,7 +9632,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm"
+		(property "Footprint" "Crystal:Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm"
 			(at 93.98 104.14 0)
 			(effects
 				(font
@@ -9242,7 +9641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/txc-corporation/7M-12-000MAAE-T/3674337"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/AbraconLlc-ABM8_272T3/C20625731"
 			(at 93.98 104.14 0)
 			(effects
 				(font
@@ -9252,6 +9651,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 93.98 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "Abracon LLC"
+			(at 93.98 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C20625731"
 			(at 93.98 104.14 0)
 			(effects
 				(font
@@ -9708,7 +10125,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26546-0603WAF1003T5E/C25803"
 			(at 55.88 107.95 0)
 			(effects
 				(font
@@ -9717,7 +10134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25803"
 			(at 55.88 107.95 0)
 			(effects
 				(font
@@ -9726,7 +10143,16 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 55.88 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25803"
 			(at 55.88 107.95 0)
 			(effects
 				(font
@@ -9849,7 +10275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186"
 			(at 64.77 77.47 0)
 			(effects
 				(font
@@ -9858,7 +10284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C23186"
 			(at 64.77 77.47 0)
 			(effects
 				(font
@@ -9868,6 +10294,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 64.77 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 64.77 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 64.77 77.47 0)
 			(effects
 				(font
@@ -9925,7 +10369,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186"
 			(at 64.77 100.33 0)
 			(effects
 				(font
@@ -9934,7 +10378,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C23186"
 			(at 64.77 100.33 0)
 			(effects
 				(font
@@ -9944,6 +10388,24 @@
 			)
 		)
 		(property "STANDARD" "unkritisch"
+			(at 64.77 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 64.77 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 64.77 100.33 0)
 			(effects
 				(font
@@ -9984,7 +10446,7 @@
 				)
 			)
 		)
-		(property "Value" "USB-C-Socket"
+		(property "Value" "USB-C Connector"
 			(at 45.72 87.63 90)
 			(effects
 				(font
@@ -10001,7 +10463,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/gswitch-GT_USB7010B/C2837092"
 			(at 59.69 78.74 0)
 			(effects
 				(font
@@ -10010,8 +10472,26 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C283709"
 			(at 59.69 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Hersteller" "G-Switch"
+			(at 57.15 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2837092"
+			(at 57.15 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)

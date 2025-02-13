@@ -326,7 +326,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -339,7 +339,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1525"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -371,6 +371,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e179ff3c-dd23-4c07-82b5-07c3fab3f871")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4dff9541-680d-4346-a0dd-4960a0a87952")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C1525"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19aa042c-174b-4b09-9604-56759f25d5fd")
 			(effects
 				(font
 					(size 1 1)
@@ -565,7 +591,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0805C226M8PAC7210/12701023"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -577,7 +603,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C45783"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -589,12 +615,38 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1f595d30-7788-40aa-aee1-5ff1b91a648b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3853d6d5-06ac-43eb-909b-036983e024c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C45783"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "612bf91b-f327-4dbf-b539-6fa7d090806c")
 			(effects
 				(font
 					(size 1 1)
@@ -789,7 +841,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0805C226M8PAC7210/12701023"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -801,7 +853,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C45783"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -813,12 +865,38 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9dc1f75b-12cd-4334-aceb-a6d58b92d202")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e97d085-14b5-4d13-ae4c-7d8fdf95909e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C45783"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e96d386c-6ff2-4cb3-99a8-11ab7f9936c2")
 			(effects
 				(font
 					(size 1 1)
@@ -1013,7 +1091,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0805C226M8PAC7210/12701023"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1025,7 +1103,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C45783"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1037,12 +1115,38 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "56071356-6ae8-4506-ba80-3b9c5d9bd01f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1cbd58d8-af7a-479f-b9d1-831790d7144c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C45783"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38e160bf-1e90-426a-8288-b35f2bdc3457")
 			(effects
 				(font
 					(size 1 1)
@@ -1237,7 +1341,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0805C226M8PAC7210/12701023"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1249,7 +1353,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C45783"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1261,12 +1365,38 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5f729a1b-c0ac-451d-aaf3-fdb13d105b0b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9991d3f6-48b4-48b8-a262-76db3778f0fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C45783"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f8eefd6c-6ebe-4be9-a253-294be1832307")
 			(effects
 				(font
 					(size 1 1)
@@ -1461,7 +1591,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C150M8GAC7867/2199937"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1996-CL10C150JB8NNNC/C1644"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1473,7 +1603,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1644"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1485,12 +1615,12 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "Hersteller" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3691ccbb-6407-4da4-a7d2-fd404524e5a6")
+			(uuid "e72460e3-a54a-4612-aca6-4549bfefb405")
 			(effects
 				(font
 					(size 1 1)
@@ -1498,12 +1628,12 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "JLCPCB Part #" "C1644"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "08b59b92-a467-4d8e-a53f-66b1546f3372")
+			(uuid "0c76d43b-2c00-4465-8f0a-8f7b9785a505")
 			(effects
 				(font
 					(size 1 1)
@@ -1698,7 +1828,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C150M8GAC7867/2199937"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1996-CL10C150JB8NNNC/C1644"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1710,7 +1840,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1644"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1722,12 +1852,12 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "Hersteller" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c4fdb1eb-c21b-4126-a0f0-19a4125166d8")
+			(uuid "ba110c4e-f872-417f-9493-b0b14c5a21f0")
 			(effects
 				(font
 					(size 1 1)
@@ -1735,12 +1865,12 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "JLCPCB Part #" "C1644"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b49a514d-0861-46d4-9986-750d78eb79d2")
+			(uuid "70574256-cba7-43c4-8d5d-8e430b0acab1")
 			(effects
 				(font
 					(size 1 1)
@@ -1935,7 +2065,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1947,7 +2077,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1978,6 +2108,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "17f973cf-ffc4-409f-ba2d-f03cf29376f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60531d89-eda2-42ea-ac64-9019e7bfca18")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05319a12-d793-44de-b72f-15554bd14a5e")
 			(effects
 				(font
 					(size 1 1)
@@ -2172,7 +2328,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2184,7 +2340,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2215,6 +2371,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5dbf6643-0a4d-45bf-95be-3777c4bd95fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c51b9034-f194-4490-afb8-43b7177eef40")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1bb47dcd-d1b1-4d72-a0b1-0c11800c52c0")
 			(effects
 				(font
 					(size 1 1)
@@ -2408,7 +2590,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C105K8RAC7867/2199790"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2420,7 +2602,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C15849"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2451,6 +2633,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "30d45be2-95d7-47ca-86ed-578a2a1972a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a6d76174-2bcc-454f-8d07-5ba79be571f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C15849"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b99f0ee1-0f0d-4691-a69e-478881265d65")
 			(effects
 				(font
 					(size 1 1)
@@ -2645,7 +2853,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C105K8RAC7867/2199790"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2657,7 +2865,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C15849"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2688,6 +2896,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "14441af0-9038-4056-bf91-77228d7add48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc91e903-bd15-45c5-a532-39738d004f8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C15849"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f928421a-524c-48a1-a8e6-926271f90245")
 			(effects
 				(font
 					(size 1 1)
@@ -2882,7 +3116,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -2894,7 +3128,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -2925,6 +3159,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b38ecd95-fd05-4020-b58d-28f7bcb7c7d0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9901654-0059-4a00-b341-d7a22ba1afca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "caa864cc-00fa-49f4-b5e7-0cbcf8592716")
 			(effects
 				(font
 					(size 1 1)
@@ -3119,7 +3379,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3131,7 +3391,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3162,6 +3422,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e9d64efb-f108-4673-84d5-18f1a542dcac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "52aae12a-963e-4cef-a02c-2ee449ee0c4e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d07f3e0d-8559-46c7-94c6-3bdc28a7d28e")
 			(effects
 				(font
 					(size 1 1)
@@ -3356,7 +3642,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3368,7 +3654,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3399,6 +3685,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c508beba-298a-40d8-9e25-66dc3543a690")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5409401-047c-41f3-bad6-f89b3865b813")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "243c9253-5a21-49cc-aab5-2d33ae5a7863")
 			(effects
 				(font
 					(size 1 1)
@@ -3593,7 +3905,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/harvatek-corporation/B1911UD-20D001014U1930/15519993"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Hubei_KentoElec-KT0603W/C2290"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -3605,7 +3917,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C2290"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -3617,12 +3929,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "Hubei KENTO Elec"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2d2ec7be-ee26-428e-a829-ac6dad6212a1")
+			(uuid "70f3753f-3e4e-47e5-bb53-ca4324211b46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2290"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "467c7287-90d1-4070-8b71-23d79eb6ca0b")
 			(effects
 				(font
 					(size 1 1)
@@ -3840,7 +4165,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/harvatek-corporation/B1911UD-20D001014U1930/15519993"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Hubei_KentoElec-KT0603W/C2290"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3852,7 +4177,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C2290"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3864,12 +4189,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "Hubei KENTO Elec"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7a966c82-9f50-4108-a2e5-dd915ba30ea2")
+			(uuid "918fd385-c423-4744-ac71-d48314575057")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2290"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3768c65c-2ef7-472e-b9ca-72425b16de73")
 			(effects
 				(font
 					(size 1 1)
@@ -4063,7 +4401,7 @@
 				)
 			)
 		)
-		(property "Value" "BLUE"
+		(property "Value" "LED BLUE"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4087,7 +4425,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/harvatek-corporation/B1931NB-20C006714U1930/15861263"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Hubei_KentoElec-KT0603B/C2288"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4099,7 +4437,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C2288"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4111,12 +4449,38 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "STANDARD" "Hubei KENTO Elec"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "31f1edad-f305-4ae6-a606-162a4b633b05")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Hubei KENTO Elec"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5ae5ec2d-5d51-4796-ba4c-2194e260527a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2288"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34c49a53-aa95-48e6-b5f2-d6079fc8664c")
 			(effects
 				(font
 					(size 1 1)
@@ -4310,7 +4674,7 @@
 				)
 			)
 		)
-		(property "Value" "GREEN"
+		(property "Value" "LED GREEN"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4334,7 +4698,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/harvatek-corporation/B1931NG-20D001114U1930/15861262"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Hubei_KentoElec-KT0603G/C12624"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4346,7 +4710,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C12624"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4358,12 +4722,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "Hubei KENTO Elec"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "58e1bde0-4ea6-4db9-b6a6-4a65fea1015d")
+			(uuid "bc26fcd0-1154-4a44-8c15-6b53bd159799")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C12624"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ced294be-20ff-42ca-8034-18a95e2d6b26")
 			(effects
 				(font
 					(size 1 1)
@@ -4557,7 +4934,7 @@
 				)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "LED RED"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4581,7 +4958,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/harvatek-corporation/B1911USD-20D000114U1930/15519991"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Hubei_KentoElec-KT0603R/C2286"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4593,7 +4970,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C2286"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4605,12 +4982,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "Hubei KENTO Elec"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "747610b2-14bb-466e-bca6-bff0285e5812")
+			(uuid "dfaae332-6163-4b0a-98ab-f021e8a11bd6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2286"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3de61528-0504-4e6d-a680-980be7c18c6d")
 			(effects
 				(font
 					(size 1 1)
@@ -4828,7 +5218,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4848,6 +5238,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d19f9e77-cb26-425f-b6e4-f1aabee7e093")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5313,7 +5716,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5333,6 +5736,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6920557d-e703-4ef0-97a0-3df53858eff2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5591,7 +6007,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5611,6 +6027,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0dea0369-222b-4f02-a54b-bad5f835ff49")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6076,7 +6505,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6096,6 +6525,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5c45bd70-07f2-47c6-87c9-3e8f8ec8841b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6549,7 +6991,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6569,6 +7011,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5aac83ed-7513-40ed-9e09-de6b60934f3d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6826,7 +7281,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6846,6 +7301,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ecd0fcc8-e0b1-4280-ac85-4dbb2e9954dc")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7104,7 +7572,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7124,6 +7592,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d267fa3e-b643-45a7-b450-340035f2f872")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7366,7 +7847,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -7386,6 +7867,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a84c3406-1f7a-4b56-9fd3-72a88d4dc6d6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7764,16 +8258,16 @@
 			)
 		)
 	)
-	(footprint "Inductor_SMD:L_1008_2520Metric"
+	(footprint "rp2350b-launchpad-PCB:AOTA-B201610S3R3-101-T"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000622e6222")
-		(at 121.48 86.36 180)
+		(at 121.48 86.106 180)
 		(descr "Inductor SMD 1008 (2520 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://ecsxtal.com/store/pdf/ECS-MPI2520-SMD-POWER-INDUCTOR.pdf), generated with kicad-footprint-generator")
 		(tags "inductor")
 		(property "Reference" "L1"
-			(at 3.107 0 0)
+			(at 2.608 0 180)
 			(layer "F.SilkS")
-			(uuid "d396ce56-1974-47b7-a41b-ae2b20ef835c")
+			(uuid "f25ada79-b433-417a-8572-df28e55b89ab")
 			(effects
 				(font
 					(size 1 1)
@@ -7782,10 +8276,10 @@
 			)
 		)
 		(property "Value" "4u7"
-			(at 0 2.05 0)
+			(at 0 2.05 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e7893166-2c2c-41b4-bd84-76ebc2e06551")
+			(uuid "c4cba725-f32d-49b5-a7b3-da342388d99c")
 			(effects
 				(font
 					(size 1 1)
@@ -7793,48 +8287,77 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_1008_2520Metric"
-			(at 0 0 180)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9de33890-5d81-4ad8-8830-718e1a167090")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/bourns-inc/CVH252009-4R7M/3440074?s=N4IgjCBcoEwAwA4DsVQGMoDMCGAbAzgKYA0IA9lANogAsAdEgAQCtAEiALqkAOALlCACqAOwCWvAPKYAsoWz4ArgCdCIAL5rSMKiADCANVYwArPDgBOTmqA"
-			(at 0 0 180)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "592d8d21-90e1-4e99-9f1a-9ba7665843bf")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 180)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0853c387-8953-4eb7-9ad3-f81a739493bd")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MANUFACTURER" "BOURNS"
+		(property "Footprint" "rp2350b-launchpad-PCB:AOTA-B201610S3R3-101-T"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d5be1c31-d37c-49fe-b1a0-4ad02235e640")
+			(uuid "82f7134c-d14f-475a-b66f-761281f3567b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/partdetail/AbraconLlc-AOTA_B201610S3R3_101T/C42411119"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eba27e5e-3643-4dad-b887-a00759626d38")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "C42411119"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9ce0e90-6c2e-42b0-aff4-5eb6e71d8d25")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Abracon LLC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7773068a-2050-441e-acc7-df8a3eb9849d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Abracon LLC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9554ed59-1f7b-4b3b-a857-a51e30a207fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C42411119"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "020c4f77-80f2-483f-a25d-5ab60d56b363")
 			(effects
 				(font
 					(size 1 1)
@@ -7848,109 +8371,109 @@
 		(sheetfile "PowerSupply.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -0.261252 1.11)
-			(end 0.261252 1.11)
+			(start -0.261252 0.9)
+			(end 0.261252 0.9)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9c0314b1-f82f-432d-95a0-65e191202552")
+			(uuid "13812ea8-68e6-41cd-b05a-f8ba351cd901")
 		)
 		(fp_line
-			(start -0.261252 -1.11)
-			(end 0.261252 -1.11)
+			(start -0.261252 -0.9)
+			(end 0.261252 -0.9)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b632afec-1444-4246-8afb-cc14a57567e7")
+			(uuid "efa697d4-a5db-42f3-9c08-84d37095c798")
 		)
 		(fp_line
-			(start 1.95 1.35)
-			(end -1.95 1.35)
+			(start 1.7 -1.1)
+			(end 1.7 1.1)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e07e1653-d05d-4bf2-bea3-6515a06de065")
+			(uuid "f5bfc1a0-94ae-4345-839e-1154c1775fe0")
 		)
 		(fp_line
-			(start 1.95 -1.35)
-			(end 1.95 1.35)
+			(start -1.7 1.1)
+			(end 1.7 1.1)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "680c3e83-f590-4924-85a1-36d51b076683")
+			(uuid "b4930934-e5ac-4390-bb4e-b2ca538caf8c")
 		)
 		(fp_line
-			(start -1.95 1.35)
-			(end -1.95 -1.35)
+			(start -1.7 1.1)
+			(end -1.7 -1.1)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "be030c62-e776-405f-97d8-4a4c1aa2e428")
+			(uuid "c2bd996c-7fae-4446-b39a-3200ae215740")
 		)
 		(fp_line
-			(start -1.95 -1.35)
-			(end 1.95 -1.35)
+			(start -1.7 -1.1)
+			(end 1.7 -1.1)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0cc094e7-c1c0-457d-bd94-3db91c23be55")
+			(uuid "8e608ea8-9aa9-4f44-b672-6eac70c00550")
 		)
 		(fp_line
-			(start 1.25 1)
-			(end -1.25 1)
+			(start 1 0.8)
+			(end -1 0.8)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7b75907b-b2ae-4362-89fa-d520339aaa5c")
+			(uuid "5af415ed-4ccd-49e1-b0a6-6c739e49befa")
 		)
 		(fp_line
-			(start 1.25 -1)
-			(end 1.25 1)
+			(start 1 -0.8)
+			(end 1 0.8)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2ec9be40-1d5a-4e2d-8a4d-4be2d3c079d5")
+			(uuid "1b1e0e4a-98ff-4bdf-80db-a5c4cc32da6e")
 		)
 		(fp_line
-			(start -1.25 1)
-			(end -1.25 -1)
+			(start -1 0.8)
+			(end -1 -0.8)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4b982f8b-ca29-4ebf-88fc-8a50b24e0802")
+			(uuid "88bb93e5-d3ac-43c7-ac8e-e53b9a74ff8d")
 		)
 		(fp_line
-			(start -1.25 -1)
-			(end 1.25 -1)
+			(start -1 -0.8)
+			(end 1 -0.8)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "35343f32-90ff-4059-a108-111fb444c3d2")
+			(uuid "eabfaff0-3696-4521-882f-c321b3f9546d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
-			(uuid "341dde39-440e-4d05-8def-6a5cecefd88c")
+			(uuid "d73d0c17-361e-4621-8cf9-daaa276fcda5")
 			(effects
 				(font
 					(size 0.62 0.62)
@@ -7958,27 +8481,25 @@
 				)
 			)
 		)
-		(pad "1" smd roundrect
-			(at -1.075 0 180)
-			(size 1.25 2.2)
+		(pad "1" smd rect
+			(at -1 0 180)
+			(size 1 1.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
-			(roundrect_rratio 0.2)
 			(net 5 "Net-(J3-Pin_2)")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "6e77d4d6-0239-4c20-98f8-23ae4f71d638")
+			(uuid "fcb67f21-c0e9-4a69-ad7c-d3fbeb9ea710")
 		)
-		(pad "2" smd roundrect
-			(at 1.075 0 180)
-			(size 1.25 2.2)
+		(pad "2" smd rect
+			(at 1 0 180)
+			(size 1 1.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
-			(roundrect_rratio 0.2)
 			(net 94 "Net-(U2-Lx)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e46ecd61-0bbe-4b9f-a151-a2cacac5967b")
+			(uuid "9e31b86b-21a8-44fe-b913-4cbeae5fdbfe")
 		)
-		(model "${KISYS3DMOD}/Inductor_SMD.3dshapes/L_1008_2520Metric.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8033,7 +8554,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8046,7 +8567,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C11702"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8065,6 +8586,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d0009efe-90b6-45dd-85be-352676df298d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b40f18a-1d27-47f5-9e45-184f1c885bf1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C11702"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "452207b6-666f-45fe-b299-485a768bafb5")
 			(effects
 				(font
 					(size 1 1)
@@ -8260,7 +8807,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3GEYJ103V/135662"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26274-0402WGJ0103TCE/C25531"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8273,7 +8820,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25531"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8286,12 +8833,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8193d0e8-a475-40ac-ab6a-1ed3ae8ea321")
+			(uuid "eff5ad52-69c8-4333-87b5-15f6d55154b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25531"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "63b4916b-9894-4b63-867a-e45dc230da05")
 			(effects
 				(font
 					(size 1 1)
@@ -8487,7 +9047,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -8499,7 +9059,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C21190"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -8517,6 +9077,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d519c54e-1b9c-47ac-af32-b490609b841a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9f975a3-6675-48e8-9ba9-3a3fa1d03297")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C21190"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bbf8ea08-7bec-44cf-95d5-c46a67955b40")
 			(effects
 				(font
 					(size 1 1)
@@ -8712,7 +9298,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AF0603FR-07100KL/5900861"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26546-0603WAF1003T5E/C25803"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8724,7 +9310,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25803"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8736,12 +9322,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "20cb429a-149b-4855-8a48-d4383758baa5")
+			(uuid "f03cd69f-9bb8-4dfd-bddd-22f183986151")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25803"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb4f88c9-debe-44b7-a8d6-609bb7b517bc")
 			(effects
 				(font
 					(size 1 1)
@@ -8937,7 +9536,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AF0603FR-07100KL/5900861"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26546-0603WAF1003T5E/C25803"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -8949,7 +9548,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25803"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -8961,12 +9560,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4136a76a-b706-48df-920c-da52c7303915")
+			(uuid "ef9dc74e-24b7-4f4d-a23f-4eb7b7bc37f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25803"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e690f107-185a-4806-a3a1-87e5e6b6d2da")
 			(effects
 				(font
 					(size 1 1)
@@ -9161,7 +9773,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -9173,7 +9785,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C21190"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -9191,6 +9803,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "92122974-eb5d-44c3-a74e-b786d8db4eca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b51d2b2f-4003-4401-9e99-34406a99601d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C21190"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "343e025c-a3b4-43ca-a222-e2dfac63af23")
 			(effects
 				(font
 					(size 1 1)
@@ -9385,7 +10023,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -9397,7 +10035,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C21190"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -9409,12 +10047,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6508332a-8f9a-41ad-aaf5-e5a7eb41d79d")
+			(uuid "0a483f47-4260-4354-b7ea-2a19c9a0d452")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C21190"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d00d8542-4975-4010-94a2-53551ba381ae")
 			(effects
 				(font
 					(size 1 1)
@@ -9609,7 +10260,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3EKF27R0V/1746361"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/25933-0603WAF270JT5E/C25190"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -9621,7 +10272,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25190"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -9639,6 +10290,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b77194c2-1456-41e6-a676-5c2ab1f22282")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ddd31b08-296e-44f9-ab80-de47a7db0eeb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25190"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a6b7c02-c353-4887-9972-2f633fc8e419")
 			(effects
 				(font
 					(size 1 1)
@@ -9833,7 +10510,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3EKF27R0V/1746361"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/25933-0603WAF270JT5E/C25190"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -9845,7 +10522,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25190"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -9863,6 +10540,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "42ccfac2-5fce-4182-9d5a-f74ac423c7fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f00b37e-25ea-46df-bb88-1bbaa6c2e954")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25190"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1f36dc6-afa4-4fd7-873f-e22025fd21f1")
 			(effects
 				(font
 					(size 1 1)
@@ -10057,7 +10760,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10069,7 +10772,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C21190"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10087,6 +10790,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "43b2fe28-2900-4c49-b83b-153c33860b69")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6d7f041-372e-4392-a595-f29eb9cfd0ea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C21190"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f2ec0a6f-8153-4ebf-a7b6-8bd1828e9f73")
 			(effects
 				(font
 					(size 1 1)
@@ -10282,7 +11011,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3GEYJ103V/135662"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -10294,7 +11023,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25804"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -10306,12 +11035,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "17b9c643-1e8f-4665-a0f3-2a09a7221349")
+			(uuid "00f9b599-13ca-4cd0-82e1-e577891a5eba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25804"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "66b52627-e8dd-4b11-8115-57e671ed4a10")
 			(effects
 				(font
 					(size 1 1)
@@ -10506,7 +11248,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AF0603FR-07100KL/5900861"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23906-0603WAF4700T5E/C23179"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -10518,7 +11260,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C23179"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -10530,12 +11272,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1638b627-1bce-4e32-9aa9-6663a99740b9")
+			(uuid "13a80158-872a-4047-b9d5-5c68be454069")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C23179"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0b3507d2-80b3-4ac4-9511-9ad486cb5f2a")
 			(effects
 				(font
 					(size 1 1)
@@ -10730,7 +11485,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AF0603FR-07100KL/5900861"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23906-0603WAF4700T5E/C23179"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -10742,7 +11497,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C23179"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -10754,12 +11509,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "57d24f92-df2e-41cf-86e2-eaf987c106df")
+			(uuid "bb38df30-cc3e-4674-9b90-5fedd6ca550d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C23179"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6685f317-a58a-4796-8a2b-418bd43cf1ac")
 			(effects
 				(font
 					(size 1 1)
@@ -10953,7 +11721,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/ProductDetail/Diptronics/1188E-1W3-V-T-R?qs=MLItCLRbWsziiBJeSO1fUw%3D%3D"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Diptronics-1188E_1K2_V_TR/C240289"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10965,7 +11733,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C240289"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10973,6 +11741,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Diptronics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd35a6a6-5396-43fc-b531-577e95ff2753")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C240289"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9a9462d-62d3-46aa-a082-5262daa45cbe")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11128,7 +11922,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/torex-semiconductor-ltd/XC9142A50CMR-G/10158636"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/TorexSemicon-XC9142B50CMRG/C2468807"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -11140,7 +11934,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C2468807"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -11148,6 +11942,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Torex Semicon"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "093910f5-cf73-4525-b0b4-72fc6b5df8e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2468807"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a637cc56-e674-4905-a2a7-a1382ab6b1d9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11371,16 +12191,16 @@
 			)
 		)
 	)
-	(footprint "Crystal:Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm"
+	(footprint "Crystal:Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000622e657c")
 		(at 148.379 90.4485)
-		(descr "SMD Crystal TXC 7M http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package")
+		(descr "Abracon Miniature Ceramic Smd Crystal ABM8AIG https://abracon.com/AIGcrystals/ABM8AIG.pdf, 3.2x2.5mm^2 package")
 		(tags "SMD SMT crystal")
 		(property "Reference" "Y1"
-			(at -0.043 2.579 0)
+			(at -0.043 2.5155 0)
 			(layer "F.SilkS")
-			(uuid "7aad0cca-fb50-4041-9a10-5380cb0860ac")
+			(uuid "be198973-18fc-468d-b17a-1039929d8218")
 			(effects
 				(font
 					(size 1 1)
@@ -11392,7 +12212,7 @@
 			(at 0 2.45 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0667208e-872f-444a-9ed0-78a1b5f392d2")
+			(uuid "31a8ea86-1ba3-447a-8a1d-6ac60cc7fb68")
 			(effects
 				(font
 					(size 1 1)
@@ -11400,11 +12220,12 @@
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm"
+		(property "Footprint" "Crystal:Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a1ea0560-7455-4956-b367-27b63ce8a537")
+			(uuid "805d6a8d-7744-47d6-a925-3e5fbd87534f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11412,11 +12233,12 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/txc-corporation/7M-12-000MAAE-T/3674337"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/AbraconLlc-ABM8_272T3/C20625731"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "95432b3d-ceb4-4125-b1cf-8a01c00077a8")
+			(uuid "09f7a460-7cb2-40ad-b182-454fa0f43213")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11426,12 +12248,39 @@
 		)
 		(property "Description" ""
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "72240184-c3d4-413f-a373-c02c89e616d6")
+			(uuid "06ad1442-3327-4016-85b8-a0c80f465378")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Abracon LLC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f632461d-dbcf-45b2-99a4-3c11b78a975c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C20625731"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8a4af4e1-7d11-489b-8565-fe68e3e0c1a9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11449,7 +12298,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "217a6ab0-8c75-4e09-8113-c7b7b906da43")
+			(uuid "39ede12a-0266-4759-b0e4-9eea85354e77")
 		)
 		(fp_line
 			(start -2 1.65)
@@ -11459,7 +12308,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "41ef6d8e-078c-46e5-a743-15f86f94b1c5")
+			(uuid "cec98f2e-d9c3-4a38-aeca-f2917b5df8fb")
 		)
 		(fp_line
 			(start -2.1 -1.7)
@@ -11469,7 +12318,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "da151d0a-a1fa-4865-aa78-eb4b6082fbfd")
+			(uuid "d254bb98-b410-4715-a2e9-efd7b97587a0")
 		)
 		(fp_line
 			(start -2.1 1.7)
@@ -11479,7 +12328,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "22fd57c4-481e-4417-b920-694451210da2")
+			(uuid "4ab5bcaa-8274-4cff-9f2c-6c70d85eaac3")
 		)
 		(fp_line
 			(start 2.1 -1.7)
@@ -11489,7 +12338,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7fd11519-eb9e-4413-8ca2-e43e38c699f6")
+			(uuid "e2895238-6c24-4a06-99b7-16750b04bd19")
 		)
 		(fp_line
 			(start 2.1 1.7)
@@ -11499,17 +12348,17 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bc29a09d-ebbe-4bab-9edb-114e75ee17a4")
+			(uuid "c36ac41f-8cb4-4933-b0a4-563372e125c9")
 		)
 		(fp_line
-			(start -1.6 -1.25)
-			(end -1.6 1.25)
+			(start -1.6 -1.05)
+			(end -1.4 -1.25)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "fbca7d5b-4a19-4f46-9697-74b3068179aa")
+			(uuid "8b5e4f77-00cd-4ec9-b057-f72ea0966194")
 		)
 		(fp_line
 			(start -1.6 0.25)
@@ -11519,42 +12368,82 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "57881c8f-ea31-4450-bce6-89885e0a9bfd")
+			(uuid "7f9c3cdd-4857-4d87-8c59-bfcce1407bcf")
 		)
 		(fp_line
-			(start -1.6 1.25)
-			(end 1.6 1.25)
+			(start -1.6 1.05)
+			(end -1.6 -1.05)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "60a7dcc1-b459-4b69-be02-f48b66a815f0")
+			(uuid "670b4bf0-9582-4000-8e59-24868d346f16")
 		)
 		(fp_line
-			(start 1.6 -1.25)
-			(end -1.6 -1.25)
+			(start -1.4 -1.25)
+			(end 1.4 -1.25)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "a3722fe0-facc-42fa-a01b-a26433c9d7fe")
+			(uuid "d050ac8e-60c7-4530-8017-2ab756dd4244")
 		)
 		(fp_line
-			(start 1.6 1.25)
-			(end 1.6 -1.25)
+			(start -1.4 1.25)
+			(end -1.6 1.05)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f8df4375-570f-4eb0-868e-4f350bd24547")
+			(uuid "3a220759-38a8-4c55-a7a5-86429e486182")
+		)
+		(fp_line
+			(start 1.4 -1.25)
+			(end 1.6 -1.05)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4eb62215-d572-48c7-acbf-42033006cda7")
+		)
+		(fp_line
+			(start 1.4 1.25)
+			(end -1.4 1.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "67517f8f-6f81-4c5d-b74a-e1eeed3d193a")
+		)
+		(fp_line
+			(start 1.6 -1.05)
+			(end 1.6 1.05)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "d28dcab0-af85-4ebe-9b3b-53899cdec1b4")
+		)
+		(fp_line
+			(start 1.6 1.05)
+			(end 1.4 1.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9b714cff-ea95-4aaa-a35f-859ccd8fb979")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "7401f61b-dc36-4f5a-ba3e-b101a22bf1fc")
+			(uuid "65c0730a-7083-43d1-954f-74d0dc9956e6")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -11563,42 +12452,42 @@
 			)
 		)
 		(pad "1" smd rect
-			(at -1.1 0.85)
+			(at -1.1 0.8)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 7 "Net-(U5-XIN)")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "76a87642-211c-44f2-a488-190d6dc3728e")
+			(uuid "8e51835f-27d9-4246-b4fd-c08d4be6204a")
 		)
 		(pad "2" smd rect
-			(at 1.1 0.85)
+			(at 1.1 0.8)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 3 "GND_DBG")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "8c4cd1a2-9a92-4fba-aa2e-8b86c17dce10")
+			(uuid "e3c2ca24-7954-45b3-b050-ce27105c8113")
 		)
 		(pad "3" smd rect
-			(at 1.1 -0.85)
+			(at 1.1 -0.8)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 8 "Net-(C8-Pad2)")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "3a4d7b94-8b26-4555-b396-f2e88aea5db3")
+			(uuid "9bb3d9f5-ae68-422f-9a81-2f9e5edb3294")
 		)
 		(pad "4" smd rect
-			(at -1.1 -0.85)
+			(at -1.1 -0.8)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 3 "GND_DBG")
 			(pinfunction "4")
 			(pintype "passive")
-			(uuid "11cae898-6e02-4314-87c3-bfa88f249303")
+			(uuid "29f42486-cb6e-4cb6-ad7f-df09cf7386a9")
 		)
-		(model "${KISYS3DMOD}/Crystal.3dshapes/Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11651,7 +12540,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/winbond-electronics/W25Q32JWZPIQ/8568189"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/WinbondElec-W25Q32JVZPIQ/C571260"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11663,7 +12552,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C571260"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11671,6 +12560,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Winbond Elec"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b77758d-2166-420f-89a5-11ce2308aca0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C571260"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eefb147f-9fd0-408f-983b-e43350675ac1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11984,7 +12899,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12004,6 +12919,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "489e6459-9a20-40d2-8272-1ae771e5fe9d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12249,7 +13177,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/raspberry-pi/SC0914-13/14306010"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/RaspberryPi-RP2040/C2040"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12262,7 +13190,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C2040"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12320,6 +13248,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b5b3bb6f-04bc-41f0-8977-fd7813951caa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Raspberry Pi "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8273584-e60a-4da7-9717-c5d24717c2e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2040"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "58aede2b-3599-4941-acb4-913e396b2256")
 			(effects
 				(font
 					(size 1 1)
@@ -13175,7 +14129,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C105K8RAC7867/2199790"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13187,7 +14141,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C15849"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13218,6 +14172,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9a929c5a-1a4d-4cbf-8bb3-924037b33367")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b30e2944-de9d-46af-9257-15b0e94a699e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C15849"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f01a239b-b033-4d85-bac5-bb080fbf6f05")
 			(effects
 				(font
 					(size 1 1)
@@ -13412,7 +14392,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13424,7 +14404,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13455,6 +14435,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b71fb0dd-d07f-44e5-b626-26bcacd539dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "84c601df-a1ff-4f0d-bdcc-1f15af68adca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf4b5c75-7869-40c2-8dfc-bef631835298")
 			(effects
 				(font
 					(size 1 1)
@@ -13649,7 +14655,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13661,7 +14667,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13692,6 +14698,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f0ec0fe0-85f1-47d8-9a91-af324ac187d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8eb38795-a586-4cbd-9bfa-24f9f6b5406d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "00ccd5f8-44b3-4e69-99b3-ee0cef3efe55")
 			(effects
 				(font
 					(size 1 1)
@@ -13886,7 +14918,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13898,7 +14930,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13929,6 +14961,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0f2b6d75-ce2e-4d7a-98f2-117f2145bdcb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a19a325-d359-4089-9798-806756eb66ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55ed964e-76f4-4a35-9294-bc4d89a72f1a")
 			(effects
 				(font
 					(size 1 1)
@@ -14123,7 +15181,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -14135,7 +15193,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -14166,6 +15224,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c2d8f4b1-6112-466e-b41c-ea99077d1bcc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ecc04f93-5ed4-4d21-90dc-c2f9297d88fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a37a0f82-9053-4012-a169-3d64e6c123f2")
 			(effects
 				(font
 					(size 1 1)
@@ -14361,7 +15445,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14381,6 +15465,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c5c076b-1f9b-49a9-820a-93c7b176acbe")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14802,7 +15899,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14814,7 +15911,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C14663"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14845,6 +15942,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4a9f9340-648c-4749-9ea9-df07d612da49")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "YAGEO"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "158a08c4-477e-416b-9769-9e711e8923b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0ac17162-3194-472f-ab5c-23f106b0e26f")
 			(effects
 				(font
 					(size 1 1)
@@ -15039,7 +16162,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/torex-semiconductor-ltd/XC6220B331MR-G/2138177"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Tdsemic-XC6220B331MR/C22466451"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15051,7 +16174,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C22466451"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15059,6 +16182,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "TDSEMIC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "374780ec-b78b-4ae1-b897-1fb3b26e92ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C22466451"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74f2b626-c798-4ef1-87ca-5492b001a3d8")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -15323,7 +16472,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/microchip-technology/MCP73831T-2ACI-OT/964301"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/MicrochipTech-MCP73831T_2ACIOT/C424093"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -15335,7 +16484,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C424093"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -15343,6 +16492,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Microchip Tech"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c71e7b44-04a3-4d97-9704-bd1c5284db97")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C424093"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b0d8230-2d2d-4263-9ef4-33f18d097230")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -15607,7 +16782,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3EKF2001V/196183"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23702-0603WAF2001T5E/C22975"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15619,7 +16794,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C22975"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -15631,12 +16806,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "1% Toleranz"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1bb2f662-d091-49d7-8d61-9888968d89aa")
+			(uuid "e7040d95-b60b-473f-9ec8-4a6a35eadd14")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C22975"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "611981b3-3e0c-4cfe-8e5f-653445606673")
 			(effects
 				(font
 					(size 1 1)
@@ -16139,7 +17327,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Worldsemi-WS2812B2020/C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16151,7 +17339,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16159,6 +17347,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Worldsemi"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2cf5ee04-1fad-409a-b008-178f6bb9270f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C965555"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e66d4dd6-0427-4566-ba2a-9813ef24f09a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16264,7 +17478,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Worldsemi-WS2812B2020/C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16276,7 +17490,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16284,6 +17498,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Worldsemi"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "40cd7185-2d88-40b9-aa21-36e0344ece9f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C965555"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2b5683b-a991-4999-9181-29b46724de40")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16389,7 +17629,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Worldsemi-WS2812B2020/C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16401,7 +17641,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16409,6 +17649,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Worldsemi"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1d76b3f-4daf-4104-8fbf-0ff83826a4ff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C965555"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cb96fb34-f701-4171-b938-4f541676b398")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16514,7 +17780,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Worldsemi-WS2812B2020/C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16526,7 +17792,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16534,6 +17800,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Worldsemi"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d7a5823-f8db-4d9f-929f-2e4529a20db7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C965555"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3fc4b08b-57ae-4ebf-a1f1-3f4e277c157d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16639,7 +17931,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Worldsemi-WS2812B2020/C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16651,7 +17943,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16659,6 +17951,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Worldsemi"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "832cbc0e-56e1-4c0c-8738-2e537e8a4c85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C965555"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6bd06c46-3aa2-4572-bd58-68d33cccf84c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16764,7 +18082,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Worldsemi-WS2812B2020/C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16776,7 +18094,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16784,6 +18102,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Worldsemi"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57f3b1fa-4c95-4c87-abc2-7631d7e116dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C965555"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90eb14e9-8211-4274-81ae-642a241bc738")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16889,7 +18233,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Worldsemi-WS2812B2020/C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16901,7 +18245,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -16909,6 +18253,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Worldsemi"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b025fca4-4088-4933-936b-a1d3659cc5d6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C965555"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08da2be5-fe5e-4dd6-a1ed-f0be26d8f695")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17014,7 +18384,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Worldsemi-WS2812B2020/C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17026,7 +18396,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C965555"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17034,6 +18404,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Worldsemi"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "734c8ded-cb94-488f-86a9-d8af97de7415")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C965555"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b8f1d18-00ef-4aef-a84f-affefe2bbc81")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17139,7 +18535,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/c-k/KMR223NG-LFG/2296954"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/ck-KMR231NGULCLFS/C221680"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17151,7 +18547,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C221680"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17159,6 +18555,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "C&K"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c2ec790-7fb2-4a5e-acdf-86b13cb75951")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C221680"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "00a719fc-8864-4ce1-9e89-e75a47934e8a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17886,7 +19308,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0805C226M8PAC7210/12701023"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/46786-CL21A226MAQNNNE/C45783"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17898,7 +19320,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C45783"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -17910,12 +19332,38 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1f4609ce-2932-451a-b36c-e37fc0565b54")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47056d25-1bf4-4f3f-ab87-acb616acc60c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C45783"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3bafb770-5d5f-4293-a546-1bebe6611797")
 			(effects
 				(font
 					(size 1 1)
@@ -18084,7 +19532,7 @@
 				)
 			)
 		)
-		(property "Value" "Switch_SP3T"
+		(property "Value" "Power Select"
 			(at -0.7112 4.3434 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18108,7 +19556,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/ck-PCM13SMTR/C221842"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18120,7 +19568,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C221842"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -18128,6 +19576,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "C&K"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "047fb395-ccae-40ee-90a2-93ffcf936e71")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C221842"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a41f59a0-a88b-4dae-b541-568771e6e9e4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -18280,7 +19754,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "4u7"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18305,7 +19779,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/20375-CL10A475KO8NNNC/C19666"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18318,7 +19792,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C19666"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18327,6 +19801,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8a7bc8b-2449-43d7-a000-eec3c5a2e012")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C19666"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dbcb3d5d-5f88-4e31-93fd-f0bb24002580")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -18494,7 +19994,7 @@
 				)
 			)
 		)
-		(property "Value" "4,7u"
+		(property "Value" "4u7"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18519,7 +20019,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/24469-CL05A475MP5NRNC/C23733"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18532,7 +20032,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C23733"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18564,6 +20064,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d45df6b8-6857-4de7-9e47-5153b151886a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9209215d-d6b7-48b0-b24c-58911b1441f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C23733"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "98e5dcb3-c6c8-4d47-be52-de44870c8b09")
 			(effects
 				(font
 					(size 1 1)
@@ -18759,7 +20285,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18772,7 +20298,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1525"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18804,6 +20330,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dd0f5a00-c082-4311-9c2d-848871e6f418")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a23b7d74-2a74-4d55-8700-e910f9f3b2f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C1525"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0dace55-7605-41a6-b63f-17bcfffbcc79")
 			(effects
 				(font
 					(size 1 1)
@@ -18999,7 +20551,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3GEYJ103V/135662"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19012,7 +20564,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25804"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19031,6 +20583,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e36c94c6-35ed-48b7-a062-8e298e7355d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "78bca784-cf88-49ce-bc15-2467edc94968")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25804"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0eb17c95-c91b-4d71-a58e-ea5c96898333")
 			(effects
 				(font
 					(size 1 1)
@@ -19226,7 +20804,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26546-0603WAF1003T5E/C25803"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19239,7 +20817,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25803"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19252,12 +20830,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "df4bb5bf-3b2a-4c2c-a916-96dbbd3a323a")
+			(uuid "68a27c35-03c8-472d-b93b-da5336fbefe9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25803"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b97f485-978a-49b7-bd96-9c84281dd06a")
 			(effects
 				(font
 					(size 1 1)
@@ -19453,7 +21044,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19466,7 +21057,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C23186"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19485,6 +21076,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cda88dc7-0bc8-443d-81d3-c0a3c4823e05")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5549528f-529d-45ea-8724-ce3ea9eaa64c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42bab552-c9b7-448f-a327-5a2d815cb9cd")
 			(effects
 				(font
 					(size 1 1)
@@ -19680,7 +21297,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26546-0603WAF1003T5E/C25803"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19693,7 +21310,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25803"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19706,12 +21323,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "56f22f32-d96f-461d-bcea-a05e74b8ffcd")
+			(uuid "493f3443-1850-42fb-a24d-828b301fd446")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25803"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ce36de09-5695-476a-b347-20600cb354fa")
 			(effects
 				(font
 					(size 1 1)
@@ -19907,7 +21537,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19920,7 +21550,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1525"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19952,6 +21582,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f8b5b743-0880-4de5-92eb-1cdd67a6995c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fb9efb88-2203-4d93-ae86-1f29ab5767e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C1525"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c578c96e-5eff-4715-a289-bf4a65bc9498")
 			(effects
 				(font
 					(size 1 1)
@@ -20146,7 +21802,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/ApMemory-APS6404L_3SQRZR/C3040877"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -20158,7 +21814,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C3040877"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -20166,6 +21822,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "AP Memory"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5c02fd28-0d97-40bf-8225-2b52da9877a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C3040877"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a3f7df49-62b8-40d4-b5a1-a56cd99407dd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20461,7 +22143,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20474,7 +22156,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1525"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20506,6 +22188,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ce6b7277-bc2f-490d-8dd7-072824c524ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "40e35de6-e60c-443e-8964-8429c173d7f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C1525"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5671f05-465d-4cd9-9456-a84787b3aaf4")
 			(effects
 				(font
 					(size 1 1)
@@ -20676,7 +22384,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "4u7"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20701,7 +22409,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/20375-CL10A475KO8NNNC/C19666"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20714,7 +22422,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C19666"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20723,6 +22431,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a7323a06-c667-4de0-ae83-2cb0f5742b54")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C19666"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aca08f6f-4854-4e55-8874-b21ef7478291")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20915,7 +22649,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20928,7 +22662,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "C11702"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20937,6 +22671,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "23b92035-de45-45fd-b077-b62a2f8a3052")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C11702"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4022cfe5-c211-4ed0-a3ea-ce0d0b1e9e2d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21129,7 +22889,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3EKF27R0V/1746361"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-RC0402JR0727RL/C137890"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21142,7 +22902,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C137890"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21155,12 +22915,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "YAGEO"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "03b899c0-1823-4691-8076-88ed94eabd38")
+			(uuid "c8ae8738-8518-4aa4-8c31-532c6ec340af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C137890"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c096760c-a188-4ee8-be41-b00aee348a71")
 			(effects
 				(font
 					(size 1 1)
@@ -21331,7 +23104,7 @@
 				)
 			)
 		)
-		(property "Value" "3u3"
+		(property "Value" "4u7"
 			(at 0 2.05 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21356,7 +23129,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/AbraconLlc-AOTA_B201610S3R3_101T/C42411119"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21369,7 +23142,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C42411119"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21378,6 +23151,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Abracon LLC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4a2c12a1-496d-403a-b5d2-26216a8666ea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C42411119"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0dcfe0f2-454b-4409-971b-e0d011f2d492")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21570,7 +23369,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21583,7 +23382,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C23186"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21602,6 +23401,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3c0e694c-2295-40f3-8b6b-b3365307f7a5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "222ba798-057d-4fd5-9d62-0f8de3ec804a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e82122aa-69e2-4e32-9f7a-a9eebce15dee")
 			(effects
 				(font
 					(size 1 1)
@@ -21797,7 +23622,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AF0603FR-07100KL/5900861"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23906-0603WAF4700T5E/C23179"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21810,7 +23635,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C23179"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21823,12 +23648,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dcb45d49-8ff3-430e-8e28-8b88fd34331b")
+			(uuid "f4be48ad-e3d3-4af7-95cc-46e0e440a838")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C23179"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "854489d6-794f-411c-bef3-3693a158fd46")
 			(effects
 				(font
 					(size 1 1)
@@ -21999,7 +23837,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "4u7"
 			(at 0 1.16 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -22024,7 +23862,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/24469-CL05A475MP5NRNC/C23733"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22037,7 +23875,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C23733"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22046,6 +23884,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0b6731e9-a0a5-4f9f-8826-43e42d683695")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C23733"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd6fafa1-c686-459c-9826-49a7d0164734")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -22238,7 +24102,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22251,7 +24115,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1525"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22260,6 +24124,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fb8ae645-5968-45e6-b545-0041e84a202b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C1525"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "382dddfe-e20b-4609-b5f4-ea5ad0e35418")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -22452,7 +24342,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C150M8GAC7867/2199937"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1900-0402CG150J500NT/C1548"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22465,7 +24355,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1548"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22478,12 +24368,12 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "Hersteller" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "acfc43b5-9a6a-4c0a-ba15-6f07e46f32fa")
+			(uuid "765c7d95-57ab-48f2-a4e4-10f5cbea38f6")
 			(effects
 				(font
 					(size 1 1)
@@ -22491,12 +24381,12 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "JLCPCB Part #" "C1548"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "358be5f3-7766-47fa-8219-db932393a24e")
+			(uuid "dbed47a7-d912-49f6-aaf1-36e3f7229885")
 			(effects
 				(font
 					(size 1 1)
@@ -22692,7 +24582,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22705,7 +24595,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1525"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22737,6 +24627,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "57b44e18-eb22-4f2a-9392-9d331fd15b8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff34a1e5-a468-440e-80ae-6c28bcbe26da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C1525"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ea74f28-167e-48d9-88d2-d7e9c1f03c22")
 			(effects
 				(font
 					(size 1 1)
@@ -22905,7 +24821,7 @@
 				)
 			)
 		)
-		(property "Value" "USB-C-Socket"
+		(property "Value" "USB-C Connector"
 			(at 0.4 -2.75 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22929,7 +24845,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/gswitch-GT_USB7010B/C2837092"
 			(at -16.4 -8.67 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22941,7 +24857,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C283709"
 			(at -16.4 -8.67 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22949,6 +24865,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "G-Switch"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17846601-4a79-47e6-9a09-41f037df8117")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2837092"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c706c43e-f8a8-4303-bef8-04c1c4628e6c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -23158,7 +25100,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23171,7 +25113,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "C11702"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23180,6 +25122,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "910c0cb5-7846-4e3b-a75a-10ba4b8a1178")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C11702"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93704d4d-d303-4cb5-ba5c-5fe89b1aef33")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -23372,7 +25340,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23906-0603WAF4700T5E/C23179"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23385,7 +25353,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "C23179"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23394,6 +25362,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0722bf27-d145-4037-a9fa-43060e097240")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C23179"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fba5ff60-707d-4dad-9bb2-d3202653c86e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -23551,7 +25545,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R21"
-			(at 2.258 0 90)
+			(at 2.004 0 90)
 			(layer "F.SilkS")
 			(uuid "ca5642e5-d8a4-4f74-9549-e7872b8352a0")
 			(effects
@@ -23586,7 +25580,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23599,7 +25593,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C11702"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23618,6 +25612,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "442b44ce-47a8-4ab5-bc94-11ceecbffc7b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "62615c80-a4ed-4362-b8a8-a87e31678f86")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C11702"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c97dca23-5f25-4509-82d4-e62544c608b7")
 			(effects
 				(font
 					(size 1 1)
@@ -23813,7 +25833,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23826,7 +25846,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1525"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23858,6 +25878,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e0a5d8b5-ecf8-4c7e-a8c6-b618190e211c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9acf5e3d-8ab4-4397-9c85-1d439cbdbe72")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C1525"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2fa7d2c1-8dd5-4c07-ae59-fa84531c37af")
 			(effects
 				(font
 					(size 1 1)
@@ -24053,7 +26099,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24066,7 +26112,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "C11702"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24075,6 +26121,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "094c480b-ab07-4da7-9739-81a3e6665dd1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C11702"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5518a121-3daa-4018-8021-010ff29725cc")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -24289,6 +26361,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "30b155f1-985a-4dff-9016-3dc71974901b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -24532,7 +26617,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3EKF27R0V/1746361"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yageo-RC0402JR0727RL/C137890"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24545,7 +26630,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C137890"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24558,12 +26643,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "YAGEO"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "83996849-b2f2-4420-a818-ca6b374d4b23")
+			(uuid "f3e95139-297f-4cad-9e30-aff0630d91e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C137890"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4dad66ab-6770-47fd-8ed3-946c0c6a1c6f")
 			(effects
 				(font
 					(size 1 1)
@@ -24759,7 +26857,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24772,7 +26870,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1525"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24804,6 +26902,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0274b4f0-a080-4f36-825f-31f1894c8051")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "04a689b9-eaed-4eec-b5e0-b38a9d346c3a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C1525"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "990f6bdf-1b91-4b64-a727-6c15a95524fc")
 			(effects
 				(font
 					(size 1 1)
@@ -24974,7 +27098,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "4u7"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24999,7 +27123,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/24469-CL05A475MP5NRNC/C23733"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25012,7 +27136,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C23733"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25021,6 +27145,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f97c101-d954-4668-b9de-905d63f8004c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C23733"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1bf2425d-50e2-4de6-a95c-e542e5846e0b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -25213,7 +27363,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25235,6 +27385,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8530de42-c43c-4f74-a00d-633d037bce93")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -25478,7 +27641,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25491,7 +27654,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C23186"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25510,6 +27673,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dad7fba6-758b-4661-b139-90460325e3c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f093469-ac5e-4334-baad-7c5cdb56991c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "721a556b-587c-48a7-b9ee-98c1ddb29674")
 			(effects
 				(font
 					(size 1 1)
@@ -25705,7 +27894,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25718,7 +27907,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "C11702"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25727,6 +27916,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6774e301-813e-48b8-a172-27a7c2532984")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C11702"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1eb5aa80-9a37-4716-bc2b-7a2631cd39ce")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -25917,7 +28132,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Diptronics-1188E_1K2_V_TR/C240289"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25929,7 +28144,7 @@
 				)
 			)
 		)
-		(property "Description" "Single Pole Single Throw (SPST) switch"
+		(property "Description" "C240289"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25937,6 +28152,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Diptronics"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e1ee3a0-4b01-4c74-830b-99a0226aae20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C240289"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1dc9b48-4bfd-4bc8-bdd7-7f770ba77a61")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -26092,7 +28333,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C150M8GAC7867/2199937"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1900-0402CG150J500NT/C1548"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26105,7 +28346,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1548"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26118,12 +28359,12 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "z.B. Kemet"
+		(property "Hersteller" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aae6ad4f-c49c-4375-a985-814d5e3e8be5")
+			(uuid "b30b44f8-62f8-49ed-b100-6ce22662ecb3")
 			(effects
 				(font
 					(size 1 1)
@@ -26131,12 +28372,12 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "JLCPCB Part #" "C1548"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "288527fd-1712-46f1-a4fd-50e8cdc98bf9")
+			(uuid "fe30125c-4529-4d64-bba8-7786903856b5")
 			(effects
 				(font
 					(size 1 1)
@@ -26332,7 +28573,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/yageo/AC0603JR-101KL/14286501"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26345,7 +28586,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C23186"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26364,6 +28605,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "31a66204-2e34-4cb9-b055-98b6ccc0be83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a863b817-3b9a-4f46-a805-93c544653dd5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "43abf8ed-57a8-4b70-80ac-1506c01e5f41")
 			(effects
 				(font
 					(size 1 1)
@@ -26559,7 +28826,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/25904-0402WGJ0330TCE/C25161"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26572,7 +28839,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25161"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26581,6 +28848,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5fee7df3-c217-499a-b006-6e8ac964aad9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25161"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd0a7d76-f3fe-453f-907f-5206e9c55014")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -26771,7 +29064,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Diptronics-1188E_1K2_V_TR/C240289"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -26783,7 +29076,7 @@
 				)
 			)
 		)
-		(property "Description" "Single Pole Single Throw (SPST) switch"
+		(property "Description" "C240289"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -26791,6 +29084,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Diptronics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c560a156-c1e8-4d1a-8d3f-656004e36d4f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C240289"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad77d834-98ea-49f0-b715-504ed251a5aa")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -26946,7 +29265,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Hubei_KentoElec-KT0603R/C2286"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26959,7 +29278,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "C2286"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26968,6 +29287,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Hubei KENTO Elec"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "227f9af7-1357-4535-b19b-6de786339ccf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2286"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cb2dba32-8b53-419f-b508-06d9eccfbd3a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -27182,7 +29527,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27195,7 +29540,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1525"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27204,6 +29549,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a79f5029-9d8c-4e42-8574-e0e2cc869472")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C1525"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "20f800c3-c6db-440a-9e7b-a28625af7796")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -27396,7 +29767,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27409,7 +29780,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1525"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27441,6 +29812,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "104a1b05-6ccd-45be-b804-dc684426b97c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "076e7206-6bb0-428a-9987-e1b5a1a09ab2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C1525"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7cbb8296-a374-4568-992a-8f01c07892a7")
 			(effects
 				(font
 					(size 1 1)
@@ -27636,7 +30033,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/winbond-electronics/W25Q64JWZPIQ/11584719"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/WinbondElec-W25Q64JVZPIQ/C2940197"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27649,7 +30046,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C2940197"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27658,6 +30055,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Winbond Elec"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9ea77ff-5f11-4b4c-a4a9-f2fc22bb9ca9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2940197"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4db1d194-ed33-48e0-b18d-028c3844675c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -27972,7 +30395,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27985,7 +30408,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1525"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28017,6 +30440,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0591c834-b165-4875-9b6a-6dfffde7157b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f609aa94-d848-467a-b6d9-24babf528348")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C1525"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "32134eef-b343-4759-8b57-f9a298c08a7b")
 			(effects
 				(font
 					(size 1 1)
@@ -28212,7 +30661,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28225,7 +30674,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "C11702"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28234,6 +30683,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa209c79-20c7-4cf8-8ded-021c288942cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C11702"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a034137c-64ad-4498-b491-0fdaca3becc8")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -28426,7 +30901,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28439,7 +30914,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1525"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28471,6 +30946,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4d15a4f8-8f25-4702-a148-6b7bd0e06877")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f118340-6e82-40a2-9158-ec08e7d1f071")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C1525"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "328f7533-4f09-4c22-aa94-b40330fb9f00")
 			(effects
 				(font
 					(size 1 1)
@@ -28639,7 +31140,7 @@
 				)
 			)
 		)
-		(property "Value" "USB-C-Socket"
+		(property "Value" "USB-C Connector"
 			(at 0.4 -2.75 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -28663,7 +31164,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/gswitch-GT_USB7010B/C2837092"
 			(at -16.4 -8.67 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -28675,7 +31176,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C283709"
 			(at -16.4 -8.67 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -28683,6 +31184,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "G-Switch"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3737ecc-99fc-4ee8-9f55-170239f8cffc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C2837092"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e3af7714-f374-4c2b-946e-888c6bad729e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -28892,7 +31419,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/panasonic-electronic-components/ERJ-3GEYJ103V/135662"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26274-0402WGJ0103TCE/C25531"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28905,7 +31432,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C25531"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28918,12 +31445,25 @@
 				)
 			)
 		)
-		(property "STANDARD" "unkritisch"
+		(property "Hersteller" "UNI-ROYAL(Uniroyal Elec)"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9043f647-99d0-48e3-99a2-4f4448af1938")
+			(uuid "77deeabe-e2db-4632-a7dd-f3798599c202")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25531"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f6eaf10b-792b-49da-bfc1-5e3b47cc7f15")
 			(effects
 				(font
 					(size 1 1)
@@ -29077,16 +31617,16 @@
 			)
 		)
 	)
-	(footprint "Crystal:Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm"
+	(footprint "Crystal:Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm"
 		(layer "F.Cu")
 		(uuid "e84f887a-6ff8-4441-87e9-1e88556d5444")
 		(at 139.7 106.581 90)
-		(descr "SMD Crystal TXC 7M http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package")
+		(descr "Abracon Miniature Ceramic Smd Crystal ABM8AIG https://abracon.com/AIGcrystals/ABM8AIG.pdf, 3.2x2.5mm^2 package")
 		(tags "SMD SMT crystal")
 		(property "Reference" "Y2"
-			(at -2.893 -0.073 180)
+			(at -3.02 -0.127 180)
 			(layer "F.SilkS")
-			(uuid "d0771132-e43a-42a8-ba82-c9b58a5563e5")
+			(uuid "a91a1044-dc2e-4a7c-8201-1b77edbfb19e")
 			(effects
 				(font
 					(size 1 1)
@@ -29098,7 +31638,7 @@
 			(at 0 2.45 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e82f576a-9044-4cdc-be38-44b1a7e1ae3b")
+			(uuid "adeaaff6-c831-4de6-a01a-f3db52385061")
 			(effects
 				(font
 					(size 1 1)
@@ -29106,12 +31646,12 @@
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm"
+		(property "Footprint" "Crystal:Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a1864472-91e3-46dd-aa2e-923e516d50bf")
+			(uuid "304d0147-648f-49f6-bf7d-735cb43dd450")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29119,12 +31659,12 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/txc-corporation/7M-12-000MAAE-T/3674337"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/AbraconLlc-ABM8_272T3/C20625731"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eb21d46d-8aa8-48d6-b323-d681fc94286b")
+			(uuid "cc9b448e-cba9-4f77-8ae0-defc35c89b4b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29137,10 +31677,36 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a8deb23a-288e-47ee-89c3-a52a70315c61")
+			(uuid "154f7198-1c55-4a48-b6ed-5cc3b661e1da")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Abracon LLC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c481772b-dc07-4181-9a92-61d201bd6503")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C20625731"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7f6ad4f9-1285-4d77-8817-0e0aab50ec3c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -29158,7 +31724,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d478a93e-daf5-4aba-98b5-cc9eafb0d4e7")
+			(uuid "de32200a-1ae7-4076-9513-8c18738efaa3")
 		)
 		(fp_line
 			(start -2 1.65)
@@ -29168,7 +31734,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e31a5ddf-1380-4558-a4e6-814c44cccd65")
+			(uuid "9e7905ff-0216-4f4b-8bdb-a90c64f708a0")
 		)
 		(fp_line
 			(start 2.1 -1.7)
@@ -29178,7 +31744,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b48a30e0-94f7-4c12-a17b-a1be06368a9d")
+			(uuid "3b184d6b-a247-4ae4-9c17-3f7a941e2021")
 		)
 		(fp_line
 			(start -2.1 -1.7)
@@ -29188,7 +31754,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bb256b55-5b71-421d-8f79-b04a7252263f")
+			(uuid "f66b46c8-4c8e-4cb4-a607-efa447054035")
 		)
 		(fp_line
 			(start 2.1 1.7)
@@ -29198,7 +31764,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "fe14974c-ab18-40ba-aa7b-c937eacac1e7")
+			(uuid "fe1cd19a-e9f9-4266-a7d0-69e1c925719d")
 		)
 		(fp_line
 			(start -2.1 1.7)
@@ -29208,27 +31774,47 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2aaebd42-548f-4b9a-8509-d31c553465e7")
+			(uuid "1bd2b9c5-2851-4412-a7d0-4d156e0353d7")
 		)
 		(fp_line
-			(start 1.6 -1.25)
-			(end -1.6 -1.25)
+			(start 1.4 -1.25)
+			(end 1.6 -1.05)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5d3cbfe0-b87d-4f7a-956a-187763c2231b")
+			(uuid "22ce565e-a953-44dc-9852-859a0ad7e9e3")
 		)
 		(fp_line
-			(start -1.6 -1.25)
-			(end -1.6 1.25)
+			(start -1.4 -1.25)
+			(end 1.4 -1.25)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "23f88926-91aa-4844-907b-0c228a08f1e1")
+			(uuid "7b86ef6c-2b23-4da8-ae37-1a25c6bb4162")
+		)
+		(fp_line
+			(start 1.6 -1.05)
+			(end 1.6 1.05)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e279def5-1d5c-4da0-bce5-5b5c7a14d4e9")
+		)
+		(fp_line
+			(start -1.6 -1.05)
+			(end -1.4 -1.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "665d1311-b3c6-41ab-b8e6-7b5db548dffe")
 		)
 		(fp_line
 			(start -1.6 0.25)
@@ -29238,32 +31824,52 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4aaf42dc-8853-4db8-985c-419ae6e4fbc3")
+			(uuid "11b1d47f-2363-4ada-b950-be0d69d798d2")
 		)
 		(fp_line
-			(start 1.6 1.25)
-			(end 1.6 -1.25)
+			(start 1.6 1.05)
+			(end 1.4 1.25)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c85db336-631f-4c9c-bd5e-7afb755dd9b8")
+			(uuid "590400ad-d14b-4224-8c52-181e7ff23591")
 		)
 		(fp_line
-			(start -1.6 1.25)
-			(end 1.6 1.25)
+			(start -1.6 1.05)
+			(end -1.6 -1.05)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "64dd9c0a-6396-405a-8f89-fcd38518ffc9")
+			(uuid "4af5857b-4911-4ff3-9d2b-9e4b727309f4")
+		)
+		(fp_line
+			(start 1.4 1.25)
+			(end -1.4 1.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "a3be05c7-8ee5-4d48-a830-d08b9109641d")
+		)
+		(fp_line
+			(start -1.4 1.25)
+			(end -1.6 1.05)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "167af69f-e398-4026-92d5-ff3b02ff9d00")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
 			(layer "F.Fab")
-			(uuid "95c4f59c-ae98-4b58-b7cd-c1fc338f6021")
+			(uuid "d584f647-1d24-4a64-8998-d63d40314581")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -29272,42 +31878,42 @@
 			)
 		)
 		(pad "1" smd rect
-			(at -1.1 0.85 90)
+			(at -1.1 0.8 90)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 11 "Net-(U8-XIN)")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "799d53eb-e928-4eef-9eee-19f90a30cd16")
+			(uuid "1caa42d1-0046-40ab-96c3-501bdbcbf0b0")
 		)
 		(pad "2" smd rect
-			(at 1.1 0.85 90)
+			(at 1.1 0.8 90)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 2 "GND")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "2caa347f-2f25-4942-94d3-7417222bb625")
+			(uuid "fc70799a-3cb3-4f98-8d89-3c0ddf29cefe")
 		)
 		(pad "3" smd rect
-			(at 1.1 -0.85 90)
+			(at 1.1 -0.8 90)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 12 "Net-(C27-Pad2)")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "bbecc4c7-3ac6-4aa9-9603-d333b86dade9")
+			(uuid "77564048-6b93-4841-a337-18fc566f7e67")
 		)
 		(pad "4" smd rect
-			(at -1.1 -0.85 90)
+			(at -1.1 -0.8 90)
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 2 "GND")
 			(pinfunction "4")
 			(pintype "passive")
-			(uuid "3e34e9a6-a0ee-4fa6-b430-75112b8f9f53")
+			(uuid "7201e009-5ee8-4a71-9622-e5e1e0dd03ac")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29361,7 +31967,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.de/de/products/detail/kemet/C0603C104J4RAC7013/8572406"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29374,7 +31980,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C1525"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29406,6 +32012,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "645d0d70-3320-4a6b-b97a-1531d91688f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Samsung Electro-Mechanics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e23620bd-515a-4edb-b8bd-3c11f4a0477b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C1525"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e84d7c98-b608-4ac1-a38c-b96a5c1959b5")
 			(effects
 				(font
 					(size 1 1)
@@ -29600,7 +32232,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/RaspberryPi-RP2350B/C42415655"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -29612,7 +32244,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "C42415655"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -29620,6 +32252,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Hersteller" "Raspberry Pi"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "830f8565-3a20-4419-bf16-c09b2c407f8c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C42415655"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "48d6b9a6-5d60-4a14-8b11-93e393021207")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -31126,7 +33784,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "wird nicht bestückt"
+		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -31147,6 +33805,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c2c02aac-48a2-4cb7-b637-d0363709ff0a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -31673,6 +34345,20 @@
 				(justify mirror)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9a625c46-5218-42d7-8e1e-e294af55e7f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/00000000-0000-0000-0000-0000626cc112/06790b06-6411-40aa-8226-73c91d8ac45b")
 		(sheetname "Target")
 		(sheetfile "Target.kicad_sch")
@@ -31959,6 +34645,20 @@
 				(justify mirror)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c930d0a4-0351-4c97-9d70-4ed628d5f3c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/00000000-0000-0000-0000-0000626cc112/cc57a86d-3ecc-405e-a5ad-c1b9ed3e362b")
 		(sheetname "Target")
 		(sheetfile "Target.kicad_sch")
@@ -32240,6 +34940,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "39d907a2-bb7e-4e66-92a8-ad38c1181a99")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -36269,7 +38983,7 @@
 			)
 		)
 	)
-	(gr_text "RP2350 Launchpad v1.0\n© 2025 A. Terstegge"
+	(gr_text "RP2350 Launchpad v1.1\n© 2025 A. Terstegge"
 		(at 150.622 70.358 0)
 		(layer "Eco2.User")
 		(uuid "00000000-0000-0000-0000-0000622fa9f4")
@@ -40109,14 +42823,6 @@
 		(uuid "0eaea668-c353-4e5e-8f10-4648bd7737ed")
 	)
 	(segment
-		(start 122.596 83.947)
-		(end 122.596 86.319)
-		(width 0.8)
-		(layer "F.Cu")
-		(net 5)
-		(uuid "1b0f55f9-5fa5-489c-9db2-e63c29ecdd31")
-	)
-	(segment
 		(start 121.539 83.82)
 		(end 121.666 83.947)
 		(width 0.4)
@@ -40173,6 +42879,14 @@
 		(uuid "8b4fa88a-e3ee-4cfa-a036-5325a7958457")
 	)
 	(segment
+		(start 122.48 86.106)
+		(end 122.48 84.1005)
+		(width 0.8)
+		(layer "F.Cu")
+		(net 5)
+		(uuid "a0ebed8c-26b5-4f15-ab74-b97d45ac09bd")
+	)
+	(segment
 		(start 124.714 79.448)
 		(end 124.841 79.321)
 		(width 0.8)
@@ -40195,6 +42909,14 @@
 		(layer "F.Cu")
 		(net 5)
 		(uuid "ab276e50-f838-4362-9aac-7d16f40393c4")
+	)
+	(segment
+		(start 122.48 84.1005)
+		(end 122.6335 83.947)
+		(width 0.8)
+		(layer "F.Cu")
+		(net 5)
+		(uuid "dd7d78ad-189a-4c4f-ae92-ff234ee0c099")
 	)
 	(segment
 		(start 124.714 82.0595)
@@ -40245,6 +42967,14 @@
 		(uuid "ff3f0dce-48a8-4a4e-9a85-b6808253807b")
 	)
 	(segment
+		(start 145.415 89.6745)
+		(end 146.989 91.2485)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 7)
+		(uuid "0bc5d093-6081-4ca5-8dba-1a863c9bbc7a")
+	)
+	(segment
 		(start 151.038 87.976)
 		(end 150.622 88.392)
 		(width 0.2)
@@ -40269,12 +42999,12 @@
 		(uuid "95a9cb1b-c155-4d37-a2b5-cecc3f928209")
 	)
 	(segment
-		(start 145.4658 89.662)
-		(end 147.32 91.274)
+		(start 146.989 91.2485)
+		(end 147.279 91.2485)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 7)
-		(uuid "e584f27e-45dd-4fdd-8c50-c7400e4b2ab2")
+		(uuid "a74504e2-8375-42d1-9cfb-b18418634e90")
 	)
 	(segment
 		(start 150.622 88.392)
@@ -46917,20 +49647,28 @@
 		(uuid "e222a079-1e16-4733-803f-90d21ab82164")
 	)
 	(segment
+		(start 120.3585 83.947)
+		(end 120.3585 85.9845)
+		(width 0.8)
+		(layer "F.Cu")
+		(net 94)
+		(uuid "36c6d3c0-4d08-4d7b-9b0d-e745b439d001")
+	)
+	(segment
+		(start 120.3585 85.9845)
+		(end 120.48 86.106)
+		(width 0.8)
+		(layer "F.Cu")
+		(net 94)
+		(uuid "858adb6b-ceb4-404b-bb57-a27e2c8abd37")
+	)
+	(segment
 		(start 120.396 86.351)
 		(end 120.405 86.36)
 		(width 0.8)
 		(layer "F.Cu")
 		(net 94)
 		(uuid "c530039a-9616-48cc-81ab-7c9b301e469d")
-	)
-	(segment
-		(start 120.396 83.947)
-		(end 120.396 86.351)
-		(width 0.8)
-		(layer "F.Cu")
-		(net 94)
-		(uuid "f3df0678-96d4-4652-9001-a89868c1f45e")
 	)
 	(segment
 		(start 122.596 79.37)
@@ -51281,20 +54019,84 @@
 				(xy 117.131 83.658983) (xy 117.131 83.7055) (xy 118.238 83.7055) (xy 118.306121 83.725502) (xy 118.352614 83.779158)
 				(xy 118.364 83.8315) (xy 118.364 83.9595) (xy 118.492 83.9595) (xy 118.560121 83.979502) (xy 118.606614 84.033158)
 				(xy 118.618 84.0855) (xy 118.618 84.9675) (xy 118.889517 84.9675) (xy 118.889516 84.967499) (xy 118.993318 84.956894)
-				(xy 118.993321 84.956893) (xy 119.161525 84.901157) (xy 119.295353 84.818611) (xy 119.363832 84.799874)
-				(xy 119.431571 84.821133) (xy 119.477063 84.87564) (xy 119.4875 84.925852) (xy 119.4875 84.927627)
-				(xy 119.467498 84.995748) (xy 119.450595 85.016722) (xy 119.430975 85.036341) (xy 119.43097 85.036347)
-				(xy 119.337885 85.187262) (xy 119.282113 85.355572) (xy 119.282112 85.355579) (xy 119.2715 85.459446)
-				(xy 119.2715 87.061076) (xy 119.251498 87.129197) (xy 119.197842 87.17569) (xy 119.127568 87.185794)
-				(xy 119.062988 87.1563) (xy 119.056405 87.150171) (xy 119.006883 87.100649) (xy 119.006881 87.100647)
-				(xy 118.901772 87.030415) (xy 118.841703 86.990278) (xy 118.841699 86.990276) (xy 118.716999 86.938623)
-				(xy 118.676123 86.91131) (xy 116.12514 84.360326) (xy 116.125134 84.360321) (xy 116.07576 84.32733)
-				(xy 115.976336 84.260897) (xy 115.974209 84.260016) (xy 117.131 84.260016) (xy 117.141605 84.363818)
-				(xy 117.141606 84.363821) (xy 117.197342 84.532025) (xy 117.290365 84.682839) (xy 117.29037 84.682845)
-				(xy 117.415654 84.808129) (xy 117.41566 84.808134) (xy 117.566474 84.901157) (xy 117.734678 84.956893)
-				(xy 117.734681 84.956894) (xy 117.838483 84.967499) (xy 117.838483 84.9675) (xy 118.11 84.9675)
-				(xy 118.11 84.2135) (xy 117.131 84.2135) (xy 117.131 84.260016) (xy 115.974209 84.260016) (xy 115.811 84.192413)
-				(xy 115.635481 84.1575) (xy 115.635479 84.1575) (xy 114.309521 84.1575) (xy 114.309518 84.1575)
+				(xy 118.993321 84.956893) (xy 119.161525 84.901157) (xy 119.257853 84.841741) (xy 119.326332 84.823004)
+				(xy 119.394071 84.844263) (xy 119.439563 84.89877) (xy 119.45 84.948982) (xy 119.45 86.073981) (xy 119.469079 86.169895)
+				(xy 119.4715 86.194477) (xy 119.4715 86.954649) (xy 119.478009 87.015196) (xy 119.478011 87.015204)
+				(xy 119.52911 87.152202) (xy 119.529112 87.152207) (xy 119.616738 87.269261) (xy 119.733792 87.356887)
+				(xy 119.733794 87.356888) (xy 119.733796 87.356889) (xy 119.760607 87.366889) (xy 119.870795 87.407988)
+				(xy 119.870803 87.40799) (xy 119.93135 87.414499) (xy 119.931355 87.414499) (xy 119.931362 87.4145)
+				(xy 119.931368 87.4145) (xy 121.028632 87.4145) (xy 121.028638 87.4145) (xy 121.028645 87.414499)
+				(xy 121.028649 87.414499) (xy 121.089196 87.40799) (xy 121.089199 87.407989) (xy 121.089201 87.407989)
+				(xy 121.226204 87.356889) (xy 121.253417 87.336518) (xy 121.343261 87.269261) (xy 121.379132 87.221343)
+				(xy 121.435967 87.178796) (xy 121.506783 87.173731) (xy 121.569095 87.207756) (xy 121.580868 87.221343)
+				(xy 121.616738 87.269261) (xy 121.733792 87.356887) (xy 121.733794 87.356888) (xy 121.733796 87.356889)
+				(xy 121.760607 87.366889) (xy 121.870795 87.407988) (xy 121.870803 87.40799) (xy 121.93135 87.414499)
+				(xy 121.931355 87.414499) (xy 121.931362 87.4145) (xy 121.931368 87.4145) (xy 123.028632 87.4145)
+				(xy 123.028638 87.4145) (xy 123.028645 87.414499) (xy 123.028649 87.414499) (xy 123.089196 87.40799)
+				(xy 123.089199 87.407989) (xy 123.089201 87.407989) (xy 123.226204 87.356889) (xy 123.253417 87.336518)
+				(xy 123.343261 87.269261) (xy 123.430887 87.152207) (xy 123.430887 87.152206) (xy 123.430889 87.152204)
+				(xy 123.481989 87.015201) (xy 123.482278 87.012521) (xy 123.488499 86.954649) (xy 123.4885 86.954632)
+				(xy 123.4885 86.692221) (xy 126.257501 86.692221) (xy 126.263981 86.763553) (xy 126.315133 86.927706)
+				(xy 126.404078 87.07484) (xy 126.404086 87.07485) (xy 126.525649 87.196413) (xy 126.525659 87.196421)
+				(xy 126.672793 87.285366) (xy 126.836946 87.336518) (xy 126.908281 87.342999) (xy 126.911499 87.342999)
+				(xy 126.9115 87.342998) (xy 126.9115 86.614) (xy 126.257501 86.614) (xy 126.257501 86.692221) (xy 123.4885 86.692221)
+				(xy 123.4885 86.501327) (xy 123.490921 86.476745) (xy 123.493792 86.462313) (xy 123.5045 86.408479)
+				(xy 123.5045 86.22952) (xy 123.490921 86.161252) (xy 123.4885 86.136671) (xy 123.4885 85.257367)
+				(xy 123.488499 85.25735) (xy 123.48199 85.196803) (xy 123.481988 85.196795) (xy 123.450233 85.111658)
+				(xy 123.430889 85.059796) (xy 123.42763 85.055442) (xy 123.413631 85.036741) (xy 123.388821 84.970221)
+				(xy 123.3885 84.961233) (xy 123.3885 84.790493) (xy 123.408502 84.722372) (xy 123.450359 84.68204)
+				(xy 123.485129 84.661477) (xy 123.553944 84.644019) (xy 123.621276 84.666536) (xy 123.638362 84.680837)
+				(xy 123.765654 84.808129) (xy 123.76566 84.808134) (xy 123.916474 84.901157) (xy 124.084678 84.956893)
+				(xy 124.084681 84.956894) (xy 124.188483 84.967499) (xy 124.188483 84.9675) (xy 124.46 84.9675)
+				(xy 124.968 84.9675) (xy 125.239517 84.9675) (xy 125.239516 84.967499) (xy 125.343318 84.956894)
+				(xy 125.343321 84.956893) (xy 125.511525 84.901157) (xy 125.662339 84.808134) (xy 125.662345 84.808129)
+				(xy 125.787629 84.682845) (xy 125.787634 84.682839) (xy 125.880657 84.532025) (xy 125.936393 84.363821)
+				(xy 125.936394 84.363818) (xy 125.946999 84.260016) (xy 125.947 84.260016) (xy 125.947 84.2135)
+				(xy 124.968 84.2135) (xy 124.968 84.9675) (xy 124.46 84.9675) (xy 124.46 84.0855) (xy 124.480002 84.017379)
+				(xy 124.533658 83.970886) (xy 124.586 83.9595) (xy 124.714 83.9595) (xy 124.714 83.8315) (xy 124.734002 83.763379)
+				(xy 124.787658 83.716886) (xy 124.84 83.7055) (xy 125.947 83.7055) (xy 125.947 83.658983) (xy 125.936394 83.555181)
+				(xy 125.936393 83.555178) (xy 125.880657 83.386974) (xy 125.787634 83.23616) (xy 125.787629 83.236154)
+				(xy 125.74707 83.195595) (xy 125.713044 83.133283) (xy 125.718109 83.062468) (xy 125.760656 83.005632)
+				(xy 125.827176 82.980821) (xy 125.836165 82.9805) (xy 126.089551 82.9805) (xy 126.157672 83.000502)
+				(xy 126.178646 83.017404) (xy 126.307219 83.145977) (xy 126.390771 83.204481) (xy 126.435099 83.259936)
+				(xy 126.4445 83.307693) (xy 126.4445 83.519838) (xy 126.424498 83.587959) (xy 126.407595 83.608933)
+				(xy 126.403688 83.612839) (xy 126.403684 83.612844) (xy 126.314672 83.760088) (xy 126.31467 83.760093)
+				(xy 126.263486 83.924353) (xy 126.257 83.995737) (xy 126.257 84.660261) (xy 126.263486 84.731646)
+				(xy 126.263486 84.731647) (xy 126.31467 84.895906) (xy 126.314672 84.895911) (xy 126.314673 84.895913)
+				(xy 126.346987 84.949367) (xy 126.403684 85.043155) (xy 126.403688 85.04316) (xy 126.525339 85.164811)
+				(xy 126.525348 85.164818) (xy 126.643865 85.236464) (xy 126.691814 85.288822) (xy 126.703844 85.358792)
+				(xy 126.676135 85.424159) (xy 126.643865 85.45212) (xy 126.525665 85.523573) (xy 126.525649 85.523586)
+				(xy 126.404086 85.645149) (xy 126.404078 85.645159) (xy 126.315133 85.792293) (xy 126.263981 85.956446)
+				(xy 126.263981 85.956447) (xy 126.2575 86.027777) (xy 126.2575 86.106) (xy 127.0395 86.106) (xy 127.107621 86.126002)
+				(xy 127.154114 86.179658) (xy 127.1655 86.232) (xy 127.1655 86.36) (xy 127.2935 86.36) (xy 127.361621 86.380002)
+				(xy 127.408114 86.433658) (xy 127.4195 86.486) (xy 127.4195 87.342999) (xy 127.422722 87.342999)
+				(xy 127.494053 87.336518) (xy 127.658206 87.285366) (xy 127.80534 87.196421) (xy 127.80535 87.196413)
+				(xy 127.901051 87.100713) (xy 127.963363 87.066687) (xy 128.034178 87.071752) (xy 128.079241 87.100713)
+				(xy 128.175339 87.196811) (xy 128.175344 87.196815) (xy 128.175345 87.196816) (xy 128.322587 87.285827)
+				(xy 128.486851 87.337013) (xy 128.558235 87.3435) (xy 129.072764 87.343499) (xy 129.144149 87.337013)
+				(xy 129.187668 87.323451) (xy 129.258652 87.322282) (xy 129.314246 87.354651) (xy 129.493084 87.533489)
+				(xy 129.636 87.676404) (xy 129.670025 87.738717) (xy 129.664961 87.809532) (xy 129.622414 87.866368)
+				(xy 129.555894 87.891179) (xy 129.546905 87.8915) (xy 125.365575 87.8915) (xy 125.350311 87.889884)
+				(xy 125.350268 87.890312) (xy 125.239553 87.879) (xy 124.188455 87.879) (xy 124.084574 87.889612)
+				(xy 123.916259 87.945386) (xy 123.87191 87.972741) (xy 123.805764 87.9915) (xy 122.506518 87.9915)
+				(xy 122.330999 88.026413) (xy 122.330998 88.026413) (xy 122.19702 88.081909) (xy 122.148804 88.0915)
+				(xy 122.054489 88.0915) (xy 122.017171 88.094437) (xy 122.01717 88.094437) (xy 121.857396 88.140856)
+				(xy 121.714191 88.225548) (xy 121.71419 88.225548) (xy 121.687868 88.25187) (xy 121.625554 88.285893)
+				(xy 121.574194 88.286351) (xy 121.474399 88.2665) (xy 121.474394 88.2665) (xy 121.370951 88.2665)
+				(xy 121.30283 88.246498) (xy 121.281856 88.229595) (xy 121.27781 88.225549) (xy 121.277803 88.225544)
+				(xy 121.134605 88.140856) (xy 120.974829 88.094437) (xy 120.937511 88.0915) (xy 120.937502 88.0915)
+				(xy 120.843196 88.0915) (xy 120.794979 88.081909) (xy 120.661 88.026413) (xy 120.602215 88.01472)
+				(xy 120.485481 87.9915) (xy 120.485479 87.9915) (xy 119.4985 87.9915) (xy 119.430379 87.971498)
+				(xy 119.383886 87.917842) (xy 119.3725 87.8655) (xy 119.3725 87.784672) (xy 119.372499 87.784668)
+				(xy 119.369962 87.771914) (xy 119.333744 87.589831) (xy 119.257721 87.406296) (xy 119.147353 87.241119)
+				(xy 119.006881 87.100647) (xy 118.901772 87.030415) (xy 118.841703 86.990278) (xy 118.841699 86.990276)
+				(xy 118.716999 86.938623) (xy 118.676123 86.91131) (xy 116.12514 84.360326) (xy 116.125134 84.360321)
+				(xy 116.07576 84.32733) (xy 115.976336 84.260897) (xy 115.974209 84.260016) (xy 117.131 84.260016)
+				(xy 117.141605 84.363818) (xy 117.141606 84.363821) (xy 117.197342 84.532025) (xy 117.290365 84.682839)
+				(xy 117.29037 84.682845) (xy 117.415654 84.808129) (xy 117.41566 84.808134) (xy 117.566474 84.901157)
+				(xy 117.734678 84.956893) (xy 117.734681 84.956894) (xy 117.838483 84.967499) (xy 117.838483 84.9675)
+				(xy 118.11 84.9675) (xy 118.11 84.2135) (xy 117.131 84.2135) (xy 117.131 84.260016) (xy 115.974209 84.260016)
+				(xy 115.811 84.192413) (xy 115.635481 84.1575) (xy 115.635479 84.1575) (xy 114.309521 84.1575) (xy 114.309518 84.1575)
 				(xy 114.133999 84.192413) (xy 114.133993 84.192415) (xy 114.120731 84.197909) (xy 114.072513 84.2075)
 				(xy 113.60035 84.2075) (xy 113.539803 84.214009) (xy 113.539795 84.214011) (xy 113.402797 84.26511)
 				(xy 113.402792 84.265112) (xy 113.285738 84.352738) (xy 113.198112 84.469792) (xy 113.19811 84.469797)
@@ -51304,7 +54106,7 @@
 				(xy 112.580007 85.3655) (xy 112.580004 85.3655) (xy 112.444671 85.39242) (xy 112.444668 85.392421)
 				(xy 112.317189 85.445225) (xy 112.202458 85.521885) (xy 112.202452 85.52189) (xy 112.10489 85.619452)
 				(xy 112.104885 85.619458) (xy 112.028225 85.734189) (xy 111.975421 85.861668) (xy 111.97542 85.861671)
-				(xy 111.9485 85.997004) (xy 111.9485 86.134995) (xy 111.948627 86.135632) (xy 111.97542 86.270328)
+				(xy 111.9485 85.997004) (xy 111.9485 86.134995) (xy 111.967303 86.22952) (xy 111.97542 86.270328)
 				(xy 112.028225 86.397811) (xy 112.071324 86.462313) (xy 112.104885 86.512541) (xy 112.10489 86.512547)
 				(xy 112.202452 86.610109) (xy 112.202458 86.610114) (xy 112.317189 86.686775) (xy 112.444672 86.73958)
 				(xy 112.580007 86.7665) (xy 112.580008 86.7665) (xy 112.717992 86.7665) (xy 112.717993 86.7665)
@@ -51332,36 +54134,36 @@
 				(xy 115.709185 88.360604) (xy 115.740102 88.314336) (xy 115.748398 88.294304) (xy 115.755691 88.279519)
 				(xy 115.769523 88.255563) (xy 115.769523 88.255562) (xy 115.769527 88.255556) (xy 115.786481 88.203373)
 				(xy 115.789885 88.194148) (xy 115.808587 88.149) (xy 115.814143 88.121063) (xy 115.817886 88.10672)
-				(xy 115.828542 88.073928) (xy 115.833565 88.026128) (xy 115.835296 88.01472) (xy 115.836672 88.007803)
-				(xy 115.8435 87.973479) (xy 115.8435 87.938215) (xy 115.84419 87.925045) (xy 115.845747 87.910229)
-				(xy 115.848504 87.884) (xy 115.84419 87.842954) (xy 115.8435 87.829784) (xy 115.8435 87.012521)
-				(xy 115.841307 87.001498) (xy 115.839075 86.990279) (xy 115.834347 86.966506) (xy 115.834109 86.965312)
-				(xy 115.840409 86.894595) (xy 115.88394 86.838511) (xy 115.950883 86.814864) (xy 116.019984 86.831164)
-				(xy 116.046773 86.851586) (xy 117.24587 88.050683) (xy 117.279896 88.112995) (xy 117.274831 88.18381)
-				(xy 117.264016 88.205924) (xy 117.196885 88.31476) (xy 117.141113 88.483072) (xy 117.141112 88.483079)
-				(xy 117.1305 88.586946) (xy 117.1305 89.188044) (xy 117.141112 89.291925) (xy 117.196885 89.460238)
-				(xy 117.28997 89.611152) (xy 117.289975 89.611158) (xy 117.415345 89.736528) (xy 117.41845 89.738983)
-				(xy 117.420027 89.74121) (xy 117.420537 89.74172) (xy 117.420449 89.741807) (xy 117.459481 89.796922)
-				(xy 117.462673 89.867847) (xy 117.427014 89.929239) (xy 117.418454 89.936657) (xy 117.415654 89.93887)
-				(xy 117.29037 90.064154) (xy 117.290365 90.06416) (xy 117.197342 90.214974) (xy 117.141606 90.383178)
-				(xy 117.141605 90.383181) (xy 117.131 90.486983) (xy 117.131 90.5335) (xy 118.238 90.5335) (xy 118.306121 90.553502)
-				(xy 118.352614 90.607158) (xy 118.364 90.6595) (xy 118.364 90.7875) (xy 118.492 90.7875) (xy 118.560121 90.807502)
-				(xy 118.606614 90.861158) (xy 118.618 90.9135) (xy 118.618 91.7955) (xy 118.889517 91.7955) (xy 118.889516 91.795499)
-				(xy 118.993318 91.784894) (xy 118.993321 91.784893) (xy 119.161525 91.729157) (xy 119.312339 91.636134)
-				(xy 119.391967 91.556506) (xy 119.454279 91.522481) (xy 119.525095 91.527545) (xy 119.545202 91.537147)
-				(xy 119.582397 91.559144) (xy 119.582399 91.559145) (xy 119.742169 91.605562) (xy 119.779488 91.608499)
-				(xy 119.779489 91.6085) (xy 119.779498 91.6085) (xy 120.937511 91.6085) (xy 120.937511 91.608499)
-				(xy 120.974831 91.605562) (xy 121.134601 91.559145) (xy 121.134603 91.559143) (xy 121.134605 91.559143)
-				(xy 121.211515 91.513658) (xy 121.277807 91.474453) (xy 121.27781 91.47445) (xy 121.281856 91.470405)
-				(xy 121.344168 91.436379) (xy 121.370951 91.4335) (xy 121.469393 91.4335) (xy 121.469394 91.4335)
-				(xy 121.573367 91.412818) (xy 121.644079 91.419146) (xy 121.687041 91.447301) (xy 121.700818 91.461078)
-				(xy 121.714194 91.474454) (xy 121.714196 91.474455) (xy 121.857394 91.559143) (xy 121.857397 91.559143)
-				(xy 121.857399 91.559145) (xy 122.017169 91.605562) (xy 122.054488 91.608499) (xy 122.054489 91.6085)
-				(xy 122.054498 91.6085) (xy 123.212511 91.6085) (xy 123.212511 91.608499) (xy 123.249831 91.605562)
-				(xy 123.409601 91.559145) (xy 123.500837 91.505187) (xy 123.569652 91.487728) (xy 123.636984 91.510244)
-				(xy 123.654071 91.524546) (xy 123.765654 91.636129) (xy 123.76566 91.636134) (xy 123.916474 91.729157)
-				(xy 124.084678 91.784893) (xy 124.084681 91.784894) (xy 124.188483 91.795499) (xy 124.188483 91.7955)
-				(xy 124.46 91.7955) (xy 124.968 91.7955) (xy 125.239517 91.7955) (xy 125.239516 91.795499) (xy 125.343318 91.784894)
+				(xy 115.828542 88.073928) (xy 115.833565 88.026128) (xy 115.835296 88.01472) (xy 115.8435 87.973479)
+				(xy 115.8435 87.938215) (xy 115.84419 87.925045) (xy 115.844947 87.917842) (xy 115.848504 87.884)
+				(xy 115.84419 87.842954) (xy 115.8435 87.829784) (xy 115.8435 87.012521) (xy 115.841307 87.001498)
+				(xy 115.839075 86.990279) (xy 115.834347 86.966506) (xy 115.834109 86.965312) (xy 115.840409 86.894595)
+				(xy 115.88394 86.838511) (xy 115.950883 86.814864) (xy 116.019984 86.831164) (xy 116.046773 86.851586)
+				(xy 117.24587 88.050683) (xy 117.279896 88.112995) (xy 117.274831 88.18381) (xy 117.264016 88.205924)
+				(xy 117.196885 88.31476) (xy 117.141113 88.483072) (xy 117.141112 88.483079) (xy 117.1305 88.586946)
+				(xy 117.1305 89.188044) (xy 117.141112 89.291925) (xy 117.196885 89.460238) (xy 117.28997 89.611152)
+				(xy 117.289975 89.611158) (xy 117.415345 89.736528) (xy 117.41845 89.738983) (xy 117.420027 89.74121)
+				(xy 117.420537 89.74172) (xy 117.420449 89.741807) (xy 117.459481 89.796922) (xy 117.462673 89.867847)
+				(xy 117.427014 89.929239) (xy 117.418454 89.936657) (xy 117.415654 89.93887) (xy 117.29037 90.064154)
+				(xy 117.290365 90.06416) (xy 117.197342 90.214974) (xy 117.141606 90.383178) (xy 117.141605 90.383181)
+				(xy 117.131 90.486983) (xy 117.131 90.5335) (xy 118.238 90.5335) (xy 118.306121 90.553502) (xy 118.352614 90.607158)
+				(xy 118.364 90.6595) (xy 118.364 90.7875) (xy 118.492 90.7875) (xy 118.560121 90.807502) (xy 118.606614 90.861158)
+				(xy 118.618 90.9135) (xy 118.618 91.7955) (xy 118.889517 91.7955) (xy 118.889516 91.795499) (xy 118.993318 91.784894)
+				(xy 118.993321 91.784893) (xy 119.161525 91.729157) (xy 119.312339 91.636134) (xy 119.391967 91.556506)
+				(xy 119.454279 91.522481) (xy 119.525095 91.527545) (xy 119.545202 91.537147) (xy 119.582397 91.559144)
+				(xy 119.582399 91.559145) (xy 119.742169 91.605562) (xy 119.779488 91.608499) (xy 119.779489 91.6085)
+				(xy 119.779498 91.6085) (xy 120.937511 91.6085) (xy 120.937511 91.608499) (xy 120.974831 91.605562)
+				(xy 121.134601 91.559145) (xy 121.134603 91.559143) (xy 121.134605 91.559143) (xy 121.25536 91.487728)
+				(xy 121.277807 91.474453) (xy 121.27781 91.47445) (xy 121.281856 91.470405) (xy 121.344168 91.436379)
+				(xy 121.370951 91.4335) (xy 121.469393 91.4335) (xy 121.469394 91.4335) (xy 121.573367 91.412818)
+				(xy 121.644079 91.419146) (xy 121.687041 91.447301) (xy 121.700818 91.461078) (xy 121.714194 91.474454)
+				(xy 121.714196 91.474455) (xy 121.857394 91.559143) (xy 121.857397 91.559143) (xy 121.857399 91.559145)
+				(xy 122.017169 91.605562) (xy 122.054488 91.608499) (xy 122.054489 91.6085) (xy 122.054498 91.6085)
+				(xy 123.212511 91.6085) (xy 123.212511 91.608499) (xy 123.249831 91.605562) (xy 123.409601 91.559145)
+				(xy 123.500837 91.505187) (xy 123.569652 91.487728) (xy 123.636984 91.510244) (xy 123.654071 91.524546)
+				(xy 123.765654 91.636129) (xy 123.76566 91.636134) (xy 123.916474 91.729157) (xy 124.084678 91.784893)
+				(xy 124.084681 91.784894) (xy 124.188483 91.795499) (xy 124.188483 91.7955) (xy 124.46 91.7955)
+				(xy 124.968 91.7955) (xy 125.239517 91.7955) (xy 125.239516 91.795499) (xy 125.343318 91.784894)
 				(xy 125.343321 91.784893) (xy 125.511525 91.729157) (xy 125.662339 91.636134) (xy 125.662345 91.636129)
 				(xy 125.787629 91.510845) (xy 125.787634 91.510839) (xy 125.880657 91.360025) (xy 125.936393 91.191821)
 				(xy 125.936394 91.191818) (xy 125.946999 91.088016) (xy 125.947 91.088016) (xy 125.947 91.0415)
@@ -51487,24 +54289,23 @@
 				(xy 145.116147 92.182499) (xy 145.116147 92.1825) (xy 145.161 92.1825) (xy 145.161 91.3505) (xy 145.181002 91.282379)
 				(xy 145.234658 91.235886) (xy 145.287 91.2245) (xy 145.543 91.2245) (xy 145.611121 91.244502) (xy 145.657614 91.298158)
 				(xy 145.669 91.3505) (xy 145.669 92.1825) (xy 145.713853 92.1825) (xy 145.713852 92.182499) (xy 145.814229 92.172244)
-				(xy 145.814241 92.172242) (xy 145.97688 92.118348) (xy 145.981576 92.116159) (xy 146.051767 92.105494)
-				(xy 146.116581 92.134471) (xy 146.1357 92.154842) (xy 146.215738 92.261761) (xy 146.332792 92.349387)
-				(xy 146.332794 92.349388) (xy 146.332796 92.349389) (xy 146.391875 92.371424) (xy 146.469795 92.400488)
-				(xy 146.469803 92.40049) (xy 146.53035 92.406999) (xy 146.530355 92.406999) (xy 146.530362 92.407)
-				(xy 146.530368 92.407) (xy 148.027632 92.407) (xy 148.027638 92.407) (xy 148.027645 92.406999) (xy 148.027649 92.406999)
-				(xy 148.088196 92.40049) (xy 148.088199 92.400489) (xy 148.088201 92.400489) (xy 148.225204 92.349389)
-				(xy 148.30391 92.290469) (xy 148.370425 92.26566) (xy 148.439799 92.28075) (xy 148.454926 92.290471)
-				(xy 148.533036 92.348945) (xy 148.669906 92.399994) (xy 148.730402 92.406499) (xy 148.730415 92.4065)
-				(xy 149.225 92.4065) (xy 149.225 91.5525) (xy 149.733 91.5525) (xy 149.733 92.4065) (xy 150.227585 92.4065)
-				(xy 150.227597 92.406499) (xy 150.288093 92.399994) (xy 150.424964 92.348944) (xy 150.424965 92.348944)
-				(xy 150.541904 92.261404) (xy 150.634673 92.13748) (xy 150.691509 92.094933) (xy 150.762324 92.089869)
-				(xy 150.801687 92.105748) (xy 150.822111 92.118345) (xy 150.822114 92.118346) (xy 150.984758 92.172242)
-				(xy 150.98477 92.172244) (xy 151.085147 92.182499) (xy 151.085147 92.1825) (xy 151.13 92.1825) (xy 151.13 91.4785)
-				(xy 150.818999 91.4785) (xy 150.782095 91.515404) (xy 150.778807 91.512116) (xy 150.745342 91.541114)
-				(xy 150.693 91.5525) (xy 149.733 91.5525) (xy 149.225 91.5525) (xy 149.225 91.4245) (xy 149.245002 91.356379)
-				(xy 149.298658 91.309886) (xy 149.351 91.2985) (xy 149.479 91.2985) (xy 149.479 91.1705) (xy 149.499002 91.102379)
-				(xy 149.552658 91.055886) (xy 149.605 91.0445) (xy 150.269001 91.0445) (xy 150.305905 91.007596)
-				(xy 150.309192 91.010883) (xy 150.342658 90.981886) (xy 150.395 90.9705) (xy 151.258 90.9705) (xy 151.326121 90.990502)
+				(xy 145.814241 92.172242) (xy 145.976884 92.118347) (xy 145.994439 92.107519) (xy 146.062918 92.08878)
+				(xy 146.130657 92.110037) (xy 146.161457 92.139249) (xy 146.215738 92.211761) (xy 146.332792 92.299387)
+				(xy 146.332794 92.299388) (xy 146.332796 92.299389) (xy 146.391875 92.321424) (xy 146.469795 92.350488)
+				(xy 146.469803 92.35049) (xy 146.53035 92.356999) (xy 146.530355 92.356999) (xy 146.530362 92.357)
+				(xy 146.530368 92.357) (xy 148.027632 92.357) (xy 148.027638 92.357) (xy 148.027645 92.356999) (xy 148.027649 92.356999)
+				(xy 148.088196 92.35049) (xy 148.088199 92.350489) (xy 148.088201 92.350489) (xy 148.225204 92.299389)
+				(xy 148.30391 92.240469) (xy 148.370425 92.21566) (xy 148.439799 92.23075) (xy 148.454926 92.240471)
+				(xy 148.533036 92.298945) (xy 148.669906 92.349994) (xy 148.730402 92.356499) (xy 148.730415 92.3565)
+				(xy 149.225 92.3565) (xy 149.225 91.5025) (xy 149.733 91.5025) (xy 149.733 92.3565) (xy 150.227585 92.3565)
+				(xy 150.227597 92.356499) (xy 150.288093 92.349994) (xy 150.424964 92.298944) (xy 150.424965 92.298944)
+				(xy 150.541903 92.211404) (xy 150.609065 92.121686) (xy 150.665901 92.079139) (xy 150.736716 92.074073)
+				(xy 150.776081 92.089953) (xy 150.822115 92.118347) (xy 150.984758 92.172242) (xy 150.98477 92.172244)
+				(xy 151.085147 92.182499) (xy 151.085147 92.1825) (xy 151.13 92.1825) (xy 151.13 91.4785) (xy 150.808271 91.4785)
+				(xy 150.769592 91.499621) (xy 150.742809 91.5025) (xy 149.733 91.5025) (xy 149.225 91.5025) (xy 149.225 91.3745)
+				(xy 149.245002 91.306379) (xy 149.298658 91.259886) (xy 149.351 91.2485) (xy 149.479 91.2485) (xy 149.479 91.1205)
+				(xy 149.499002 91.052379) (xy 149.552658 91.005886) (xy 149.605 90.9945) (xy 150.279729 90.9945)
+				(xy 150.318408 90.973379) (xy 150.345191 90.9705) (xy 151.258 90.9705) (xy 151.326121 90.990502)
 				(xy 151.372614 91.044158) (xy 151.384 91.0965) (xy 151.384 91.2245) (xy 151.512 91.2245) (xy 151.580121 91.244502)
 				(xy 151.626614 91.298158) (xy 151.638 91.3505) (xy 151.638 92.1825) (xy 151.682853 92.1825) (xy 151.682852 92.182499)
 				(xy 151.783229 92.172244) (xy 151.783241 92.172242) (xy 151.945884 92.118347) (xy 152.069802 92.041914)
@@ -51551,14 +54352,15 @@
 				(xy 159.62748 87.533488) (xy 159.631874 87.549885) (xy 159.631875 87.54989) (xy 159.668947 87.688248)
 				(xy 159.66895 87.688255) (xy 159.749055 87.827001) (xy 159.749057 87.827003) (xy 159.749058 87.827005)
 				(xy 159.990586 88.068533) (xy 160.02461 88.130844) (xy 160.02749 88.157627) (xy 160.02749 88.834101)
-				(xy 160.042279 88.889298) (xy 160.04228 88.889298) (xy 160.04228 88.889299) (xy 160.067101 88.98193)
+				(xy 160.043307 88.893134) (xy 160.043308 88.893134) (xy 160.043308 88.893135) (xy 160.067101 88.98193)
 				(xy 160.068958 88.988862) (xy 160.06896 88.988867) (xy 160.149065 89.127613) (xy 160.149067 89.127615)
 				(xy 160.149068 89.127617) (xy 160.390596 89.369145) (xy 160.42462 89.431456) (xy 160.4275 89.458239)
 				(xy 160.4275 89.83589) (xy 160.4275 89.99611) (xy 160.468968 90.150873) (xy 160.468969 90.150875)
 				(xy 160.46897 90.150877) (xy 160.549075 90.289623) (xy 160.549083 90.289633) (xy 160.916365 90.656915)
 				(xy 160.91637 90.656919) (xy 160.916372 90.656921) (xy 160.916373 90.656922) (xy 160.916375 90.656923)
-				(xy 161.013907 90.713233) (xy 161.055127 90.737032) (xy 161.126903 90.756264) (xy 161.209002 90.778262)
-				(xy 161.269624 90.815211) (xy 161.300646 90.879071) (xy 161.292219 90.949566) (xy 161.291779 90.950581)
+				(xy 160.969535 90.687615) (xy 161.055127 90.737032) (xy 161.055133 90.737033) (xy 161.055134 90.737034)
+				(xy 161.105348 90.750489) (xy 161.105349 90.750489) (xy 161.126227 90.756082) (xy 161.209004 90.778262)
+				(xy 161.269624 90.815212) (xy 161.300646 90.879072) (xy 161.292218 90.949566) (xy 161.291779 90.950581)
 				(xy 161.271177 90.997548) (xy 161.271176 90.99755) (xy 161.223455 91.185999) (xy 161.223456 91.186)
 				(xy 162.129297 91.186) (xy 162.094075 91.247007) (xy 162.06 91.374174) (xy 162.06 91.505826) (xy 162.094075 91.632993)
 				(xy 162.129297 91.694) (xy 161.223455 91.694) (xy 161.271176 91.882449) (xy 161.271179 91.882456)
@@ -51575,57 +54377,56 @@
 				(xy 164.201368 92.7985) (xy 165.998632 92.7985) (xy 165.998638 92.7985) (xy 165.998645 92.798499)
 				(xy 165.998649 92.798499) (xy 166.059196 92.79199) (xy 166.059199 92.791989) (xy 166.059201 92.791989)
 				(xy 166.196204 92.740889) (xy 166.207924 92.732116) (xy 166.313261 92.653261) (xy 166.400887 92.536207)
-				(xy 166.400887 92.536206) (xy 166.400889 92.536204) (xy 166.44908 92.407) (xy 166.451988 92.399204)
-				(xy 166.45199 92.399196) (xy 166.458499 92.338649) (xy 166.4585 92.338632) (xy 166.4585 90.541367)
-				(xy 166.458499 90.54135) (xy 166.45199 90.480803) (xy 166.451988 90.480795) (xy 166.400889 90.343797)
-				(xy 166.400887 90.343792) (xy 166.313261 90.226738) (xy 166.196207 90.139112) (xy 166.196203 90.13911)
-				(xy 166.081192 90.096213) (xy 166.024356 90.053667) (xy 165.999546 89.987146) (xy 166.014638 89.917772)
-				(xy 166.032525 89.89282) (xy 166.175714 89.737277) (xy 166.175724 89.737265) (xy 166.188641 89.717494)
-				(xy 166.29886 89.548791) (xy 166.389296 89.342616) (xy 166.444564 89.124368) (xy 166.463156 88.9)
-				(xy 166.444564 88.675632) (xy 166.432876 88.629478) (xy 166.389297 88.457387) (xy 166.389296 88.457386)
-				(xy 166.389296 88.457384) (xy 166.29886 88.251209) (xy 166.254826 88.18381) (xy 166.175724 88.062734)
-				(xy 166.17572 88.062729) (xy 166.057434 87.934238) (xy 166.02324 87.897094) (xy 166.023239 87.897093)
-				(xy 166.023237 87.897091) (xy 165.933191 87.827005) (xy 165.845576 87.758811) (xy 165.812319 87.740813)
-				(xy 165.761929 87.690802) (xy 165.746576 87.621485) (xy 165.771136 87.554872) (xy 165.81232 87.519186)
-				(xy 165.845576 87.501189) (xy 166.02324 87.362906) (xy 166.175722 87.197268) (xy 166.29886 87.008791)
-				(xy 166.389296 86.802616) (xy 166.444564 86.584368) (xy 166.463156 86.36) (xy 166.444564 86.135632)
-				(xy 166.399164 85.956351) (xy 166.389297 85.917387) (xy 166.389296 85.917386) (xy 166.389296 85.917384)
-				(xy 166.29886 85.711209) (xy 166.290557 85.6985) (xy 166.175724 85.522734) (xy 166.17572 85.522729)
-				(xy 166.047076 85.382987) (xy 166.02324 85.357094) (xy 166.023239 85.357093) (xy 166.023237 85.357091)
-				(xy 165.935525 85.288822) (xy 165.845576 85.218811) (xy 165.812319 85.200813) (xy 165.761929 85.150802)
-				(xy 165.746576 85.081485) (xy 165.771136 85.014872) (xy 165.81232 84.979186) (xy 165.822217 84.97383)
-				(xy 165.845576 84.961189) (xy 166.02324 84.822906) (xy 166.175722 84.657268) (xy 166.29886 84.468791)
-				(xy 166.389296 84.262616) (xy 166.444564 84.044368) (xy 166.463156 83.82) (xy 166.444564 83.595632)
-				(xy 166.433574 83.552232) (xy 166.389297 83.377387) (xy 166.389296 83.377386) (xy 166.389296 83.377384)
-				(xy 166.29886 83.171209) (xy 166.234967 83.073413) (xy 166.175724 82.982734) (xy 166.17572 82.982729)
-				(xy 166.023237 82.817091) (xy 165.891612 82.714643) (xy 165.845576 82.678811) (xy 165.812319 82.660813)
-				(xy 165.761929 82.610802) (xy 165.746576 82.541485) (xy 165.771136 82.474872) (xy 165.81232 82.439186)
-				(xy 165.845576 82.421189) (xy 166.02324 82.282906) (xy 166.175722 82.117268) (xy 166.29886 81.928791)
-				(xy 166.389296 81.722616) (xy 166.444564 81.504368) (xy 166.463156 81.28) (xy 166.444564 81.055632)
-				(xy 166.436403 81.023405) (xy 166.389297 80.837387) (xy 166.389296 80.837386) (xy 166.389296 80.837384)
-				(xy 166.29886 80.631209) (xy 166.2722 80.590403) (xy 166.175724 80.442734) (xy 166.17572 80.442729)
-				(xy 166.023237 80.277091) (xy 165.921198 80.197671) (xy 165.845576 80.138811) (xy 165.839546 80.135548)
-				(xy 165.81232 80.120814) (xy 165.761929 80.070802) (xy 165.746576 80.001485) (xy 165.771136 79.934872)
-				(xy 165.81232 79.899186) (xy 165.845576 79.881189) (xy 166.02324 79.742906) (xy 166.175722 79.577268)
-				(xy 166.29886 79.388791) (xy 166.389296 79.182616) (xy 166.444564 78.964368) (xy 166.463156 78.74)
-				(xy 166.444564 78.515632) (xy 166.444562 78.515624) (xy 166.389297 78.297387) (xy 166.389296 78.297386)
-				(xy 166.389296 78.297384) (xy 166.29886 78.091209) (xy 166.265389 78.039978) (xy 166.175724 77.902734)
-				(xy 166.17572 77.902729) (xy 166.023237 77.737091) (xy 165.926787 77.662021) (xy 165.845576 77.598811)
-				(xy 165.812319 77.580813) (xy 165.761929 77.530802) (xy 165.746576 77.461485) (xy 165.771136 77.394872)
-				(xy 165.81232 77.359186) (xy 165.845576 77.341189) (xy 166.02324 77.202906) (xy 166.175722 77.037268)
-				(xy 166.29886 76.848791) (xy 166.389296 76.642616) (xy 166.444564 76.424368) (xy 166.463156 76.2)
-				(xy 166.444564 75.975632) (xy 166.43435 75.935299) (xy 166.389297 75.757387) (xy 166.389296 75.757386)
-				(xy 166.389296 75.757384) (xy 166.29886 75.551209) (xy 166.242177 75.464449) (xy 166.175724 75.362734)
-				(xy 166.17572 75.362729) (xy 166.023237 75.197091) (xy 165.941382 75.133381) (xy 165.845576 75.058811)
-				(xy 165.838951 75.055226) (xy 165.81232 75.040814) (xy 165.761929 74.990802) (xy 165.746576 74.921485)
-				(xy 165.771136 74.854872) (xy 165.81232 74.819186) (xy 165.845576 74.801189) (xy 166.02324 74.662906)
-				(xy 166.175722 74.497268) (xy 166.29886 74.308791) (xy 166.389296 74.102616) (xy 166.444564 73.884368)
-				(xy 166.463156 73.66) (xy 166.444564 73.435632) (xy 166.411456 73.304893) (xy 166.389297 73.217387)
-				(xy 166.389296 73.217386) (xy 166.389296 73.217384) (xy 166.29886 73.011209) (xy 166.285593 72.990902)
-				(xy 166.175724 72.822734) (xy 166.17572 72.822729) (xy 166.045384 72.681149) (xy 166.02324 72.657094)
-				(xy 166.023239 72.657093) (xy 166.023237 72.657091) (xy 165.969713 72.615432) (xy 165.928242 72.557807)
-				(xy 165.924508 72.486908) (xy 165.959698 72.425246) (xy 166.022639 72.392398) (xy 166.047104 72.39)
-				(xy 168.7585 72.39)
+				(xy 166.400887 92.536206) (xy 166.400889 92.536204) (xy 166.451989 92.399201) (xy 166.45469 92.374083)
+				(xy 166.458499 92.338649) (xy 166.4585 92.338632) (xy 166.4585 90.541367) (xy 166.458499 90.54135)
+				(xy 166.45199 90.480803) (xy 166.451988 90.480795) (xy 166.400889 90.343797) (xy 166.400887 90.343792)
+				(xy 166.313261 90.226738) (xy 166.196207 90.139112) (xy 166.196203 90.13911) (xy 166.081192 90.096213)
+				(xy 166.024356 90.053667) (xy 165.999546 89.987146) (xy 166.014638 89.917772) (xy 166.032525 89.89282)
+				(xy 166.175714 89.737277) (xy 166.175724 89.737265) (xy 166.188641 89.717494) (xy 166.29886 89.548791)
+				(xy 166.389296 89.342616) (xy 166.444564 89.124368) (xy 166.463156 88.9) (xy 166.444564 88.675632)
+				(xy 166.432876 88.629478) (xy 166.389297 88.457387) (xy 166.389296 88.457386) (xy 166.389296 88.457384)
+				(xy 166.29886 88.251209) (xy 166.254826 88.18381) (xy 166.175724 88.062734) (xy 166.17572 88.062729)
+				(xy 166.057434 87.934238) (xy 166.02324 87.897094) (xy 166.023239 87.897093) (xy 166.023237 87.897091)
+				(xy 165.933191 87.827005) (xy 165.845576 87.758811) (xy 165.812319 87.740813) (xy 165.761929 87.690802)
+				(xy 165.746576 87.621485) (xy 165.771136 87.554872) (xy 165.81232 87.519186) (xy 165.845576 87.501189)
+				(xy 166.02324 87.362906) (xy 166.175722 87.197268) (xy 166.29886 87.008791) (xy 166.389296 86.802616)
+				(xy 166.444564 86.584368) (xy 166.463156 86.36) (xy 166.444564 86.135632) (xy 166.399164 85.956351)
+				(xy 166.389297 85.917387) (xy 166.389296 85.917386) (xy 166.389296 85.917384) (xy 166.29886 85.711209)
+				(xy 166.290557 85.6985) (xy 166.175724 85.522734) (xy 166.17572 85.522729) (xy 166.047076 85.382987)
+				(xy 166.02324 85.357094) (xy 166.023239 85.357093) (xy 166.023237 85.357091) (xy 165.935525 85.288822)
+				(xy 165.845576 85.218811) (xy 165.812319 85.200813) (xy 165.761929 85.150802) (xy 165.746576 85.081485)
+				(xy 165.771136 85.014872) (xy 165.81232 84.979186) (xy 165.845576 84.961189) (xy 166.02324 84.822906)
+				(xy 166.175722 84.657268) (xy 166.29886 84.468791) (xy 166.389296 84.262616) (xy 166.444564 84.044368)
+				(xy 166.463156 83.82) (xy 166.444564 83.595632) (xy 166.433574 83.552232) (xy 166.389297 83.377387)
+				(xy 166.389296 83.377386) (xy 166.389296 83.377384) (xy 166.29886 83.171209) (xy 166.234967 83.073413)
+				(xy 166.175724 82.982734) (xy 166.17572 82.982729) (xy 166.023237 82.817091) (xy 165.891612 82.714643)
+				(xy 165.845576 82.678811) (xy 165.812319 82.660813) (xy 165.761929 82.610802) (xy 165.746576 82.541485)
+				(xy 165.771136 82.474872) (xy 165.81232 82.439186) (xy 165.845576 82.421189) (xy 166.02324 82.282906)
+				(xy 166.175722 82.117268) (xy 166.29886 81.928791) (xy 166.389296 81.722616) (xy 166.444564 81.504368)
+				(xy 166.463156 81.28) (xy 166.444564 81.055632) (xy 166.436403 81.023405) (xy 166.389297 80.837387)
+				(xy 166.389296 80.837386) (xy 166.389296 80.837384) (xy 166.29886 80.631209) (xy 166.2722 80.590403)
+				(xy 166.175724 80.442734) (xy 166.17572 80.442729) (xy 166.023237 80.277091) (xy 165.921198 80.197671)
+				(xy 165.845576 80.138811) (xy 165.839546 80.135548) (xy 165.81232 80.120814) (xy 165.761929 80.070802)
+				(xy 165.746576 80.001485) (xy 165.771136 79.934872) (xy 165.81232 79.899186) (xy 165.845576 79.881189)
+				(xy 166.02324 79.742906) (xy 166.175722 79.577268) (xy 166.29886 79.388791) (xy 166.389296 79.182616)
+				(xy 166.444564 78.964368) (xy 166.463156 78.74) (xy 166.444564 78.515632) (xy 166.444562 78.515624)
+				(xy 166.389297 78.297387) (xy 166.389296 78.297386) (xy 166.389296 78.297384) (xy 166.29886 78.091209)
+				(xy 166.265389 78.039978) (xy 166.175724 77.902734) (xy 166.17572 77.902729) (xy 166.023237 77.737091)
+				(xy 165.926787 77.662021) (xy 165.845576 77.598811) (xy 165.812319 77.580813) (xy 165.761929 77.530802)
+				(xy 165.746576 77.461485) (xy 165.771136 77.394872) (xy 165.81232 77.359186) (xy 165.845576 77.341189)
+				(xy 166.02324 77.202906) (xy 166.175722 77.037268) (xy 166.29886 76.848791) (xy 166.389296 76.642616)
+				(xy 166.444564 76.424368) (xy 166.463156 76.2) (xy 166.444564 75.975632) (xy 166.43435 75.935299)
+				(xy 166.389297 75.757387) (xy 166.389296 75.757386) (xy 166.389296 75.757384) (xy 166.29886 75.551209)
+				(xy 166.242177 75.464449) (xy 166.175724 75.362734) (xy 166.17572 75.362729) (xy 166.023237 75.197091)
+				(xy 165.941382 75.133381) (xy 165.845576 75.058811) (xy 165.838951 75.055226) (xy 165.81232 75.040814)
+				(xy 165.761929 74.990802) (xy 165.746576 74.921485) (xy 165.771136 74.854872) (xy 165.81232 74.819186)
+				(xy 165.845576 74.801189) (xy 166.02324 74.662906) (xy 166.175722 74.497268) (xy 166.29886 74.308791)
+				(xy 166.389296 74.102616) (xy 166.444564 73.884368) (xy 166.463156 73.66) (xy 166.444564 73.435632)
+				(xy 166.411456 73.304893) (xy 166.389297 73.217387) (xy 166.389296 73.217386) (xy 166.389296 73.217384)
+				(xy 166.29886 73.011209) (xy 166.285593 72.990902) (xy 166.175724 72.822734) (xy 166.17572 72.822729)
+				(xy 166.045384 72.681149) (xy 166.02324 72.657094) (xy 166.023239 72.657093) (xy 166.023237 72.657091)
+				(xy 165.969713 72.615432) (xy 165.928242 72.557807) (xy 165.924508 72.486908) (xy 165.959698 72.425246)
+				(xy 166.022639 72.392398) (xy 166.047104 72.39) (xy 168.7585 72.39)
 			)
 		)
 		(filled_polygon
@@ -51716,7 +54517,7 @@
 				(xy 134.404419 87.5618) (xy 134.2843 87.681919) (xy 134.284295 87.681925) (xy 134.195107 87.82652)
 				(xy 134.141669 87.987789) (xy 134.141668 87.987793) (xy 134.1315 88.087318) (xy 130.99851 88.087318)
 				(xy 130.99851 87.447117) (xy 130.998509 87.447113) (xy 130.99799 87.444502) (xy 130.974165 87.324725)
-				(xy 130.947581 87.260545) (xy 130.926411 87.209435) (xy 130.857082 87.105677) (xy 129.806722 86.055318)
+				(xy 130.950876 87.2685) (xy 130.926411 87.209435) (xy 130.857082 87.105677) (xy 129.806722 86.055318)
 				(xy 134.1315 86.055318) (xy 134.1315 86.106) (xy 134.823 86.106) (xy 134.823 84.582) (xy 134.131501 84.582)
 				(xy 134.131501 84.632673) (xy 134.141668 84.732208) (xy 134.195107 84.893478) (xy 134.284295 85.038074)
 				(xy 134.2843 85.03808) (xy 134.404419 85.158199) (xy 134.404431 85.158208) (xy 134.531781 85.23676)
@@ -51892,61 +54693,12 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 126.157672 83.000502) (xy 126.178646 83.017404) (xy 126.307219 83.145977) (xy 126.390771 83.204481)
-				(xy 126.435099 83.259936) (xy 126.4445 83.307693) (xy 126.4445 83.519838) (xy 126.424498 83.587959)
-				(xy 126.407595 83.608933) (xy 126.403688 83.612839) (xy 126.403684 83.612844) (xy 126.314672 83.760088)
-				(xy 126.31467 83.760093) (xy 126.263486 83.924353) (xy 126.257 83.995737) (xy 126.257 84.660261)
-				(xy 126.263486 84.731646) (xy 126.263486 84.731647) (xy 126.31467 84.895906) (xy 126.314672 84.895911)
-				(xy 126.314673 84.895913) (xy 126.375973 84.997315) (xy 126.403684 85.043155) (xy 126.403688 85.04316)
-				(xy 126.525339 85.164811) (xy 126.525348 85.164818) (xy 126.643865 85.236464) (xy 126.691814 85.288822)
-				(xy 126.703844 85.358792) (xy 126.676135 85.424159) (xy 126.643865 85.45212) (xy 126.525665 85.523573)
-				(xy 126.525649 85.523586) (xy 126.404086 85.645149) (xy 126.404078 85.645159) (xy 126.315133 85.792293)
-				(xy 126.263981 85.956446) (xy 126.263981 85.956447) (xy 126.2575 86.027777) (xy 126.2575 86.106)
-				(xy 127.0395 86.106) (xy 127.107621 86.126002) (xy 127.154114 86.179658) (xy 127.1655 86.232) (xy 127.1655 86.36)
-				(xy 127.2935 86.36) (xy 127.361621 86.380002) (xy 127.408114 86.433658) (xy 127.4195 86.486) (xy 127.4195 87.342999)
-				(xy 127.422722 87.342999) (xy 127.494053 87.336518) (xy 127.658206 87.285366) (xy 127.80534 87.196421)
-				(xy 127.80535 87.196413) (xy 127.901051 87.100713) (xy 127.963363 87.066687) (xy 128.034178 87.071752)
-				(xy 128.079241 87.100713) (xy 128.175339 87.196811) (xy 128.175344 87.196815) (xy 128.175345 87.196816)
-				(xy 128.322587 87.285827) (xy 128.486851 87.337013) (xy 128.558235 87.3435) (xy 129.072764 87.343499)
-				(xy 129.144149 87.337013) (xy 129.187668 87.323451) (xy 129.258652 87.322282) (xy 129.314246 87.354651)
-				(xy 129.493084 87.533489) (xy 129.636 87.676404) (xy 129.670025 87.738717) (xy 129.664961 87.809532)
-				(xy 129.622414 87.866368) (xy 129.555894 87.891179) (xy 129.546905 87.8915) (xy 125.365575 87.8915)
-				(xy 125.350311 87.889884) (xy 125.350268 87.890312) (xy 125.239553 87.879) (xy 124.188455 87.879)
-				(xy 124.084574 87.889612) (xy 123.916259 87.945386) (xy 123.87191 87.972741) (xy 123.805764 87.9915)
-				(xy 123.525373 87.9915) (xy 123.457252 87.971498) (xy 123.410759 87.917842) (xy 123.400655 87.847568)
-				(xy 123.430149 87.782988) (xy 123.436278 87.776405) (xy 123.529024 87.683658) (xy 123.52903 87.683652)
-				(xy 123.622115 87.532738) (xy 123.677887 87.364426) (xy 123.685917 87.285829) (xy 123.6885 87.260553)
-				(xy 123.6885 87.260545) (xy 123.6885 86.692221) (xy 126.257501 86.692221) (xy 126.263981 86.763553)
-				(xy 126.315133 86.927706) (xy 126.404078 87.07484) (xy 126.404086 87.07485) (xy 126.525649 87.196413)
-				(xy 126.525659 87.196421) (xy 126.672793 87.285366) (xy 126.836946 87.336518) (xy 126.908281 87.342999)
-				(xy 126.911499 87.342999) (xy 126.9115 87.342998) (xy 126.9115 86.614) (xy 126.257501 86.614) (xy 126.257501 86.692221)
-				(xy 123.6885 86.692221) (xy 123.688499 85.459455) (xy 123.677887 85.355574) (xy 123.666693 85.321791)
-				(xy 123.622115 85.187262) (xy 123.52903 85.036348) (xy 123.529028 85.036346) (xy 123.525177 85.030102)
-				(xy 123.527276 85.028807) (xy 123.505102 84.97383) (xy 123.5045 84.961529) (xy 123.5045 84.851165)
-				(xy 123.524502 84.783044) (xy 123.578158 84.736551) (xy 123.648432 84.726447) (xy 123.713012 84.755941)
-				(xy 123.719595 84.76207) (xy 123.765654 84.808129) (xy 123.76566 84.808134) (xy 123.916474 84.901157)
-				(xy 124.084678 84.956893) (xy 124.084681 84.956894) (xy 124.188483 84.967499) (xy 124.188483 84.9675)
-				(xy 124.46 84.9675) (xy 124.968 84.9675) (xy 125.239517 84.9675) (xy 125.239516 84.967499) (xy 125.343318 84.956894)
-				(xy 125.343321 84.956893) (xy 125.511525 84.901157) (xy 125.662339 84.808134) (xy 125.662345 84.808129)
-				(xy 125.787629 84.682845) (xy 125.787634 84.682839) (xy 125.880657 84.532025) (xy 125.936393 84.363821)
-				(xy 125.936394 84.363818) (xy 125.946999 84.260016) (xy 125.947 84.260016) (xy 125.947 84.2135)
-				(xy 124.968 84.2135) (xy 124.968 84.9675) (xy 124.46 84.9675) (xy 124.46 84.0855) (xy 124.480002 84.017379)
-				(xy 124.533658 83.970886) (xy 124.586 83.9595) (xy 124.714 83.9595) (xy 124.714 83.8315) (xy 124.734002 83.763379)
-				(xy 124.787658 83.716886) (xy 124.84 83.7055) (xy 125.947 83.7055) (xy 125.947 83.658983) (xy 125.936394 83.555181)
-				(xy 125.936393 83.555178) (xy 125.880657 83.386974) (xy 125.787634 83.23616) (xy 125.787629 83.236154)
-				(xy 125.74707 83.195595) (xy 125.713044 83.133283) (xy 125.718109 83.062468) (xy 125.760656 83.005632)
-				(xy 125.827176 82.980821) (xy 125.836165 82.9805) (xy 126.089551 82.9805)
-			)
-		)
-		(filled_polygon
-			(layer "F.Cu")
-			(pts
 				(xy 142.005581 86.988502) (xy 142.052074 87.042158) (xy 142.06346 87.0945) (xy 142.06346 87.6575)
 				(xy 142.043458 87.725621) (xy 141.989802 87.772114) (xy 141.93746 87.7835) (xy 140.939856 87.7835)
 				(xy 140.871735 87.763498) (xy 140.832028 87.722685) (xy 140.80432 87.676851) (xy 140.804318 87.676848)
 				(xy 140.804316 87.676845) (xy 140.804313 87.676842) (xy 140.80431 87.676838) (xy 140.68266 87.555188)
 				(xy 140.682651 87.555181) (xy 140.564618 87.483828) (xy 140.516669 87.43147) (xy 140.504639 87.3615)
-				(xy 140.532348 87.296133) (xy 140.564618 87.268172) (xy 140.611951 87.239558) (xy 140.682655 87.196816)
+				(xy 140.532348 87.296133) (xy 140.564618 87.268172) (xy 140.642082 87.221343) (xy 140.682655 87.196816)
 				(xy 140.804316 87.075155) (xy 140.81378 87.0595) (xy 140.832028 87.029315) (xy 140.884386 86.981367)
 				(xy 140.939856 86.9685) (xy 141.93746 86.9685)
 			)
@@ -51958,10 +54710,10 @@
 				(xy 142.778356 85.151595) (xy 142.215356 85.714595) (xy 142.153044 85.748621) (xy 142.126261 85.7515)
 				(xy 140.939856 85.7515) (xy 140.871735 85.731498) (xy 140.832028 85.690685) (xy 140.80432 85.644851)
 				(xy 140.804318 85.644848) (xy 140.804316 85.644845) (xy 140.804313 85.644842) (xy 140.80431 85.644838)
-				(xy 140.68266 85.523188) (xy 140.682655 85.523184) (xy 140.577234 85.459455) (xy 140.551866 85.444119)
-				(xy 140.503919 85.391761) (xy 140.491889 85.321791) (xy 140.519598 85.256425) (xy 140.551863 85.228467)
-				(xy 140.657155 85.164816) (xy 140.778816 85.043155) (xy 140.790084 85.024515) (xy 140.806528 84.997315)
-				(xy 140.858886 84.949367) (xy 140.914356 84.9365) (xy 142.689261 84.9365)
+				(xy 140.68266 85.523188) (xy 140.682655 85.523184) (xy 140.551867 85.44412) (xy 140.503919 85.391761)
+				(xy 140.491889 85.321791) (xy 140.519598 85.256425) (xy 140.551863 85.228467) (xy 140.657155 85.164816)
+				(xy 140.778816 85.043155) (xy 140.795914 85.014872) (xy 140.806528 84.997315) (xy 140.858886 84.949367)
+				(xy 140.914356 84.9365) (xy 142.689261 84.9365)
 			)
 		)
 		(filled_polygon
@@ -53361,30 +56113,30 @@
 				(xy 142.236 104.306209) (xy 142.236 104.961) (xy 142.216315 105.028039) (xy 142.163511 105.073794)
 				(xy 142.112 105.085) (xy 141.86 105.085) (xy 141.792961 105.065315) (xy 141.747206 105.012511) (xy 141.736 104.961)
 				(xy 141.736 104.30621) (xy 141.735999 104.306209) (xy 141.715087 104.307854) (xy 141.715081 104.307855)
-				(xy 141.559809 104.352966) (xy 141.559797 104.352971) (xy 141.548744 104.359508) (xy 141.481019 104.376688)
-				(xy 141.414758 104.354526) (xy 141.411315 104.35204) (xy 141.392089 104.337647) (xy 141.392086 104.337645)
-				(xy 141.257379 104.287403) (xy 141.257372 104.287401) (xy 141.197844 104.281) (xy 140.8 104.281)
-				(xy 140.8 105.357) (xy 140.780315 105.424039) (xy 140.727511 105.469794) (xy 140.676 105.481) (xy 140.424 105.481)
-				(xy 140.356961 105.461315) (xy 140.311206 105.408511) (xy 140.3 105.357) (xy 140.3 104.281) (xy 139.902155 104.281)
-				(xy 139.842627 104.287401) (xy 139.842616 104.287404) (xy 139.755491 104.319899) (xy 139.685799 104.324883)
-				(xy 139.668825 104.319899) (xy 139.559201 104.27901) (xy 139.498654 104.2725) (xy 139.498638 104.2725)
-				(xy 138.201362 104.2725) (xy 138.201345 104.2725) (xy 138.140797 104.279011) (xy 138.140795 104.279011)
-				(xy 138.003793 104.330111) (xy 138.003793 104.330112) (xy 137.980758 104.347356) (xy 137.915294 104.371772)
-				(xy 137.847021 104.35692) (xy 137.843332 104.354822) (xy 137.840201 104.35297) (xy 137.840198 104.352969)
-				(xy 137.684909 104.307854) (xy 137.684912 104.307854) (xy 137.664 104.306209) (xy 137.664 104.961)
-				(xy 137.644315 105.028039) (xy 137.591511 105.073794) (xy 137.54 105.085) (xy 137.288 105.085) (xy 137.220961 105.065315)
-				(xy 137.175206 105.012511) (xy 137.164 104.961) (xy 137.164 104.30621) (xy 137.163999 104.306209)
-				(xy 137.143087 104.307854) (xy 137.143081 104.307855) (xy 136.987809 104.352966) (xy 136.987804 104.352968)
-				(xy 136.848625 104.435278) (xy 136.848616 104.435285) (xy 136.734285 104.549616) (xy 136.734278 104.549625)
-				(xy 136.651968 104.688804) (xy 136.651966 104.688809) (xy 136.614576 104.817509) (xy 136.57697 104.876394)
-				(xy 136.513498 104.905601) (xy 136.444311 104.895855) (xy 136.391377 104.850251) (xy 136.371501 104.783268)
-				(xy 136.3715 104.782914) (xy 136.3715 101.85261) (xy 136.391185 101.785571) (xy 136.407819 101.764929)
-				(xy 137.096329 101.076419) (xy 137.157652 101.042934) (xy 137.18401 101.0401) (xy 137.821446 101.0401)
-				(xy 137.888485 101.059785) (xy 137.894331 101.063782) (xy 137.973243 101.121115) (xy 137.973245 101.121116)
-				(xy 137.973248 101.121118) (xy 138.147712 101.198794) (xy 138.334513 101.2385) (xy 138.525487 101.2385)
-				(xy 138.712288 101.198794) (xy 138.886752 101.121118) (xy 139.041253 101.008866) (xy 139.16904 100.866944)
-				(xy 139.264527 100.701556) (xy 139.323542 100.519928) (xy 139.343504 100.33) (xy 139.332411 100.224459)
-				(xy 139.34498 100.155732) (xy 139.392712 100.104708) (xy 139.455732 100.0875) (xy 139.944268 100.0875)
+				(xy 141.559809 104.352966) (xy 141.559801 104.352969) (xy 141.520814 104.376026) (xy 141.45309 104.393207)
+				(xy 141.386828 104.371047) (xy 141.383385 104.36856) (xy 141.342092 104.337649) (xy 141.342086 104.337645)
+				(xy 141.207379 104.287403) (xy 141.207372 104.287401) (xy 141.147844 104.281) (xy 140.75 104.281)
+				(xy 140.75 105.357) (xy 140.730315 105.424039) (xy 140.677511 105.469794) (xy 140.626 105.481) (xy 140.374 105.481)
+				(xy 140.306961 105.461315) (xy 140.261206 105.408511) (xy 140.25 105.357) (xy 140.25 104.281) (xy 139.852155 104.281)
+				(xy 139.792627 104.287401) (xy 139.792621 104.287403) (xy 139.755491 104.301251) (xy 139.6858 104.306234)
+				(xy 139.668826 104.30125) (xy 139.609201 104.27901) (xy 139.548654 104.2725) (xy 139.548638 104.2725)
+				(xy 138.251362 104.2725) (xy 138.251345 104.2725) (xy 138.190797 104.279011) (xy 138.190795 104.279011)
+				(xy 138.053795 104.330111) (xy 138.008691 104.363876) (xy 137.943226 104.388292) (xy 137.874954 104.37344)
+				(xy 137.87126 104.37134) (xy 137.840195 104.352968) (xy 137.84019 104.352966) (xy 137.684918 104.307855)
+				(xy 137.684912 104.307854) (xy 137.664 104.306209) (xy 137.664 104.961) (xy 137.644315 105.028039)
+				(xy 137.591511 105.073794) (xy 137.54 105.085) (xy 137.288 105.085) (xy 137.220961 105.065315) (xy 137.175206 105.012511)
+				(xy 137.164 104.961) (xy 137.164 104.30621) (xy 137.163999 104.306209) (xy 137.143087 104.307854)
+				(xy 137.143081 104.307855) (xy 136.987809 104.352966) (xy 136.987804 104.352968) (xy 136.848625 104.435278)
+				(xy 136.848616 104.435285) (xy 136.734285 104.549616) (xy 136.734278 104.549625) (xy 136.651968 104.688804)
+				(xy 136.651966 104.688809) (xy 136.614576 104.817509) (xy 136.57697 104.876394) (xy 136.513498 104.905601)
+				(xy 136.444311 104.895855) (xy 136.391377 104.850251) (xy 136.371501 104.783268) (xy 136.3715 104.782914)
+				(xy 136.3715 101.85261) (xy 136.391185 101.785571) (xy 136.407819 101.764929) (xy 137.096329 101.076419)
+				(xy 137.157652 101.042934) (xy 137.18401 101.0401) (xy 137.821446 101.0401) (xy 137.888485 101.059785)
+				(xy 137.894331 101.063782) (xy 137.973243 101.121115) (xy 137.973245 101.121116) (xy 137.973248 101.121118)
+				(xy 138.147712 101.198794) (xy 138.334513 101.2385) (xy 138.525487 101.2385) (xy 138.712288 101.198794)
+				(xy 138.886752 101.121118) (xy 139.041253 101.008866) (xy 139.16904 100.866944) (xy 139.264527 100.701556)
+				(xy 139.323542 100.519928) (xy 139.343504 100.33) (xy 139.332411 100.224459) (xy 139.34498 100.155732)
+				(xy 139.392712 100.104708) (xy 139.455732 100.0875) (xy 139.944268 100.0875)
 			)
 		)
 		(filled_polygon
