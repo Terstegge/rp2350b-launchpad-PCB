@@ -8521,7 +8521,7 @@
 		)
 		(uuid "134f1083-39d0-45ab-b5c0-a42d273dc410")
 	)
-	(label "GPIO8"
+	(label "GPIO1"
 		(at 270.51 60.96 180)
 		(effects
 			(font
@@ -8671,8 +8671,8 @@
 		)
 		(uuid "4647ca58-a704-4446-b335-19f7648e5596")
 	)
-	(label "GPIO8"
-		(at 149.86 60.96 180)
+	(label "GPIO2"
+		(at 149.86 45.72 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8992,7 +8992,7 @@
 		(uuid "8eb877c1-322b-4aa4-a873-3b64f2ec6729")
 	)
 	(label "I2C0_SCL"
-		(at 149.86 43.18 180)
+		(at 149.86 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9131,7 +9131,7 @@
 		)
 		(uuid "a8ad8b0f-cab1-4c54-970a-6112604cc925")
 	)
-	(label "GPIO9"
+	(label "GPIO2"
 		(at 241.3 60.96 0)
 		(effects
 			(font
@@ -9351,8 +9351,8 @@
 		)
 		(uuid "db3d14e8-7f8e-4a02-bbcd-e5e7ff025a16")
 	)
-	(label "GPIO9"
-		(at 149.86 63.5 180)
+	(label "GPIO1"
+		(at 149.86 43.18 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9392,7 +9392,7 @@
 		(uuid "e694cb42-2c21-4163-8ab4-401e78de171a")
 	)
 	(label "I2C0_SDA"
-		(at 149.86 40.64 180)
+		(at 149.86 60.96 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9412,7 +9412,7 @@
 		(uuid "e9f89069-b075-494c-8f5b-24d64897a8f9")
 	)
 	(label "~{RAM_CS}"
-		(at 149.86 45.72 180)
+		(at 149.86 40.64 180)
 		(effects
 			(font
 				(size 1.27 1.27)

@@ -494,7 +494,7 @@
       "idf": "",
       "netlist": "rp2350b-launchpad-PCB.net",
       "plot": "gerber/",
-      "pos_files": "",
+      "pos_files": "./",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -535,7 +535,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,
