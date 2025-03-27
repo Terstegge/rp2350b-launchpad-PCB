@@ -4366,7 +4366,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2290"
+		(property "JLCPCB Part #" "C84269"
 			(at 58.42 92.71 0)
 			(effects
 				(font
@@ -5021,7 +5021,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2290"
+		(property "JLCPCB Part #" "C84269"
 			(at 232.41 102.87 0)
 			(effects
 				(font
