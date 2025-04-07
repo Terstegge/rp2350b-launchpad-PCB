@@ -35,12 +35,13 @@ features:
 Why was this board designed? I have been using the MSP432 Launchpad from TI for
 quite a while in university classes teaching microcontroller technology.
 Unfortunately TI has stopped producing all MSP432-related products. Still we
-have purchased lots of TI boosterpack-boards like the Educational Boosterpack MK II.
-The be able to use these Boosterpacks also in the future, a new Launchpad had
-to be found. The RP2350B is a very interesting microcontroller, and, what is
-quite important for educational purposes, it has excellent documentation.
-So this board came to life. As far as I know this is the only RP2350 board
-including a picoprobe debugger.
+have lots of TI boosterpack-boards like the Educational Boosterpack MK II.
+To be able to use these Boosterpacks also in the future, a new Launchpad had
+to be found or designed. The RP2350B is a very interesting microcontroller,
+and, what is quite important for educational purposes, it has excellent
+documentation. So this board came to life. As far as I know this is the only
+RP2350 board including a picoprobe debugger, which makes programming for the
+students a lot easier.
 
 ![RP2040 Lauchpad picture 1](images/rp2350-lp-front.jpg)
 ![RP2040 Lauchpad picture 1](images/rp2350-lp-back.jpg)
