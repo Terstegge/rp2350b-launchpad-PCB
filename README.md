@@ -28,6 +28,7 @@ features:
   These three options are selectble with a small switch
 - Integrated LiPo charger. The battery will be charged when the board is
   powered from the upper USB-C socket. Charging is signalled with a LED.
+  The battery voltage can be read by the RP2350 using ADC channel 7.
 - In all power scenarios, 3.3V and 5V are available. When using the
   battery as the power source, the 5V supply is generated with a step-up
   converter.
