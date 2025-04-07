@@ -1,4 +1,4 @@
-# RP2350B-Launchpad PCB
+# RP2350 Launchpad
 
 This repository contains the KiCad design files for a TI-style Launchpad
 board with the RP2350B microcontroller. The board has the following
