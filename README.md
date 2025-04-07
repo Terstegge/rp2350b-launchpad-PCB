@@ -24,6 +24,7 @@ features:
   * the upper USB-C socket connected to the debugger
   * a connected 3,7V LiPo battery
   * the lower USB-C socket connected to the target
+
   These three options are selectble by a small switch
 - Integrated LiPo charger. The battery will be charged when the board is
   powered from the upper USB-C socket. Charging is signalled by a LED.
